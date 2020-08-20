@@ -35,8 +35,8 @@ resource-4-url: https://www.grants.gov/
 resource-5-name: Grants Single Audit and Risk Management Industry Demonstration Days
 resource-5-url: https://www.fbo.gov/index.php?s=opportunity&mode=form&id=08943a6b0f93b40afab0bce207edcbe3&tab=core&_cview=1
 
-resource-6-name: 2019 Compliance Supplement
-resource-6-url:  https://www.whitehouse.gov/wp-content/uploads/2019/07/2-CFR_Part-200_Appendix-XI_Compliance-Supplement_2019_FINAL_07.01.19.pdf
+resource-6-name: 2020 Compliance Supplement
+resource-6-url: "/CAP/2020-Compliance-Supplement_FINAL_08.11.20.pdf"
 
 resource-7-name: Overview of Version 1.0 Grants Management Standard Data Elements
 resource-7-url:  https://www.performance.gov/CAP/overview-grants-data-standards.pdf
