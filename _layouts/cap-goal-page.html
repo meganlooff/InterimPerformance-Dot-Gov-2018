@@ -24,10 +24,6 @@ layout: navigation_PMA
           {% endif %}-->
       <img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" id="cap-icon">{{ page.title }}<br><span style="font-size:27px;">{{ page.sub-title }}</span></h1>
 
-         {% if page.title == "Leveraging Data as a Strategic Asset" %}
-         <a id ="mobile-button1" class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#d6d7d9;color:black;font-weight:600;font-size: 14px;height: 36px;" href="https://strategy.data.gov/action-plan/">Read the 2020 Action Plan</a>
-         {% endif %}
-
       <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;font-weight:600;font-size: 14px;height: 36px;" href="#KPI">News & Events</a>
 
    {% if page.KPI %}
@@ -352,25 +348,6 @@ blockquote-CAP cite {
           </div>
         </li>
         {% endif %}
-
-           {% if page.FDSA %}
-           <li id="fds-actions13-14">
-
-               <button  class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
-                        aria-expanded="true"
-                        aria-controls="a10">
-                   <img class="usa-media_block-img" src="{{ site.baseurl }}/img/action-plan-blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Federal Data Strategy Actions 13 &amp; 14
-               </button>
-               <div id="a10" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
-                   <div class="usa-grid usa-graphic_list-row">
-                       <div class="usa-width-one-whole usa-media_block">
-                          <p> <br>The Federal Government is one of the biggest producers and users of data in the world. Help us lead the way in developing Data Skills while reinforcing Data Ethics.</br></br> The Federal Data Strategy 2020 Action Plan tasked the General Services Administration (GSA) with developing a Curated Data Skills Catalog (Action 13) and a Data Ethics Framework (Action 14).<br /> </br> <b>Action 13</b>: The Curated Data Skills Catalog (Catalog) is to be used to help agencies develop competencies for managing data as a strategic asset and making data-driven decisions. </br></br> <a href=""> Read the Draft Catalog </a><br /> </br><b>Action 14:</b> The Data Ethics Framework (Framework) is to be used by agency staff, managers, and leaders to help guide the ethical management and use of data throughout the data lifecycle.</br> </br> <a href="">Read the Draft Framework</a> <br /> </br> <b>Your Opportunity to Comment:</b> The GSA is requesting feedback to further build and refine the Catalog and the Framework. Both the draft Catalog and the draft Framework will be available for Open Comment from <b>Wednesday, September 2<sup>nd</sup> to Wednesday, September 16<sup>th</sup> , 2020.</b></p>
-                           <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#e31c3d;color:#ffffff;" href="https://touchpoints.app.cloud.gov/touchpoints/ed061583/submit" target="_blank"><b>Provide comment</b></a>
-                       </div>
-
-                   </div>
-           </li>
-           {% endif %}
 
           <li>
           <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"

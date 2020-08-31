@@ -28,13 +28,10 @@ resource-7-name: Data Innovation Event Playbook
 resource-7-url: https://resources.data.gov/assets/documents/data-innovation-event-playbook.pdf
 
 
-FDSA: yes
-FDSA-title:
-
 #use this section if you want to highlight something other than the quarterly action plan
-featured-box: Comments Welcome&#58; Federal Data Strategy Actions 13 &amp; 14
-featured-box-url: https://www.performance.gov/CAP/leveragingdata#fds-actions13-14 
-featured-box-button: Comment Now
+featured-box: Federal Data Strategy 2020 Action Plan
+featured-box-url: https://strategy.data.gov/action-plan/ 
+featured-box-button: Read the Action Plan
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Using data in a new and collaborative manner will drive ideas, spur innovation, and solve important problems."
