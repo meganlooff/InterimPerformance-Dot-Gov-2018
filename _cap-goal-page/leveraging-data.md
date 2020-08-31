@@ -32,9 +32,9 @@ FDSA: yes
 FDSA-title:
 
 #use this section if you want to highlight something other than the quarterly action plan
-featured-box: Federal Data Strategy Actions 13 &amp; 14
-featured-box-url: https://touchpoints.app.cloud.gov/touchpoints/ed061583/submit
-featured-box-button: Comment now
+featured-box: Comments Welcome&#58; Federal Data Strategy Actions 13 &amp; 14
+featured-box-url: https://www.performance.gov/CAP/leveragingdata#fds-actions13-14 
+featured-box-button: Comment Now
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Using data in a new and collaborative manner will drive ideas, spur innovation, and solve important problems."
