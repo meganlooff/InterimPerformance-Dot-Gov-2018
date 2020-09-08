@@ -4,7 +4,7 @@ tumblr_url:
 
 title: "The Liberation of Federal Employees from Low-Value Work"
 
-rating: "0"
+rating: "1"
 
 permalink: /burden-reduction-post/
 
