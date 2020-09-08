@@ -35,7 +35,7 @@ This blog post contains the following <a href="{{site.baseurl}}/CAP/low-value-to
 
 <hr>
 
-<h3><a id="significant"></a>Significant Progress Made in the Shift From Low to High Value Work</h3>
+<h3><a id="significant"></a>Significant Progress Made in the Shift From Low to High-Value Work</h3>
 
 As a key component of the [President’s Management Agenda (PMA)](https://www.performance.gov/PMA/PMA.html), the CAP Goal focused on Shifting from Low-Value to High-Value Work pursues the critical mission to eliminate outdated and redundant requirements. The Shifting from Low-Value to High-Value Goal team has produced a number of recent accomplishments, including:
 * *Savings*. Billions of dollars in realized and anticipated savings, and hundreds of thousands of Full -Time Employee (FTE) hours shifted to higher-value work based on over 100 transformation initiatives in agencies.  Highlights include:
