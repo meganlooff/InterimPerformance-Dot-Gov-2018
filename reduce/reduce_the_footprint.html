@@ -3,6 +3,8 @@ title: "Reduce the Footprint"
 layout: navigation
 agency_dir: reduce
 ---
+<script type="text/javascript" src="https://d3js.org/d3.v4.js"></script>
+
 
 <h1>Reduce the Footprint Policy (RTF)</h1>
 <p>OMB Memorandum No. 2015-01 issued the RTF policy. The <a href="https://www.whitehouse.gov/wp-content/uploads/2017/11/m-15.01Reduce-the-Footprint-Policy.pdf">Reduce the Footprint</a> policy required the Chief Financial Officers (CFO) Act agencies to submit annual Real Property Efficiency Plans (Plan) to OMB that: (1) set annual square foot (SF) reduction targets for federal domestic buildings over a rolling five-year period; (2) adopt an office space design standard to optimize federal domestic office space usage; and, (3) maintain agencies’ office and warehouse portfolios below their fiscal year (FY) 2015 RTF baselines. Under the RTF policy, OMB has established government-wide policy to use property as efficiently as possible and to reduce agency portfolios though annual reduction targets.  </p>
@@ -17,14 +19,31 @@ agency_dir: reduce
 
 <h2>The Metrics</h2>
 
-<a id ="mobile-button" class="usa-button usa-button-secondary" href="#KPI">Bucket 1</a>
-<a id ="mobile-button" class="usa-button usa-button-secondary" href="#KPI">Bucket 2</a>
-<a id ="mobile-button" class="usa-button usa-button-secondary" href="#KPI">Bucket 3</a>
-<a id ="mobile-button" class="usa-button usa-button-secondary" href="#KPI">Bucket 4</a>
-<a id ="mobile-button" class="usa-button usa-button-secondary" href="#KPI">Bucket 5</a>
-<a id ="mobile-button" class="usa-button usa-button-secondary" href="#KPI">Bucket 6</a>
+<!--<a id ="mobile-button" class="usa-button usa-button-secondary" href="#KPI">Bucket 1</a>-->
+<!--<a id ="mobile-button" class="usa-button usa-button-secondary" href="#KPI">Bucket 2</a>-->
+<!--<a id ="mobile-button" class="usa-button usa-button-secondary" href="#KPI">Bucket 3</a>-->
+<!--<a id ="mobile-button" class="usa-button usa-button-secondary" href="#KPI">Bucket 4</a>-->
+<!--<a id ="mobile-button" class="usa-button usa-button-secondary" href="#KPI">Bucket 5</a>-->
+<!--<a id ="mobile-button" class="usa-button usa-button-secondary" href="#KPI">Bucket 6</a>-->
 
+
+{% include reduce-the-footprint-menu.html %}
+<section class="usa-section usa-graphic_list" style="padding-top:0px;">
+    <div class="usa-grid usa-graphic_list-row">
+        <div class="usa-width-one-whole usa-media_block">
+            <div id="wrapper1"></div>
+        </div>
+    </div>
+</section>
 
 <!--<a href="https://d2d.gsa.gov/tableau-report-for-embed/7862" target="_blank"><img src="Reduce-The-Foot-Print.2019.png" alt="RTF graphic"></a>
           <a class="usa-button" href="Agency FY20 to FY24 Reduction Targets and Results Data.xlsx">Agency FY20 to FY24 RTF Reduction Targets and Results Data</a>
           <a class="usa-button" href="https://d2d.gsa.gov/tableau-report-for-embed/7866" target="_blank">Government-wide Performance Metrics Dashboard</a>-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<!--isotope here...-->
+<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script>
+<!--Custom Js file here ... -->
+<script src="{{ site.baseurl }}/js/script.js"></script>
+<script src="{{ site.baseurl }}/js/kpi.js"></script
+<script src="https://use.fontawesome.com/23b00d63e4.js"></script>
