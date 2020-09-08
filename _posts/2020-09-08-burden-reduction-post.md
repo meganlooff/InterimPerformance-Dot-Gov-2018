@@ -49,8 +49,6 @@ As a key component of the President’s Management Agenda (PMA), the Cross-Agenc
     * 13.2% of employee time (on average in a typical 40-hour workweek) is spent on work employees consider low-value.
     * Extrapolated government-wide, this represents approximately 500 million hours spent each year performing low-value work.  
 
-    <hr>
-
 **Recalibrating Shifting from Low-Value to High-Value Strategy for FY 20**
 
 As the June 2020 Progress Update conveys, OMB is recalibrating the Goal strategy to incorporate a greater focus on workload automation and reduction.  Our four-prong strategy is summarized below, and detailed within the June 2020 Update.  
