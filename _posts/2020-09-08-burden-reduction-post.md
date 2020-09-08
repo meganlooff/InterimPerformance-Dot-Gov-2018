@@ -57,6 +57,17 @@ As the June 2020 Progress Update conveys, OMB is recalibrating the Goal strategy
 4. *Burden assessment*: Institute assessment of burden as part of OMB guidance development.
 
 Given the critical role the General Services Administration (GSA) will play in advancing these initiatives, we are also announcing new CAP Goal Leaders, GSA Deputy Administrator Allison Brigati and Chief Financial Officer Gerard Badorrek.  We recognize the great work, support, and leadership provided by our previous partners at the Department of Housing and Urban Development.
+
+We welcome the partnership with our new partners Allison and Gerard as this important work continues.  Below is a message from the newest leaders of this Goal Team.
+
+Sincerely,
+
+Mike Rigas and Emily Murphy
+
+<hr>
+
+<h3><a id="liberating"></a>Liberating Federal Employees from Low-Value, Transactional Work</h3>
+
 <div class="usa-grid usa-graphic_list-row">
 <div class="usa-width-one-half ">
   <center><img id="cap-goal-headshot" src="../img/CAP-photos/brigati-allison.png" alt="headshot of Allison Brigati">
@@ -71,16 +82,6 @@ Given the critical role the General Services Administration (GSA) will play in a
 <br></b><br>General Services Administration, <br>Chief Financial Officer</p></center>
 </div>
 </div>
-
-We welcome the partnership with our new partners Allison and Gerard as this important work continues.  Below is a message from the newest leaders of this Goal Team.
-
-Sincerely,
-
-Mike Rigas and Emily Murphy
-
-<hr>
-
-<h3><a id="liberating"></a>Liberating Federal Employees from Low-Value, Transactional Work</h3>
 
 In our experience working with staff at all levels of GSA, federal employees are highly dedicated and uniquely mission-oriented.  Ask them what they find most frustrating about their jobs, and the reply is often any task, process, or requirement that distracts their focus from mission critical work.  In many cases, these tasks and processes are manual, repetitive, and low-value – indicating they are not only distracting, but also absorb an inordinate amount of employee time.  
 
