@@ -37,7 +37,7 @@ This blog post contains the following <a href="{{site.baseurl}}/CAP/low-value-to
 
 <h3><a id="significant"></a>Significant Progress on CAP Goal -- Shifting from Low-Value to High-Value</h3>
 
-As a key component of the President’s Management Agenda (PMA), the Cross-Agency Priority (CAP) Goal focused on Shifting from Low-Value to High-Value Work pursues the critical mission to eliminate outdated and redundant requirements. The Shifting from Low-Value to High-Value Goal team has produced a number of recent accomplishments, including:
+As a key component of the [President’s Management Agenda (PMA)](https://www.performance.gov/PMA/PMA.html), the CAP Goal focused on Shifting from Low-Value to High-Value Work pursues the critical mission to eliminate outdated and redundant requirements. The Shifting from Low-Value to High-Value Goal team has produced a number of recent accomplishments, including:
 * Billions of dollars in realized and anticipated savings, and hundreds of thousands of Full -Time Employee (FTE) hours shifted to higher-value work based on over 100 transformation initiatives in agencies.  Highlights include:
     * 50+ initiatives leveraging broad-scale process improvement and standardization.
     * 30+ initiatives using robotics process automation (RPA), artificial intelligence (AI), and/or other innovative software.
