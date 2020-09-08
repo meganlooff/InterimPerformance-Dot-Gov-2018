@@ -23,15 +23,14 @@ authors:
 - Office of Management and Budget
 
 
-tags:
 - CAP goal
 - PMA
 - low-to-high
 
 
 ---
-This blog post contains the following <a href="{{site.baseurl}}/CAP/low-value-to-high-value-work">Shifting from Low-Value to-High Value Work CAP Goal</a> updates:
-* Note from Mike Rigas and Emily Murphy on "<a href="#significant">Significant Progress on Shifting from Low-Value to High-Value Work</a>"
+This blog post contains the following <a href="{{site.baseurl}}/CAP/low-value-to-high-value-work">Shifting from Low-Value to High-Value Work Cross-Agency Priority (CAP) Goal</a> updates:
+* Note from Mike Rigas, <i>Deputy Director for Management at the Office of Management and Budget</i> and Emily Murphy, <i>Administrator of the General Services Administration</i>  on "<a href="#significant">Significant Progress on Shifting from Low-Value to High-Value Work</a>"
 * Message from CAP Goal Leaders Allison Brigati and Gerard Badorrek on "<a href="#liberating">Liberating Federal Employees from Low-Value, Transactional Work</a> "
 
 <hr>
