@@ -20,7 +20,7 @@ image: "/img/blog/burden-reduction-card.png"
 image_accessibility: dark blue rectangle with low to high value icon in gray and white
 
 authors:
-- Office of Management and Budget
+- Mike Rigas, Deputy Director for Management at the Office of Management and Budget and Emily Murphy, Administrator of the General Services Administration
 
 tags:
 - CAP goal
@@ -38,7 +38,7 @@ This blog post contains the following <a href="{{site.baseurl}}/CAP/low-value-to
 <h3><a id="significant"></a>Significant Progress on CAP Goal -- Shifting from Low-Value to High-Value</h3>
 
 As a key component of the [President’s Management Agenda (PMA)](https://www.performance.gov/PMA/PMA.html), the CAP Goal focused on Shifting from Low-Value to High-Value Work pursues the critical mission to eliminate outdated and redundant requirements. The Shifting from Low-Value to High-Value Goal team has produced a number of recent accomplishments, including:
-* Billions of dollars in realized and anticipated savings, and hundreds of thousands of Full -Time Employee (FTE) hours shifted to higher-value work based on over 100 transformation initiatives in agencies.  Highlights include:
+* *Savings*. Billions of dollars in realized and anticipated savings, and hundreds of thousands of Full -Time Employee (FTE) hours shifted to higher-value work based on over 100 transformation initiatives in agencies.  Highlights include:
     * 50+ initiatives leveraging broad-scale process improvement and standardization.
     * 30+ initiatives using robotics process automation (RPA), artificial intelligence (AI), and/or other innovative software.
     * 20 initiatives focused on the digitalization of processes within an agency.
@@ -57,6 +57,20 @@ As the June 2020 Progress Update conveys, OMB is recalibrating the Goal strategy
 4. *Burden assessment*: Institute assessment of burden as part of OMB guidance development.
 
 Given the critical role the General Services Administration (GSA) will play in advancing these initiatives, we are also announcing new CAP Goal Leaders, GSA Deputy Administrator Allison Brigati and Chief Financial Officer Gerard Badorrek.  We recognize the great work, support, and leadership provided by our previous partners at the Department of Housing and Urban Development.
+<div class="usa-grid usa-graphic_list-row">
+<div class="usa-width-one-half ">
+  <center><img id="cap-goal-headshot" src="../img/CAP-photos/brigati-allison.png" alt="headshot of Allison Brigati">
+   <p style="font-size:1.3rem"><b>Allison Fahrenkopf Brigati
+<br></b><br>General Services Administration, <br>Deputy Administrator
+</p></center>
+</div>
+
+<div class="usa-width-one-half">
+  <center><img id="cap-goal-headshot" src="../img/CAP-photos/badorrek-gerard.png" alt="headshot of Gerard Badorrek">
+   <p style="font-size:1.3rem"><b>Gerard Badorrek
+<br></b><br>General Services Administration, <br>Chief Financial Officer</p></center>
+</div>
+</div>
 
 We welcome the partnership with our new partners Allison and Gerard as this important work continues.  Below is a message from the newest leaders of this Goal Team.
 
@@ -67,8 +81,6 @@ Mike Rigas and Emily Murphy
 <hr>
 
 <h3><a id="liberating"></a>Liberating Federal Employees from Low-Value, Transactional Work</h3>
-
-<img src="../img/blog/burden-reduction-authors.PNG">
 
 In our experience working with staff at all levels of GSA, federal employees are highly dedicated and uniquely mission-oriented.  Ask them what they find most frustrating about their jobs, and the reply is often any task, process, or requirement that distracts their focus from mission critical work.  In many cases, these tasks and processes are manual, repetitive, and low-value – indicating they are not only distracting, but also absorb an inordinate amount of employee time.  
 
