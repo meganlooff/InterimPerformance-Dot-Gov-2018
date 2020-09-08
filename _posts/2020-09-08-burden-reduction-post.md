@@ -22,7 +22,7 @@ image_accessibility: dark blue rectangle with low to high value icon in gray and
 authors:
 - Office of Management and Budget
 
-
+tags:
 - CAP goal
 - PMA
 - low-to-high
@@ -30,7 +30,7 @@ authors:
 
 ---
 This blog post contains the following <a href="{{site.baseurl}}/CAP/low-value-to-high-value-work">Shifting from Low-Value to High-Value Work Cross-Agency Priority (CAP) Goal</a> updates:
-* Note from Mike Rigas, <i>Deputy Director for Management at the Office of Management and Budget</i> and Emily Murphy, <i>Administrator of the General Services Administration</i>  on "<a href="#significant">Significant Progress on Shifting from Low-Value to High-Value Work</a>"
+* Note from Mike Rigas, <i>Deputy Director for Management at the Office of Management and Budget (OMB)</i> and Emily Murphy, <i>Administrator of the General Services Administration</i>  on "<a href="#significant">Significant Progress on Shifting from Low-Value to High-Value Work</a>"
 * Message from CAP Goal Leaders Allison Brigati and Gerard Badorrek on "<a href="#liberating">Liberating Federal Employees from Low-Value, Transactional Work</a> "
 
 <hr>
@@ -42,7 +42,7 @@ As a key component of the [President’s Management Agenda (PMA)](https://www.pe
     * 50+ initiatives leveraging broad-scale process improvement and standardization.
     * 30+ initiatives using robotics process automation (RPA), artificial intelligence (AI), and/or other innovative software.
     * 20 initiatives focused on the digitalization of processes within an agency.
-    * Additional information on these initiatives is in the Leaner Government Report the Office of Management and Budget (OMB) published in October 2019.  
+    * Additional information on these initiatives is in the Leaner Government Report OMB published in October 2019.  
 * *Identifying Burdensome Reports for Elimination*. Time, money, and energy is lost complying with outdated, redundant, and unnecessary Congressional reporting requirements.  Agencies have identified hundreds of Congressional reports for elimination or modification.  
 * *Establishing a Baseline for Low Value Work*. For the first time, the Goal team gathered feedback from employees on the amount of low-value work performed each week.  Over 243,000 respondents across 24 agencies responded.  Findings included:
     * 13.2% of employee time (on average in a typical 40-hour workweek) is spent on work employees consider low-value.
