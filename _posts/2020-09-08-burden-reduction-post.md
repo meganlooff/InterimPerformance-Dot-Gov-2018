@@ -16,8 +16,8 @@ description:  As a key component of the President’s Management Agenda (PMA), t
 
 excerpt: As a key component of the President’s Management Agenda (PMA), the Cross-Agency Priority (CAP) Goal focused on Shifting from Low-Value to High-Value Work pursues the critical mission to eliminate outdated and redundant requirements. The Shifting from Low-Value to High-Value Goal team has produced a number of recent accomplishments, listed in this post.
 
-image: "/img/cx/CX Image.PNG"
-image_accessibility: CX logo
+image: "/img/blog/burden-reduction-card.png"
+image_accessibility: dark blue rectangle with low to high value icon in gray and white
 
 authors:
 - Office of Management and Budget
@@ -26,11 +26,17 @@ authors:
 tags:
 - CAP goal
 - PMA
+- low-to-high
 
 
 ---
+This blog post contains the following <a href="{{site.baseurl}}/CAP/low-value-to-high-value-work">Shifting from Low-Value to-High Value Work CAP Goal</a> updates:
+* Note from Mike Rigas and Emily Murphy on "<a href="#significant">Significant Progress on Shifting from Low-Value to High-Value Work</a>"
+* Message from CAP Goal Leaders Allison Brigati and Gerard Badorrek on "<a href="#liberating">Liberating Federal Employees from Low-Value, Transactional Work</a> "
 
-**Significant Progress on CAP Goal -- Shifting from Low-Value to High-Value**
+<hr>
+
+<h3><a id="significant"></a>Significant Progress on CAP Goal -- Shifting from Low-Value to High-Value</h3>
 
 As a key component of the President’s Management Agenda (PMA), the Cross-Agency Priority (CAP) Goal focused on Shifting from Low-Value to High-Value Work pursues the critical mission to eliminate outdated and redundant requirements. The Shifting from Low-Value to High-Value Goal team has produced a number of recent accomplishments, including:
 * Billions of dollars in realized and anticipated savings, and hundreds of thousands of Full -Time Employee (FTE) hours shifted to higher-value work based on over 100 transformation initiatives in agencies.  Highlights include:
@@ -42,6 +48,8 @@ As a key component of the President’s Management Agenda (PMA), the Cross-Agenc
 * *Establishing a Baseline for Low Value Work*. For the first time, the Goal team gathered feedback from employees on the amount of low-value work performed each week.  Over 243,000 respondents across 24 agencies responded.  Findings included:
     * 13.2% of employee time (on average in a typical 40-hour workweek) is spent on work employees consider low-value.
     * Extrapolated government-wide, this represents approximately 500 million hours spent each year performing low-value work.  
+
+    <hr>
 
 **Recalibrating Shifting from Low-Value to High-Value Strategy for FY 20**
 
@@ -59,7 +67,11 @@ Sincerely,
 
 Mike Rigas and Emily Murphy
 
-**Liberating Federal Employees from Low-Value, Transactional Work**
+<hr>
+
+<h3><a id="liberating"></a>Liberating Federal Employees from Low-Value, Transactional Work</h3>
+
+<img src="../img/blog/burden-reduction-authors.PNG">
 
 In our experience working with staff at all levels of GSA, federal employees are highly dedicated and uniquely mission-oriented.  Ask them what they find most frustrating about their jobs, and the reply is often any task, process, or requirement that distracts their focus from mission critical work.  In many cases, these tasks and processes are manual, repetitive, and low-value – indicating they are not only distracting, but also absorb an inordinate amount of employee time.  
 
