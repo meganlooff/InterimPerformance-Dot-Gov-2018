@@ -35,7 +35,7 @@ This blog post contains the following <a href="{{site.baseurl}}/CAP/low-value-to
 
 <hr>
 
-<h3><a id="significant"></a>Significant Progress on CAP Goal -- Shifting from Low-Value to High-Value</h3>
+<h3><a id="significant"></a>Significant Progress Made in the Shift From Low to High Value Work</h3>
 
 As a key component of the [President’s Management Agenda (PMA)](https://www.performance.gov/PMA/PMA.html), the CAP Goal focused on Shifting from Low-Value to High-Value Work pursues the critical mission to eliminate outdated and redundant requirements. The Shifting from Low-Value to High-Value Goal team has produced a number of recent accomplishments, including:
 * *Savings*. Billions of dollars in realized and anticipated savings, and hundreds of thousands of Full -Time Employee (FTE) hours shifted to higher-value work based on over 100 transformation initiatives in agencies.  Highlights include:
@@ -48,7 +48,7 @@ As a key component of the [President’s Management Agenda (PMA)](https://www.pe
     * 13.2% of employee time (on average in a typical 40-hour workweek) is spent on work employees consider low-value.
     * Extrapolated government-wide, this represents approximately 500 million hours spent each year performing low-value work.  
 
-**Recalibrating Shifting from Low-Value to High-Value Strategy for FY 20**
+**Recalibrating the Strategy for FY20**
 
 As the June 2020 Progress Update conveys, OMB is recalibrating the Goal strategy to incorporate a greater focus on workload automation and reduction.  Our four-prong strategy is summarized below, and detailed within the June 2020 Update.  
 1. *Workload automation*: Facilitate agency adoption of innovative automation technologies.
