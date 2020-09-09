@@ -6,7 +6,7 @@ title: "The Liberation of Federal Employees for Low-Value Work is Underway"
 
 rating: "1"
 
-permalink: /burden-reduction-post/
+permalink: /liberating-fed-employees-for-low-value-work-underway/
 
 summary: summary_large_image
 
