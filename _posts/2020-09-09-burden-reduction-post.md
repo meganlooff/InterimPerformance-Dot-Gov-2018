@@ -2,7 +2,7 @@
 layout: post
 tumblr_url:
 
-title: "The Liberation of Federal Employees for Low-Value Work is Underway"
+title: "The Liberation of Federal Employees from Low-Value Work is Underway"
 
 rating: "1"
 
