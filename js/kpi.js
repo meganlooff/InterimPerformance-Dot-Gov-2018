@@ -147,7 +147,7 @@ function myFunction10() {
   document.getElementById("wrapper").innerHTML = codeBlock10
 }
 
-var codeBlock10 =   '<h3>Overview and Definitions <em>(Updated June 2019)</em></h3>' + '<p></p>' + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/category-management/">View the CAP Goal</a>' + '<iframe src="https://d2d.gsa.gov/views/ExecutiveSummaryDashboard_FY20/OverviewandDefinitions?:embed=y&:customViews=n&:display_count=no&:showVizHome=no&:origin=viz_share_link" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+var codeBlock10 =   '<h3>Overview and Definitions <em>(Updated June 2019)</em></h3>' + '<p></p>' + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/category-management/">View the CAP Goal</a>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8528" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction11() {
   document.getElementById("wrapper").innerHTML = codeBlock11
