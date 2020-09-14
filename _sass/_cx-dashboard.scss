@@ -196,3 +196,106 @@ height : 75px;
 .service-stat-examples .more-info-row {
   padding-top : 2rem;
 }
+
+.card-service .list-topics span.text-muted,
+.card-service .list-topics a.text-muted {
+	background-color: white;
+}
+
+.usa-alert.cx-alert-stat {
+	border-left: 10px solid #CCC;
+	.usa-alert-body {
+		display: block;
+		padding: 0;
+
+		.percentage {
+			float: left;
+			font-size: 1.75em;
+			font-weight: 400;
+			text-align: center;
+			width: 70px;
+		}
+
+		.percentage2 {
+			font-size: 4.25rem;
+			font-weight: bold;
+			width: 100%;
+			text-align: center;
+		}
+
+		.category {
+			 float: right;
+			 width: calc(100% - 75px);
+
+			 .usa-alert-heading {
+				 font-size: 24px;
+			 }
+
+			 .usa-alert-text {
+				  font-size: 1.5rem;
+			 }
+		}
+
+		.category2 {
+			font-size: 3.25rem;
+			font-weight: bold;
+			text-align: center;
+			width: 100%;
+		}
+	}
+}
+
+.usa-alert.cx-alert-stat.highlight {
+	border-left: 10px solid #00BDE3;
+}
+
+.usa-alert.cx-alert-stat.warning {
+	border-left: 10px solid #ffbe2e;
+}
+
+.usa-alert.cx-alert-stat.error {
+	border-left: 10px solid #e52207;
+}
+
+.usa-alert.cx-alert-stat.success {
+	border-left: 10px solid #538200;
+}
+
+.usa-alert.cx-alert-stat.light-green {
+	border-left: 10px solid #a3b72c;
+}
+
+.usa-alert.cx-alert-stat.highlight {
+	.percentage {
+		color: black;
+		float: left;
+		font-size: 2.5em;
+		font-weight: 400;
+		width: 30%;
+	}
+
+	.category {
+		 width: 68%;
+	 }
+}
+
+.card-service .list-topics .complete {
+	background-color: #70e17b;
+}
+
+.cx-hero {
+	background-image: url("../img/cx/cx-header.jpg");
+	background-position: bottom;
+	min-height: 500px;
+
+	h1 {
+		font-size: 4.75rem;
+		line-height: 1.125em;
+	}
+}
+
+// Custom Touchpoints tab styling
+#fba-button.fixed-tab-button.usa-button {
+	margin-bottom: 0;
+	font-size: 16px;
+}
