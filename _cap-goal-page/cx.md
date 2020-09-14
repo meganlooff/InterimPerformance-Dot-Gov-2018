@@ -42,7 +42,7 @@ resource-8-url: https://www.performance.gov/tips-for-starting-your-customer-expe
 quote: "Federal customers deserve an experience that compares to—or exceeds—that of leading private sector organizations."  #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/july_2020_Improving_Customer_Experience.pdf"
+current-action-plan: "/CAP/action_plans/september_2020_Improving_Customer_Experience.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -53,6 +53,7 @@ challenge: "Citizens and businesses expect well-designed, efficient government s
 
 opportunity: "A modern, streamlined and responsive customer experience means:  raising government-wide customer experience to the average of the private sector service industry, as measured by external organizations; developing indicators for high-impact Federal programs to monitor progress towards excellent customer experience and mature digital services; providing the structure and resources to ensure customer experience is a focal point for agency leadership; and examples of programs where improved customer service will impact millions of Americans include Federal Student Aid, Airport Security Screening, National Parks, Veterans Health Care, Passport Services, Emergency and Disaster Relief, and Medicare." #third accordion text
 
+action-2020-september: "/CAP/action_plans/september_2020_Improving_Customer_Experience.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Improving_Customer_Experience.pdf"
 
 action-2019-june: "/CAP/action_plans/june_2019_Improving_Customer_Experience.pdf"

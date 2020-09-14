@@ -47,7 +47,7 @@ resource-7-url: https://www.performance.gov/burden-reduction/
 quote: "The Office of Management and Budget continues to identify existing guidance that should be rescinded or modified, to free agency resources for the pursuit of mission outcomes." #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 16.5px
-current-action-plan: "/CAP/action_plans/july_2020_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
+current-action-plan: "/CAP/action_plans/september_2020_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 
 #***********************FLOATING BOX SECTION*****************************
 
@@ -58,6 +58,7 @@ challenge: "All Federal Agencies are charged with effective stewardship of taxpa
 
 opportunity: "Federal Agencies can identify and streamline operational processes to improve the pursuit of mission outcomes and increase the effectiveness and efficiency of Government. " #third accordion text
 
+action-2020-september: "/CAP/action_plans/september_2020_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 
 action-2019-june: "/CAP/action_plans/june_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
