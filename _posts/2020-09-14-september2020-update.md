@@ -79,5 +79,5 @@ Agencies released progress reports on their agency-specific goals. Reports are n
 
 1. Click on “Management Priorities” on the menu at the top of the page
 2. Select the goal you’d like to view
-3. Find the September 2020 Action Plan under “Action Plans and Updates” click “September 2020”
+3. Find the September 2020 Action Plan under “Action Plans and Updates” and click “September 2020”
 
