@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "September 2020 Updates Show Progress on Cross-Agency Priority Goals and Agency Priority Goals"
+title: "September 2020 Updates Show Progress on Cross-Agency and Agency Priority Goals"
 
 rating: "0"
 
