@@ -1,5 +1,5 @@
 ---
-title: Traveler Communications Center/ESTA/EVUS/TTP - Department of Homeland Security - CX CAP Goal Dashboard
+title: CBP Information Center (CIC) - Department of Homeland Security - CX CAP Goal Dashboard
 permalink: /cx/dashboard/dhs/cbp/
 hisp_service_id: dhs-cbp
 layout: hisp
