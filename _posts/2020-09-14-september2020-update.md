@@ -56,7 +56,7 @@ To assist in the federal COVID-19 response, efforts were made to increase the us
 
 *[Leveraging Data as a Strategic Asset](https://www.performance.gov/CAP/CAP_goal_2.html)*
 
-Outlined as a milestone in the [2020 Federal Data Strategy Action Plan](https://strategy.data.gov/action-plan/), the team began efforts to categorize high-value data as a way to increase public transparency.
+Outlined as a milestone in the [2020 Federal Data Strategy Action Plan](https://strategy.data.gov/action-plan/), the Data CAP Goal team began efforts to categorize high-value data as a way to increase public transparency.
 
 *[Developing a Workforce for the 21st Century](https://www.performance.gov/CAP/workforce/)*
 
@@ -64,18 +64,20 @@ In the ongoing effort to reform the workforce, the President has signed multiple
 
 **Agency Priority Goals**
 
-Agencies released progress reports on their agency-specific goals. Reports are now available on the site, and include exciting updates on efforts to bring broadband to rural areas (USDA) and protect families from lead-based paint (HUD). Stay tuned over the coming months as we highlight these and other Agency efforts on [Twitter](https://twitter.com/PerformanceGov) and [LinkedIn](https://www.linkedin.com/company/performance-gov/). 
+Agencies released progress reports on their agency-specific goals. Reports are now available on the site, and include exciting updates on efforts to bring broadband to rural areas (USDA) and protect families from lead-based paint (HUD). Stay tuned over the coming months as we highlight these and other agency efforts on [Twitter](https://twitter.com/PerformanceGov) and [LinkedIn](https://www.linkedin.com/company/performance-gov/). 
 
 **How to Find the Action Plans & Progress Reports**
 
+*To view APG updates:*
+
+1. Click on “Agencies” on the menu at the top of the page
+2. Click on the name of the agency that you’d like to view
+3. Select the title of the APG from the menu on the left side of the page
+4. Find the September 2020 Action Plan under “Goal Action Plans & Progress Updates” and click "September 2020"
+
 *To view CAP Goal updates:*
+
 1. Click on “Management Priorities” on the menu at the top of the page
 2. Select the goal you’d like to view
-3. Under “Download the latest action plan and progress update” click “download”
-
-*To view APG updates:*
-1. Click on “Agencies” on the menu at the top of the page
-2. Click on the name of the Agency that you’d like to view
-3. Select the title of the APG from the menu on the left side of the page
-4. Find the September 2020 Action Plan under “Goal Action Plans & Progress Updates”
+3. Find the September 2020 Action Plan under “Action Plans and Updates” click “September 2020”
 
