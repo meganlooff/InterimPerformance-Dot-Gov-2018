@@ -51,7 +51,7 @@ statement: "This goal will provide a modern, streamlined, and responsive custome
 
 challenge: "Citizens and businesses expect well-designed, efficient government services that are generally comparable in quality to that of leading private-sector organizations. Despite some important strides to improve customer experience, many federal government services fail to meet the expectations of the public, creating unnecessary hassle and cost for citizens, businesses, and the government itself. " #second accordion text
 
-opportunity: "There are opportunities to: increase trust in the Federal Government by improving the experience citizens and businesses have with federal services across all delivery channels; transform the customer experience by improving the usability and reliability of our government’s most critical digital services; and, create measurable improvements in customer satisfaction by using the principles and practices proven by leading private-sector organizations. " #third accordion text
+opportunity: "There are opportunities to: increase trust in the Federal Government by improving the experience citizens and businesses have with federal services across all delivery channels; transform the customer experience by improving the usability and reliability of our government’s most critical digital services; and, create measurable improvements in customer satisfaction by using the principles and practices proven by leading private-sector organizations." #third accordion text
 
 action-2020-september: "/CAP/action_plans/september_2020_Improving_Customer_Experience.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Improving_Customer_Experience.pdf"
