@@ -80,7 +80,7 @@ goal-leader-2-title: "Administrator, Office of Federal Procurement Policy, OMB"
 goal-leader-3-photo: "/img/CAP-photos/dunn-julie.jpg"
 alt_text_3: Photo placeholder
 goal-leader-3-name: "Julie Dunne"
-goal-leader-3-title: "Acting Commissioner, Federal Acquisition Service, General Services Administration"
+goal-leader-3-title: "Commissioner, Federal Acquisition Service, General Services Administration"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
