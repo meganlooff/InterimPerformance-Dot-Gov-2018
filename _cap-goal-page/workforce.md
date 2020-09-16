@@ -35,7 +35,7 @@ statement: "Effective and efficient mission achievement and improved service to 
 
 challenge: "The challenges include: parts of today’s personnel system are a relic of an earlier era that ill-serves Federal managers and employees; the Federal personnel system is unduly complex leading to a focus on compliance and transaction management rather than results and customer service; instead of agencies determining the best way to accomplish the mission, they map jobs in a fixed manner with outdated processes and functions; not aligning the workforce to mission requirements means the workforce is not being leveraged to meet emerging needs; HR IT systems are antiquated and not interoperable." #second accordion text
 
-opportunity: "To achieve a state where Federal agencies and managers can hire the best employees, remove the worst employees, and engage employees at all levels of the organization, the Government must put a framework in place that drives and encourages strategic human capital management." #third accordion text
+opportunity: "To achieve a state where Federal agencies and managers can hire the best employees, remove low-performing employees, and engage employees at all levels of the organization, the Government must put a framework in place that drives and encourages strategic human capital management." #third accordion text
 
 action-2020-september: "/CAP/action_plans/september_2020_People_Workforce_for_the_21st_Century.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_People_Workforce_for_the_21st_Century.pdf"
@@ -80,7 +80,7 @@ goal-leader-2-title: "Associate Director for Performance and Personnel Managemen
 goal-leader-3-photo: "/img/CAP-photos/rigas-michael.jpg"
 alt_text_3: Photo of Michael Rigas
 goal-leader-3-name: "Michael Rigas"
-goal-leader-3-title: "Acting Director, Office of Personnel Management"
+goal-leader-3-title: "Acting Director, Office of Personnel Management and Acting Deputy Director of Management, Office of Management and Budget"
 
 goal-leader-4-photo: "/img/CAP-photos/charles-rettig.jpg"
 alt_text_4: Photo of Charles Rettig
