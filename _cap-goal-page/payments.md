@@ -38,7 +38,7 @@ current-action-plan: "/CAP/action_plans/september_2020_Getting_Payments_Right.pd
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement: "Demonstrate stewardship of taxpayer dollars by reducing monetary loss and making payments correctly the first time." #first accordion text
+statement: "The goal is to demonstrate stewardship of taxpayer dollars by focusing on getting government payments right the first time they are made and preventing monetary loss and to build trust in government by better understanding the nature of improper payments and their relationship to payment integrity." #first accordion text
 
 challenge: While improper payments may compromise citizens’ trust in government, they are not always indicative of fraud, nor do they necessarily represent payments that should not have been made. Having the right information and the capacity to address root causes are critical components. #second accordion text
 
