@@ -54,7 +54,7 @@ In addition to this quarter's CAP Goal and APG progress updates, we’ve include
 
 *[Category Management](https://www.performance.gov/CAP/category-management/)*
 
-Through the work of the Category Management CAP Goal, the Federal Government has made significant progress in streamlining how they buy common goods and services as an enterprise. This effort has avoided more than $33 billion in costs and is expected to increase to $40 billion by the end of FY20, eliminating nearly $150,000, or 35%, of duplicative or sub-optimized contracts.
+Through the work of the Category Management CAP Goal, the Federal Government has made significant progress in streamlining how they buy common goods and services as an enterprise. Since the beginning since of FY16, this effort has  avoided more than $33 billion in costs and is expected to increase to $40 billion the end of FY20, eliminating nearly $150,000, or 35%, of duplicative or sub-optimized contracts.
 
 In addition, to assist in the federal COVID-19 response, efforts were made to increase the use of 3D technology for the creation of Personal Protective Equipment (PPE). This was possible thanks to suppliers on the GSA Schedule who successfully added several PPE items to their contracts within days instead of the typical contract modification time.
 
@@ -66,7 +66,7 @@ The [Federal Data Strategy Action Plan](https://strategy.data.gov/action-plan/),
 
 *[Developing a Workforce for the 21st Century](https://www.performance.gov/CAP/workforce/)*
 
-In the ongoing effort to reform the workforce, the President has signed multiple executive orders. On July 31, OPM issued initial guidance to agencies in support of the [Executive Order 13932](https://www.federalregister.gov/documents/2020/07/01/2020-14337/modernizing-and-reforming-the-assessment-and-hiring-of-federal-job-candidates). The order and associated guidance emphasizes a focus on skills and competency over degree-based hiring. 
+ On July 31st, OPM issued initial guidance to agencies in support of the [Executive Order 13932](https://www.federalregister.gov/documents/2020/07/01/2020-14337/modernizing-and-reforming-the-assessment-and-hiring-of-federal-job-candidates). The order and associated guidance emphasizes a focus on skills and competency over degree-based hiring. 
 
 **Agency Priority Goals**
 
