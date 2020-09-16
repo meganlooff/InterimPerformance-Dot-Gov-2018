@@ -130,7 +130,7 @@ goal-leader-4-title: "Deputy Controller, Office of Management and Budget"
 goal-leader-5-photo: "/img/CAP-photos/watson-laura.jpg"
 alt_text_5: Photo of Laura Watson  #Goal leader 5
 goal-leader-5-name: "Laura Watson"
-goal-leader-5-title: "Chief Grant Officer, Department of Labor"
+goal-leader-5-title: "Administrator, Office of Grants Management, Employment & Training Administration, Department of Labor"
 
 goal-leader-6-photo: "/img/CAP-photos/corrigan-patrick.jpg"
 alt_text_6: Photo of Patrick Corrigan,  #Goal leader 6

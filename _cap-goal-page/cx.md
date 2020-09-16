@@ -85,7 +85,7 @@ CAP-event-text:
 goal-leader-photo: "/img/CAP-photos/davis-lynda.JPEG"
 alt_text_1: Photo of Dr. Lynda Davis #Goal leader 1
 goal-leader-name: "Dr. Lynda Davis"
-goal-leader-title: "Chief Veterans Experience Officer"
+goal-leader-title: "Chief Veterans Experience Officer, Department of Veterans Affairs"
 goal-leader-2-photo: "/img/CAP-photos/cutts-matt.jpg"
 alt_text_2: Photo of Matt Cutts #Goal leader 2
 goal-leader-2-name: "Matt Cutts"
