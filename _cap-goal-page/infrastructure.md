@@ -22,15 +22,11 @@ current-action-plan: "/CAP/action_plans/september_2020_Modernize_Infrastructure_
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement: "Improving the Federal environmental review and authorization process will enable infrastructure project sponsors to start construction sooner, create jobs earlier, and fix our Nation’s infrastructure faster while also ensuring that a project’s potential impacts on environmental and community resources are considered and managed throughout the planning process.
-
-Infrastructure investment strengthens our economic platform, makes America more competitive, creates millions of jobs, increases wages for American workers, and reduces the costs of goods and services for American families and consumers." #first accordion text
+statement: "Reduce the time for the Federal Government's processing of environmental reviews and authorization decisions for new major infrastructure projects to an average of two years and provide consistent, coordinated, and predictable Federal environmental reviews and authorization processes for infrastructure projects." #first accordion text
 
 challenge: "The American people rely on infrastructure improvements to benefit our economy, society, and environment. However, inefficient decision processes, including environmental reviews and permit decisions or authorizations have delayed infrastructure investments and increased project costs." #second accordion text
 
-opportunity: "This goal will:   reduce time and cost to complete environmental reviews and authorizations for new major infrastructure projects; increase predictability and transparency for project investors and stakeholders; and result in agencies implementing clear timetables, consistent processes to make decisions, and best practices.
-
-A public dashboard tracks individual projects at www.permits.performance.gov. " #third accordion text
+opportunity: "Opportunity to: Improving the Federal environmental review and authorization process will enable infrastructure project sponsors to start construction sooner, create jobs earlier, and fix our Nation’s infrastructure faster while also ensuring that a project’s potential impacts on environmental and community resources are considered and managed throughout the planning process and infrastructure investment strengthens our economic platform, makes America more competitive, creates jobs, increases wages for American workers, and reduces the costs of goods and services for American families and consumers." #third accordion text
 
 action-2020-september: "/CAP/action_plans/september_2020_Modernize_Infrastructure_Permitting.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Modernize_Infrastructure_Permitting.pdf"
