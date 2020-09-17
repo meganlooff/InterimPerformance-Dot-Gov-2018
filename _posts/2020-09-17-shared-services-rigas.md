@@ -1,27 +1,27 @@
 ---
 layout: post
 
-title: "Big Ideas: Mike Rigas Shares Thoughts on Next PMA"
+title: "Mike Rigas Shares Thoughts on Next PMA at ACT-IAC"
 
-rating: "1"
+rating: "0"
 
-permalink: /September-2020-Updates-Show-Progress/
+permalink: /shared-services-2020-rigas/
 
 
 summary: summary_large_image
 
 agency:
 
-description: 
+description: Mike Rigas, Deputy Director of the Office of Personnel Management and Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the Shared Services Summit on the future vision of the President's Management Agenda (PMA), read his full remarks below
 
-excerpt: 
+excerpt: Mike Rigas, Deputy Director of the Office of Personnel Management and Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the Shared Services Summit on the future vision of the President's Management Agenda (PMA), read his full remarks below
 
 
 image: "/img/CAP-photos/rigas-michael.jpg"
 image_accessibility:
 
 authors:
-- Performance.gov Team
+- Mike Rigas, Acting Deputy Director for Management at the Office of Management and Budget (OMB)
 
 tags:
 - PMA
