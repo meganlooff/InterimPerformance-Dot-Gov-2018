@@ -31,7 +31,6 @@ tags:
 
 *Mike Rigas, Deputy Director of the Office of Personnel Management and Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the [ACT-IAC Shared Services Summit](https://www.actiac.org/events/shared-services-summit-2020) on the future vision of the President's Management Agenda (PMA), read his full remarks below.*
 
-“We got a lot right in the 2018 PMA. We are going to build on that success” 
 <div class="testimonial-blockquote">
 <p> “We got a lot right in the 2018 PMA. We are going to build on that success.” </p>
 </div> 
@@ -80,11 +79,11 @@ IT and Personnel are just a couple of examples, but we have seen significant pro
 
 **Shared Services** - Third, Under the Sharing Quality Services CAP goal, we are driving efficiency and ensuring we maximize the value of each taxpayer dollar. Shared Services is driving these outcomes by: 
 - Improving mission support services to agencies, which allows them to focus on serving taxpayers, not wasting effort on process; 
-- Agreeing on government-wide business standards for common mission support services so we can better track our success and outcomes; 
+- Agreeing on government-wide business standards for common mission support services so we can better track our success and outcomes; and 
 - Increasing use of existing shared services to save taxpayer money
 
 Agencies need to continue to move forward on adopting shared services. This is a key way to:
-- Close the gap between industry and federal performance so we can deliver for taxpayers in the same way they receive services everywhere else
+- Close the gap between industry and federal performance so we can deliver for taxpayers in the same way they receive services everywhere else;
 - Provide agencies with modern, customer-centric, and secure marketplaces for both solutions and services; and 
 - Realize actual cost savings through reducing redundant procurements and generating economies of both scale and skill
 
