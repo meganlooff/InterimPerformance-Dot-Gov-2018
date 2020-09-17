@@ -66,7 +66,7 @@ quote: "Federal Grant Programs support activities that touch every American, suc
 as medical research, education, transportation infrastructure, and more." #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 17.5px
-current-action-plan: "/CAP/action_plans/july_2020_Results-Oriented_Accountability_for_Grants.pdf"
+current-action-plan: "/CAP/action_plans/september_2020_Results-Oriented_Accountability_for_Grants.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -74,8 +74,9 @@ statement: "Maximize the value of grant funding by applying a risk-based, data-d
 
 challenge: "The Federal government uses grants to invest approximately $700 billion each year in mission-critical needs for American taxpayers, but managers report spending 40% of their time using antiquated processes to monitor compliance instead of analyzing data to improve results. "
 
-opportunity: "Standardize the grants management business process and identify, open, standardize, and link data. Use standard business process and data to identify opportunities to build shared solutions that reduce burden and improve the user experience. Leverage data, including data produced by annual audits, to assess and manage recipient risk. Hold recipients accountable for good performance practices that supports achievement of program goals and objectives and streamline burdensome compliance requirements for those that demonstrate results. " #third accordion text
+opportunity: "Standardize the grants management business process and identify, open, standardize, and link data. Use standard business process and data to establish a robust marketplace of modern solutions that ease burden and drive efficiencies, respond to customer needs, and deliver on mission. Leverage data, including data produced by annual audits, to assess and manage recipient risk. Hold recipients accountable for good performance practices that support achievement of program goals and objectives and streamline burdensome compliance requirements for those that demonstrate results." #third accordion text
 
+action-2020-september: "/CAP/action_plans/september_2020_Results-Oriented_Accountability_for_Grants.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Results-Oriented_Accountability_for_Grants.pdf"
 
 action-2019-june: "/CAP/action_plans/june_2019_Results-Oriented_Accountability_for_Grants.pdf"
@@ -129,7 +130,7 @@ goal-leader-4-title: "Deputy Controller, Office of Management and Budget"
 goal-leader-5-photo: "/img/CAP-photos/watson-laura.jpg"
 alt_text_5: Photo of Laura Watson  #Goal leader 5
 goal-leader-5-name: "Laura Watson"
-goal-leader-5-title: "Chief Grant Officer, Department of Labor"
+goal-leader-5-title: "Administrator, Office of Grants Management, Employment & Training Administration, Department of Labor"
 
 goal-leader-6-photo: "/img/CAP-photos/corrigan-patrick.jpg"
 alt_text_6: Photo of Patrick Corrigan,  #Goal leader 6
