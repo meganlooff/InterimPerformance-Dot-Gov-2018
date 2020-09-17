@@ -12,9 +12,9 @@ summary: summary_large_image
 
 agency:
 
-description: Mike Rigas, Deputy Director of the Office of Personnel Management and Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the Shared Services Summit on the future vision of the President's Management Agenda (PMA), read his full remarks below
+description: Mike Rigas, Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the Shared Services Summit on the future vision of the President's Management Agenda (PMA), read his full remarks below.
 
-excerpt: Mike Rigas, Deputy Director of the Office of Personnel Management and Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the Shared Services Summit on the future vision of the President's Management Agenda (PMA), read his full remarks below
+excerpt: Mike Rigas, Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the Shared Services Summit on the future vision of the President's Management Agenda (PMA), read his full remarks below.
 
 
 image: "/img/CAP-photos/rigas-michael.jpg"
@@ -29,10 +29,10 @@ tags:
 
 ---
 
-*Mike Rigas, Deputy Director of the Office of Personnel Management and Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the [ACT-IAC Shared Services Summit](https://www.actiac.org/events/shared-services-summit-2020) on the future vision of the President's Management Agenda (PMA), read his full remarks below.*
+*Mike Rigas, Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the [ACT-IAC Shared Services Summit](https://www.actiac.org/events/shared-services-summit-2020) on the future vision of the President's Management Agenda (PMA), read his full remarks below.*
 
 <div class="testimonial-blockquote">
-<p> “We got a lot right in the 2018 PMA. We are going to build on that success.” </p>
+<p> We got a lot right in the 2018 PMA. We are going to build on that success.</p>
 </div> 
 
 ----------------------------------------------------------------------------------------
