@@ -26,17 +26,18 @@ resource-4-url: https://www.sbir.gov/
 quote: "The drive for excellence, advancement, and innovation in the United States has brought forth significant discoveries, developed life-saving research, and improved the quality of life for millions of Americans." #appears in the gray text box
 quote-author: "President Trump, World Intellectual Property Day proclamation"
 font-size: 14.5px
-current-action-plan: "/CAP/action_plans/july_2020_Lab_to_Market.pdf"
+current-action-plan: "/CAP/action_plans/september_2020_Lab_to_Market.pdf"
 
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
 statement: "This goal will:   improve the transition of federally funded innovations from the laboratory to the marketplace by reducing the administrative and regulatory burdens for technology transfer and increasing private sector investment in later-stage research and development (R&D); develop and implement more effective partnering models and technology transfer mechanisms for Federal agencies; and enhance the effectiveness of technology transfer by improving the methods for evaluating the ROI and economic and national security impacts of federally funded R&D, and using that information to focus efforts on approaches proven to work." #first accordion text
 
-challenge: "Agencies must comply with hundreds of legacy operating requirements, built up over successive administrations, that persist over time despite changes to the circumstances they were intended to address. Time, energy, and dollars spent performing repetitive administrative tasks and complying with outdated, redundant, and unnecessary requirements can be better spent on accomplishing mission outcomes." #second accordion text
+challenge: "The Federal Government invests approximately $150 billion annually in research and development (R&D) conducted at federal laboratories, universities, and other research organizations. For America to maintain its position as the global leader in innovation, bringing products to market more quickly, growing the economy, and maintaining a strong national security innovation base, it is essential to optimize technology transfer and support programs to increase the return on investment (ROI) from federally funded R&D." #second accordion text
 
-opportunity: "The Federal Government invests approximately $150 billion annually in research and development (R&D) conducted at federal laboratories, universities, and other research organizations. For America to maintain its position as the global leader in innovation, bringing products to market more quickly, growing the economy, and maintaining a strong national security innovation base, it is essential to optimize technology transfer and support programs to increase the return on investment (ROI) from federally funded R&D." #third accordion text
+opportunity: "There are opportunities to: identify regulatory impediments and administrative improvements in federal technology transfer policies and practices; increase engagement with private sector technology development experts and investors; build a more entrepreneurial R&D workforce; support innovative tools and services for technology transfer; improve understanding of global science and technology trends and benchmarks." #third accordion text
 
+action-2020-september: "/CAP/action_plans/september_2020_Lab_to_Market.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Lab_to_Market.pdf"
 
 action-2019-june: /CAP/action_plans/june_2019_Lab_to_Market.pdf
@@ -75,7 +76,7 @@ Director, National Institute of Standards and Technology, U.S. Department of Com
 goal-leader-2-photo: "/img/CAP-photos/kratsios-michael.jpg"
 alt_text_2: Photo of Michael Kratsios  #Goal leader 2
 goal-leader-2-name: "Michael Kratsios"
-goal-leader-2-title: "Chief Technology Officer of the United States"
+goal-leader-2-title: "Chief Technology Officer of the United States, Office of Science and Technology Policy"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
