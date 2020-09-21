@@ -4,7 +4,7 @@ tumblr_url:
 
 title: "How the Small Business Administration is Improving Customer Experience During COVID-19"
 
-rating: "1"
+rating: "0"
 
 permalink: /sba-cx-post/
 
@@ -12,15 +12,15 @@ summary: summary_large_image
 
 agency:
 
-description: During difficult times, it’s more important than ever for the government to serve its citizens well. The Small Business Administration (SBA) has prioritized a modern, responsive customer experience (CX). 
+description: During difficult times, it’s more important than ever for the government to serve its citizens well. The Small Business Administration (SBA) has prioritized a modern, responsive customer experience (CX).
 
-excerpt: During difficult times, it’s more important than ever for the government to serve its citizens well. The Small Business Administration (SBA) has prioritized a modern, responsive customer experience (CX). 
+excerpt: During difficult times, it’s more important than ever for the government to serve its citizens well. The Small Business Administration (SBA) has prioritized a modern, responsive customer experience (CX).
 
 image: "/img/cx/CX Image.PNG"
 image_accessibility: CX logo
 
 authors:
-- Brian Goodrow, Amber Chaudhry, Ryan Korn - Small Business Administration 
+- Brian Goodrow, Amber Chaudhry, Ryan Korn - Small Business Administration
 
 
 tags:
@@ -32,7 +32,7 @@ tags:
 
 ---
 
-During difficult times, it’s more important than ever for the government to serve its citizens well. The Small Business Administration (SBA) has prioritized a modern, responsive customer experience (CX). As one of 25 designated [“High Impact Service Providers,”](https://www.performance.gov/cx/) SBA works to improve experience and service delivery in a more customer-centric way, ensuring that Americans receive the right resources when they need it most. 
+During difficult times, it’s more important than ever for the government to serve its citizens well. The Small Business Administration (SBA) has prioritized a modern, responsive customer experience (CX). As one of 25 designated [“High Impact Service Providers,”](https://www.performance.gov/cx/) SBA works to improve experience and service delivery in a more customer-centric way, ensuring that Americans receive the right resources when they need it most.
 
 **Using CX Best Practices to Support Small Businesses During COVID-19**
 
@@ -51,4 +51,4 @@ Taking an enterprise approach to customer service has also allowed SBA to analyz
 
 **Looking Ahead**
 
-Since 1953, SBA has worked to help American small businesses across the country. During this unprecedented time, we will continue to improve customer experience and enhance the impact of SBA’s programs to ensure small businesses have the resources they need, now and in the future. 
+Since 1953, SBA has worked to help American small businesses across the country. During this unprecedented time, we will continue to improve customer experience and enhance the impact of SBA’s programs to ensure small businesses have the resources they need, now and in the future.
