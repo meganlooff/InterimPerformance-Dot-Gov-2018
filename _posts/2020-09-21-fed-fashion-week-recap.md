@@ -26,9 +26,9 @@ tags:
 - PMA
 ---
 
-As the final catwalk ends on the third-annual [#FedFashionWeek](https://twitter.com/hashtag/FedFashionWeek?src=hashtag_click), we have the backstage scoop on styles outfitting Federal Government employees. We partnered with agencies to feature public servants and showcase their uniforms and the services they provide for the American people.
+As the curtain closes on the third-annual [#FedFashionWeek](https://twitter.com/hashtag/FedFashionWeek?src=hashtag_click), we have the backstage scoop on all the latest in Government style! We partnered with agencies to feature public servants and showcase their uniforms and the services they provide for the American people.
 
-Originally shared on [Twitter](https://twitter.com/PerformanceGov) & [Linkedin](https://www.linkedin.com/company/performance-gov), preview some of the selections below, highlighting the timeless classic that’s never out of style - a public servant’s passion for their work.
+Originally shared on [Twitter](https://twitter.com/PerformanceGov) & [Linkedin](https://www.linkedin.com/company/performance-gov), preview some of the catwalk selections below, highlighting the timeless classic that’s never out of style - a public servant’s passion for their work.
 
 **U.S. Advisory Council on Historic Preservation**
 
