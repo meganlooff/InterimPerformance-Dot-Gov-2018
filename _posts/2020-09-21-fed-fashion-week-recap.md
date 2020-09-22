@@ -12,7 +12,7 @@ summary: summary_large_image
 
 agency:
 
-description:  As the final catwalk ends on the third-annual FedFashionWeek, we have the backstage scoop on styles outfitting Federal Government employees. We partnered with agencies to feature public servants and showcase their uniforms and the services they provide for the American people.
+description:  As the final catwalk ends on the third-annual FedFashionWeek, we have the backstage scoop on styles outfitting Federal government employees. We partnered with agencies to feature public servants and showcase their uniforms and the services they provide for the American people.
 
 excerpt: As the final catwalk ends on the third-annual FedFashionWeek, we have the backstage scoop on styles outfitting Federal Government employees. We partnered with agencies to feature public servants and showcase their uniforms and the services they provide for the American people.
 
