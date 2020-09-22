@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "Acting DDM Mike Rigas Shares Thoughts on Next PMA at ACT-IAC"
+title: "Acting DDM Michael Rigas Shares Thoughts on Next PMA at ACT-IAC"
 
 rating: "0"
 
@@ -12,16 +12,16 @@ summary: summary_large_image
 
 agency:
 
-description: Mike Rigas, Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the Shared Services Summit on the future vision of the President's Management Agenda (PMA), read his full remarks below.
+description: Michael Rigas, Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the Shared Services Summit on the future vision of the President's Management Agenda (PMA), read his full remarks below.
 
-excerpt: Mike Rigas, Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the Shared Services Summit on the future vision of the President's Management Agenda (PMA), read his full remarks below.
+excerpt: Michael Rigas, Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the Shared Services Summit on the future vision of the President's Management Agenda (PMA), read his full remarks below.
 
 
 image: "/img/CAP-photos/rigas-michael.jpg"
 image_accessibility:
 
 authors:
-- Mike Rigas, Acting Deputy Director for Management at the Office of Management and Budget (OMB)
+- Michael Rigas, OMB
 
 tags:
 - PMA
@@ -29,7 +29,7 @@ tags:
 
 ---
 
-*Mike Rigas, Acting Deputy Director of Management at the Office of Management and Budget recently spoke at the [ACT-IAC Shared Services Summit](https://www.actiac.org/events/shared-services-summit-2020) on the future vision of the President's Management Agenda (PMA), read his full remarks below.*
+*Michael Rigas, Acting Director of Management at the Office of Management and Budget recently spoke at the [ACT-IAC Shared Services Summit](https://www.actiac.org/events/shared-services-summit-2020) on the future vision of the President's Management Agenda (PMA), read his full remarks below.*
 
 <div class="testimonial-blockquote">
 <p> We got a lot right in the 2018 PMA. We are going to build on that success.</p>
@@ -93,7 +93,7 @@ Since 2018, this model has also been incorporated into the Federal Performance F
 
 **Burden Reduction** - Through the PMA we have focused on using technologies like robotics process automation (RPA) and artificial intelligence (AI), in addition to process improvement methods to shift resources from outdated and redundant requirements and processes to accomplishing mission outcomes. Agencies have outlined more than 100 initiatives representing billions in savings. For example, The Department of Health and Human Services (HHS) launched a Patients over Paperwork initiative to reduce unnecessary administrative burden. They actively solicited feedback from the medical community through requests for information (RFIs). This process resulted in over 1,000 ideas, and through regulatory changes alone HHS estimates a savings to the medical community of at least $5.7 billion and at least 40 million hours through 2021. Plus, the U.S. General Services Administration (GSA) uses RPA to manage tasks like opening email, moving files, making calculations, and filling in forms. This has allowed the agency to shift an estimated 230,000 employee hours towards more high-value work.
 
-**Security Clearance Reform** - Finally, in my role at OPM I have been actively engaged in helping to reduce the background investigation backlog. Past efforts had chipped away at the problem, but we didn’t need to chip away at a miles-long backlog—we needed to take a big step toward eliminating it. The current process was undermining our ability to attract top talent and onboard them in a timely manner, and was still introducing too much risk into the workforce.  We took a comprehensive look at the process and assessed where we could assume some risk to improve processing time, and where we needed stronger controls in place. Now, for the first time since August 2014, the background investigation case inventory has returned to a stable state of approximately 200,000 cases. At its peak, NBIB’s inventory has reached 725,000 cases. The average time to complete a Top Secret investigation is also currently down from a high of 411 days to 79 days, and timeliness for Secret investigations decreased from 173 days to 56 days.
+**Security Clearance Reform** -Finally, in my role at OPM I have been actively engaged in helping to reduce the background investigation backlog. Past efforts had chipped away at the problem, but we didn’t need to chip away at a miles-long backlog—we needed to take a big step toward eliminating it. The current process was undermining our ability to attract top talent and onboard them in a timely manner, and was still introducing too much risk into the workforce. We took a comprehensive look at the process and assessed where we could  we found efficiencies and  improved processing time, while maintaining the fidelity of the investigation process. Now, for the first time since August 2014, the background investigation case inventory has returned to a stable state of approximately 200,000 cases. At its peak, NBIB’s inventory has reached 725,000 cases. The average time to complete a Top Secret investigation is also currently down from a high of 411 days to 79 days, and timeliness for Secret investigations decreased from 173 days to 56 days.
 
 **Looking forward**
 
@@ -109,7 +109,7 @@ The PMA also did not get overly prescriptive in terms of centralized, one-size f
 I’d like to lay out a few big, simple ideas around which we can rally action and create fundamental change. Let me discuss five.
 - First, more competition leads to more options at a lower price and better quality. Federal contracting is an important part of how we meet our missions. Through our “Frictionless Acquisition CAP Goal,” we are improving how we develop our requirements and are using less burdensome, commercially-friendly innovative practices. These steps are helping us reduce barriers to entry so more small businesses and new entrants can compete for work. More competition means better products and lower costs for the taxpayer.
 - Second, decisions should be based on data and evidence. When looking at our engagement with the private sector, you see two types of business, those that engage very little with the government, and those where a majority of their business is conducted with the government. It shows our barriers to entry are too high, and that too many of the best firms don’t view doing business with the government as worth the cost. We need to better leverage data like this to improve our engagement with the private sector. More broadly, the use of data should inform all of our actions.   
-- Third, we must be better about managing risk. Like in the case of background investigation reform I discussed earlier, we must be better about accepting that every action has risk, and we accept and mitigate risk without jeopardizing the mission. But this requires discipline in assessing and managing risk, and engaging senior leadership in making those decisions.  
+- Third, we must be better about managing risk. We must be better about acknowledging that while every action has risk, our job is to mitigate risk without jeopardizing the mission. But this requires discipline in assessing and managing risk, and engaging senior leadership in making those decisions.    
 - Fourth, we should continue to expand the use of technologies like RPA and AI to lower the burden of outdated and low-value processes, and focus both our budgetary and human capital resources on delivering mission and providing excellent service. With the emergence of RPA and AI, we will see a shift in how agencies plan for human capital to address their mission requirements. We see reskilling and upskilling playing a major role in the human capital lifecycle, and this is the reason we think that the work under the PMA is so important to our success.  
 - Fifth, and interrelated to our efforts to expand the use of emerging technologies, is overall burden reduction in government. The President has instructed government to “cut the red tape” and ensure that agencies can focus on their mission delivery.
 
