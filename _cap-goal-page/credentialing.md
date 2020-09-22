@@ -66,7 +66,7 @@ goal-leader-photo: "/img/CAP-photos/John-Ratcliffe.png"
 alt_text_1: Photo of John Ratcliffe’ #Goal leader 1
 goal-leader-name: "John Ratcliffe"
 goal-leader-title: "Director of National Intelligence, Office of the Director of National Intelligence"
-goal-leader-2-photo: "/img/CAP-photos/kernan-joseph.jpg"
+goal-leader-2-photo: "/img/CAP-photos/joseph_kernan.png"
 alt_text_2: Photo of Joseph Kernan #Goal leader 2
 goal-leader-2-name: "Joseph Kernan"
 goal-leader-2-title: "Under Secretary of Defense for Intelligence, Department of Defense"
