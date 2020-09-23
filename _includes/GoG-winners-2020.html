@@ -5,6 +5,20 @@
   <div class="2020-winners">
 
     {% for 2020_GoG_winners in site.2020_GoG_winners %}
+     {% if 2020_GoG_winners.award == "President's" %}
+    <div class="usa-width-one-half  usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}" style="margin: 15px; width:45%">
+      <img src="{{ site.baseurl }}/img/{{ 2020_GoG_winners.image }}">
+      <center<p><b>{{ 2020_GoG_winners.name}}</b></p>
+      <p>{{ 2020_GoG_winners.agency }}</p><center>
+      <!--<p style="font-size:.8em;">{{ GoG_winners.description }}</p>-->
+    </div>
+    {% endif %}
+    {% endfor %}
+    </div>
+
+    {% for 2020_GoG_winners in site.2020_GoG_winners %}
+    {% if 2020_GoG_winners.award  == "Agency" or 2020_GoG_winners.award  == "Council" %}
+
       <div class="usa-width-one-third winner {{ 2020_GoG_winners.filters }} ">
       <div class="container-GoG" tabindex="0">
         {% if 2020_GoG_winners.image and 2020_GoG_winners.originalImage %}
@@ -128,6 +142,7 @@
         </div>
       </div>
       </div>
+       {% endif %}
     {% endfor %}
   </div>
 </div>
