@@ -6,7 +6,7 @@
 
     {% for 2020_GoG_winners in site.2020_GoG_winners %}
      {% if 2020_GoG_winners.award == "President's" %}
-    <div class="usa-width-one-half  usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}" style="margin: 15px; width:45%">
+    <div class="usa-width-one-half winner usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}" style="margin: 15px; width:45%">
       <a href="{{site.baseurl}}{{2020_GoG_winners.permalink}}"><img src="{{ site.baseurl }}/img/{{ 2020_GoG_winners.image }}"></a>
       <center<p><b>{{ 2020_GoG_winners.name}}</b></p>
       <p>{{ 2020_GoG_winners.agency }}</p><center>
@@ -14,7 +14,7 @@
     </div>
     {% endif %}
     {% endfor %}
-    </div>
+
 
     {% for 2020_GoG_winners in site.2020_GoG_winners %}
     {% if 2020_GoG_winners.award  == "Agency" or 2020_GoG_winners.award  == "Council" %}

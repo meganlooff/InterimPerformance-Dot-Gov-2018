@@ -11,7 +11,7 @@ category: multiple  #reference list of categories
 agency: Agency Name #name of agency, capitalize first letter of each name
 award: President's #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 Year: 2018 #variable to be used at later date
-image: /GoG/gears-govt-presidents.png
+image: GoG/gears-govt-presidents.png
 permalink: /gearawards/placeholder-1/
 
 people:
