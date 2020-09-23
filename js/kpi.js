@@ -168,3 +168,11 @@ function myFunction13() {
 }
 
 var codeBlock13 =   '<h3>Cash Loss to the Government - Program Scorecards <em>(Updated September 2020)</em></h3>' + '<p>The government can achieve the greatest return on investment for the taxpayer by ensuring that improper payments are eliminated in the highest-risk programs, otherwise known as high-priority programs. Details about these programs can be found in the dashboard below as well as steps to improve their efficiency by focusing on reducing incorrect payment that result in monetary loss.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/getting-payments-right/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cash Loss to the Government_KPI Data_FY20Q3.xlsx">Download Data</a>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8537" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+
+function myFunction14() {
+  document.getElementById("wrapper-letter").innerHTML = codeBlock14
+}
+
+var codeBlock14 =   '<p>How are federal agencies meeting their obligation to contract with more women-owned small businesses? Use this dashboard to examine five years of data on federal awards for women-owned small businesses. Apply the drop downs filters to adjust the visuals and explore breakdowns by agency, state and fiscal year. The data displayed in the dashboard is populated from the Federal Procurement Data System (FPDS). </p>' ;
+'<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/9110" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+

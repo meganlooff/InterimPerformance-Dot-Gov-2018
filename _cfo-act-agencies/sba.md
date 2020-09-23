@@ -64,11 +64,3 @@ GoG: yes
   </div>
 </div>
 
-
-<div class="usa-grid usa-graphic_list-row">
-  <div class="usa-width-one-whole usa-media_block agency-page-section">
-    <h2 style="color:#046b99;">Women-Owned Small Business Federal Contracts</h2>
-    <p>How are federal agencies meeting their goal to contract with more women-owned small businesses? Use this dashboard to examine five years of data on federal awards for women-owned small businesses. Apply the drop downs filters to adjust the visuals and explore breakdowns by agency, state and fiscal year. The data displayed in the dashboard is populated from the Federal Procurement Data System (FPDS).</p>
-    <p><iframe src="https://d2d.gsa.gov/tableau-report-for-embed/9110" id="no-frame-border" frameborder="0" style="height:674px;width:950px;"></iframe></p>
-  </div>
-</div>
