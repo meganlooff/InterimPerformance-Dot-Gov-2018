@@ -26,6 +26,8 @@ layout: navigation_PMA
     <div class="usa-grid usa-graphic_list-row" style="text-align:center;" id="desktop-pres">
       {% if page.image%} <!--checks for single winner-->
         <img src="{{ site.baseurl }}{{ page.image }}" style="width:400px;">
+      {% endif %}
+      {% if page.Members%}
         <p><i>Members: {{ page.members }}</i></p>
       {% endif %}
       {% if page.image-1 %}

@@ -53,4 +53,3 @@ Recovering the functionality of an instrument flying in space 22,300 miles above
 </div>  
 
 Ottenweller described a recent experience forecasting fog over southwestern Alaska. Before GOES-17 data was available, forecasters would have to wait for data from polar-orbiting satellites passing over Alaska. “Now, not only do I have reliable data, but I can loop that data. This changes everything,” said Ottenweller.
-Summary submitted by Department of Commerce

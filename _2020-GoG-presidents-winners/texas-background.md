@@ -10,10 +10,10 @@ mission-photo-1: "/img/GoG/tx-mission-1.jpg"
 mission-photo-2: "/img/GoG/tx-mission-2.jpg"
 mission-photo-3: "/img/GoG/tx-mission-3.JPG"
 
-previous-title: Team Name
-previous-url: /gearawards/#######/
-next-title: Team Name
-next-url:  /gearawards/#####/
+previous-title: NOAA Weather Satellite Team
+previous-url: /gearawards/noaa-weather-satellite-team/
+next-title: James Tipton
+next-url:  /gearawards/james-tipton/
 
 
 
