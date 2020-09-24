@@ -12,9 +12,9 @@ summary: summary_large_image
 
 agency:
 
-description: The Gears of Government President's Award - See the Winners!
+description: The Gears of Government President's Awards - See the Winners!
 
-excerpt: The Gears of Government President's Award - See the Winners!
+excerpt: The Gears of Government President's Awards - See the Winners!
 
 image: "/img/GoG/gears-govt-presidents.png"
 image_accessibility: Gears of Government President's Award logo against a gold background.
@@ -31,7 +31,7 @@ tags:
 
 **PRESS RELEASE**
 
-**September 30, 2012**
+**September 30, 2020**
 
 **Administration Recognizes Federal Employees' Contributions with Gears of Government President’s Awards**
 
@@ -41,9 +41,9 @@ tags:
 
 **Winners**
 
-**Tax Reform Information Technology Implementation Project**
+**Internal Revenue Service Tax Reform IT Team**
 
-Translated broad tax policy goals from Congress into tangible computer programming changes for IRS technology systems. The team updated more than 140 IT systems and 500 tax products, resulting in effective, timely implementation of tax legislation. 
+Translated broad tax policy goals from Congress into tangible computer programming changes for IRS technology systems. The team updated more than 140 IT systems and 500 tax products, resulting in effective, timely implementation of tax legislation.
 
 [IMAGE]
 
@@ -51,13 +51,13 @@ Translated broad tax policy goals from Congress into tangible computer programmi
 
 **Electronic Departmental Order (eDO) Team**
 
-Implemented a firearm appeal process allowing the public to submit requests and receive responses electronically. Their efforts reduced response times by over 95%, decreased staffing needs by over 70%, and improved customer experience.Translated broad tax policy goals from Congress into tangible computer programming changes for IRS technology systems. The team updated more than 140 IT systems and 500 tax products, resulting in effective, timely implementation of tax legislation. 
+Implemented a firearm appeal process allowing the public to submit requests and receive responses electronically. Their efforts reduced response times by over 95%, decreased staffing needs by over 70%, and improved customer experience. Translated broad tax policy goals from Congress into tangible computer programming changes for IRS technology systems. The team updated more than 140 IT systems and 500 tax products, resulting in effective, timely implementation of tax legislation.
 
 [IMAGE]
 
-*Members: Paula J. Zirkle, Charles F. Smith, Joshua A. Cutler, D.R. McCartney, Julie L. Greynolds, Management and Program Analyst (Retired)*
+*Members: Paula J. Zirkle, Charles F. Smith, Joshua A. Cutler, D.R. McCartney, Julie L. Greynolds*
 
-**The Veterans Health Administration Innovation Ecosystem Team**
+**Veterans Health Administration Innovation Ecosystem Team**
 
 Developed three major innovations including practices to de-prescribe unnecessary medicine to veterans, prevent pneumonia, and encourage VA Police to carry intranasal opioid overdose reversal medication. Their projects improved care for over 120,000 veterans, lowered costs for taxpayers by over $24 million, saved lives from opioid overdoses, and advanced care for the entire field of medicine.
 
@@ -78,10 +78,10 @@ Restored the functionality of NOAA’s new weather satellite following a visibil
 [IMAGE]
 
 
-*Members: Harry A. Cikanek III, Vanessa L. Griffin, Director, Daniel T. Lindsey, Joseph A. Pica, 
+*Members: Harry A. Cikanek III, Vanessa L. Griffin, Director, Daniel T. Lindsey, Joseph A. Pica,
 Pamela C. Sullivan*
 
-**Texas Service Center EOIR Data Team**
+**Texas Service Center Background Check Unit Team**
 
 Streamlined the identification of criminal cases for USCIS’ Background Check Unit through collaboration with partners at the DOJ. The team’s work led to a more efficient and effective vetting process, generating a daily average of 600 positive criminal cases, freeing up time to be spent on the most critical cases.
 
@@ -92,4 +92,4 @@ Streamlined the identification of criminal cases for USCIS’ Background Check U
 
 **Background**
 
-The Gears of Government Awards recognize individuals and teams across the Federal workforce. Each May, the Executive Office of the President presents exemplary Agency and Council Award recipients with the Gears of Government President’s Award. Agencies may hold additional award ceremonies throughout the year.
+The Gears of Government Awards recognize individuals and teams across the federal workforce. Each May, the Executive Office of the President presents exemplary Agency and Council Award recipients with the Gears of Government President’s Award. Agencies may hold additional award ceremonies throughout the year.
