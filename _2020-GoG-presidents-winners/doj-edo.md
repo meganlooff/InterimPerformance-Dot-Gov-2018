@@ -1,36 +1,19 @@
 ---
-title: DOJ Electronic Departmental Order (eDO) Team
+title: Electronic Departmental Order (eDO) Team
 layout: GoG-presidents-winners
 permalink: /gearawards/doj-edo/
+name: Electronic Departmental Order (eDO) Team
+agency: Department of Justice
 
-image-1:  "/img/GoG/headshots/##.jpg"
-image-1-name: Paula J. Zirkle
-image-1-title: Program Manager
+image: /img/GoG/winners/doj-edo.jpg
 
-image-2: "/img/GoG/headshots/###.jpg"
-image-2-name: Charles F. Smith
-image-2-title: Supervisory Criminal History Challenge Analyst
+members: Paula J. Zirkle, Charles F. Smith, Joshua A. Cutler, D.R. McCartney, Julie L. Greynolds, Management and Program Analyst (Retired)
+mission-photo-1:
+mission-photo-2:
 
-image-3: "/img/GoG/headshots/###.jpg"
-image-3-name: Joshua A. Cutler
-image-3-title: Supervisory Criminal History Challenge Analyst
-
-image-4: /img/GoG/headshots/###.jpg"
-image-4-name: D.R. McCartney
-image-4-title: Management and Program Analyst
-
-image-5: "/img/GoG/headshots/##.jpg"
-image-5-name: Julie L. Greynolds    
-image-5-title: Management and Program Analyst
-
-location: "/img/GoG/location/PA.png"
-
-mission-photo-1: "/img/GoG/hhs-mission-1.jpg"
-mission-photo-2: "/img/GoG/hhs-mission-4.jpg"
-
-previous-title: Team Name
-previous-url: /gearawards/#######/
-next-title: Team Name
+previous-title:
+previous-url: 
+next-title: IRS Tax Reform IT Team
 next-url:  /gearawards/irs-tax-reform/
 
 ---

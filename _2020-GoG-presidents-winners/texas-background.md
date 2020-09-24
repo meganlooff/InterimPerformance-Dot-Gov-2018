@@ -1,32 +1,14 @@
 ---
-tilte: Texas Service Center Background Check Unit
+tilte: Texas Service Center Background Check Unit Team
 layout: GoG-presidents-winners
 permalink: /gearawards/texas-background-check-unit/
 
-image-1:  "/img/GoG/headshots/sieger.jpg"
-image-1-name: Nancy Sieger
-image-1-title: IRS Acting Chief Information Officer
+image: /img/GoG/winners/tsc-bsu.jpg
+members: James K. Bowen, Lawrence W. Barry, Jeffery D. Terry, Charles A. Bullard
 
-image-2: "/img/GoG/headshots/bedoya.jpg"
-image-2-name: Rob Bedoya
-image-2-title: IRS Associate Chief Information Officer, Enterprise Program Management Office
-
-image-3: "/img/GoG/headshots/deleon.jpg"
-image-3-name: Tracy DeLeon
-image-3-title: IRS Senior Advisor to the Deputy Commissioner for Services and Enforcement
-
-image-4: /img/GoG/headshots/drake.jpg"
-image-4-name: Craig Drake
-image-4-title: IRS Deputy Associate Chief Information Officer, Applications Development
-
-image-5: "/img/GoG/headshots/corbin.jpg"
-image-5-name: Kenneth Corbin
-image-5-title: Commissioner, IRS Wage and Investment Division
-
-location: "/img/GoG/location/MD.png"
-
-mission-photo-1: "/img/GoG/hhs-mission-1.jpg"
-mission-photo-2: "/img/GoG/hhs-mission-4.jpg"
+mission-photo-1: "/img/GoG/tx-mission-1.jpg"
+mission-photo-2: "/img/GoG/tx-mission-2.jpg"
+mission-photo-3: "/img/GoG/tx-mission-3.JPG"
 
 previous-title: Team Name
 previous-url: /gearawards/#######/
@@ -36,6 +18,17 @@ next-url:  /gearawards/#####/
 
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This DHS team* streamlined the identification of criminal cases for the USCIS’ Background Check Unit by collaborating  with partners at the Department of Justice. This work led to a more efficient and effective vetting process, generating a daily average of 600 positive criminal cases, freeing up time for the  most critical cases.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The creativity and ingenuity this team took to improve this process is detailed below:
+Immigration Services Officer (ISO) Jeffery Terry and Supervisory Immigration Services Officer (SISO) Lawrence Barry from the TSC BCU worked with Immigration Services Analyst (ISA) Charles Bullard from the TSC Data Analysis & Reporting Team (DART) to identify all incoming applications and petitions with a criminal record.
+
+The team, including Jeffery Terry, Lawrence Barry & Charles Bullard,  discovered that the new vetting system would require more resources (e.g., more officers) to individually vet 600 additional filings a day.
+
+In collaboration with the Office of the Chief Data Officer (OCDO), office, the team discovered an existing information sharing agreement with the Department of Justice’s Executive Office for Immigration Review (DOJ-EOIR)..  Since the discovery of this agreement wouldn’t solve the existing problem of connecting individuals to the data, the OCDO  tapped the Data and Business Intelligence (DBIS) team to help with a solution.
+
+DBIS Chief Shawn Benjamin and Emerging Technology Lead Prabha Rajendran created an innovative  technology solution that gave USCIS access to the data in aggregate form for the very first time, opening accessibility to the data for all data analysts in USCIS. The solution also allowed the process to perform at a safely-metered throughput-level, where it would remain dependably stable in the long-term.
+
+As a result of this collaboration between USCIS and DOJ, EOIR data was made available in a USCIS data warehouse and is accessible and usable by all USCIS analysts. The BCU analysis is completed electronically in seconds, allowing the BCU team to focus their time on criminal aliens not in removal proceedings at a much faster rate. This allows for a more efficient and robust method of identifying, resolving, and referring to all criminal cases that are received daily by the TSC. The DOJ-EOIR data was critical to streamlining the process in support of the DHS mission to safeguard the American people and to secure the homeland. SISO Barry shared, “The team is extremely grateful for USCIS’ Data Business Intelligence Support Service and the Office of Chief Data Officer, in particular Chief Data Officer Dr. Matthew Gravis. Their support and work on this program were instrumental to its success.”  
+
+<i>*<b>This effort included the collaboration of</b>: DHS’ U.S. Citizenship and Immigration Services (USCIS), Texas Service Center, Background Check Unit Public Safety team, the Office of the Chief Data Officer (OCDO), and the Data and Business Intelligence team (DBIS), TSC data analysts</i>
