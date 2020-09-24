@@ -1,18 +1,29 @@
 ---
-title: Team Name
+title: Mr. James Tipton
 layout: GoG-presidents-winners
-permalink: /gearawards/placeholder-5/
+permalink: /gearawards/james-tipton/
 
 name: Team Name
 agency: Department of Energy and National Aeronautics and Space Administration
-image-1:  "/img/GoG/winners/chambers-angela.jpg"
-image-1-name: Firstname Lastname
-image-2: "/img/GoG/headshots/pulse-m.png"
-image-2-name: Firstname Lastname
-image-3: "/img/GoG/headshots/gibson-m.jpeg"
-image-3-name: Firstname Lastname
-image-4: "/img/GoG/headshots/mason-l.JPG"
-image-4-name: Firstname Lastname
+image-1:  "/img/GoG/headshots/sieger.jpg"
+image-1-name: Nancy Sieger
+image-1-title: IRS Acting Chief Information Officer
+
+image-2: "/img/GoG/headshots/bedoya.jpg"
+image-2-name: Rob Bedoya
+image-2-title: IRS Associate Chief Information Officer, Enterprise Program Management Office
+
+image-3: "/img/GoG/headshots/deleon.jpg"
+image-3-name: Tracy DeLeon
+image-3-title: IRS Senior Advisor to the Deputy Commissioner for Services and Enforcement
+
+image-4: /img/GoG/headshots/drake.jpg"
+image-4-name: Craig Drake
+image-4-title: IRS Deputy Associate Chief Information Officer, Applications Development
+
+image-5: "/img/GoG/headshots/corbin.jpg"
+image-5-name: Kenneth Corbin
+image-5-title: Commissioner, IRS Wage and Investment Division
 
 mission-photo-1: "/img/GoG/krusty-mission-1.JPG"
 mission-photo-2: "/img/GoG/krusty-mission-2.jpg"

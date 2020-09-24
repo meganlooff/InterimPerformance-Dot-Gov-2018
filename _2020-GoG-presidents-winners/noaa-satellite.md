@@ -1,21 +1,42 @@
 ---
-tilte: Team Name
+title: NOAA Weather Satellite Team
 layout: GoG-presidents-winners
-permalink: /gearawards/placeholder-4/
+permalink: /gearawards/noaa-weather-satellite-team/
 
 name: Team Name
 agency: Department of Health and Human Services
-image: "/img/GoG/headshots/Kathleen-Uhl.jpg"
+image-1:  "/img/GoG/headshots/sieger.jpg"
+image-1-name: Nancy Sieger
+image-1-title: IRS Acting Chief Information Officer
 
-location: "/img/GoG/location/MD.png"
+image-2: "/img/GoG/headshots/bedoya.jpg"
+image-2-name: Rob Bedoya
+image-2-title: IRS Associate Chief Information Officer, Enterprise Program Management Office
+
+image-3: "/img/GoG/headshots/deleon.jpg"
+image-3-name: Tracy DeLeon
+image-3-title: IRS Senior Advisor to the Deputy Commissioner for Services and Enforcement
+
+image-4: /img/GoG/headshots/drake.jpg"
+image-4-name: Craig Drake
+image-4-title: IRS Deputy Associate Chief Information Officer, Applications Development
+
+image-5: "/img/GoG/headshots/corbin.jpg"
+image-5-name: Kenneth Corbin
+image-5-title: Commissioner, IRS Wage and Investment Division
 
 mission-photo-1: "/img/GoG/hhs-mission-1.jpg"
-mission-photo-2: "/img/GoG/hhs-mission-4.jpg"
+mission-photo-2: "/img/GoG/hhs-mission-2.jpg"
+mission-photo-3: "/img/GoG/hhs-mission-3.jpg"
+
+location: "/img/GoG/location/DC.png"
+
 
 previous-title: Team Name
 previous-url: /gearawards/#######/
 next-title: Team Name
 next-url:  /gearawards/#####/
+
 
 
 
