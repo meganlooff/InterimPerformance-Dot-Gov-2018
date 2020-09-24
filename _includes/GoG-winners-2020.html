@@ -6,7 +6,7 @@
 
     {% for 2020_GoG_winners in site.2020_GoG_winners %}
      {% if 2020_GoG_winners.award == "President's" %}
-    <div class="usa-width-one-third winner {{ GoG_winners.category }} {{ GoG_winners.story }}" style="height:300px;">
+    <div class="usa-width-one-third winner {{ 2020_GoG_winners.filters }} {{ GoG_winners.category }} {{ GoG_winners.story }}" style="height:300px;">
       <a href="{{site.baseurl}}{{2020_GoG_winners.permalink}}"><img src="{{ site.baseurl }}/img/{{ 2020_GoG_winners.image }}"></a>
       <p style="text-align:center"><b>{{ 2020_GoG_winners.name}}</b><br>
       <span style="text-align:center">{{ 2020_GoG_winners.agency }}</p>

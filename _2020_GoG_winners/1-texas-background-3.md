@@ -13,6 +13,7 @@ award: President's #type of award, either Agency, Council, or President's; this 
 Year: 2018 #variable to be used at later date
 image: GoG/gears-govt-presidents.png
 permalink: /gearawards/texas-background-check-unit/
+filters: GoG-team dhs president
 
 people:
 
