@@ -174,4 +174,4 @@ function myFunction14() {
 }
 
 var codeBlock14 =  '<h3>Women-Owned Small Business Federal Contracts</h3>' + '<p>How are federal agencies meeting their goal to contract with more women-owned small businesses? Use this dashboard to examine five years of data on federal awards for women-owned small businesses. Apply the drop downs filters to adjust the visuals and explore breakdowns by agency, state and fiscal year. The data displayed in the dashboard is populated from the Federal Procurement Data System (FPDS).</p>'  +
-    '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/9110" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+    '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/9110" id="no-frame-border-1" frameborder="0" style="height:1500px;width:1050px;"></iframe>';
