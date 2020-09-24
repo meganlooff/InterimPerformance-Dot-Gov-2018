@@ -34,7 +34,7 @@ mission-photo-2: "/img/GoG/irs-mission-2.jpg"
 mission-photo-3: "/img/GoG/irs-mission-3.jpg"
 
 previous-title: Team Name
-previous-url: /gearawards/#######/
+previous-url: /gearawards/doj-edo/
 next-title: Team Name
 next-url:  /gearawards/#####/
 
