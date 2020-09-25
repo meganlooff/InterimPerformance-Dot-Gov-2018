@@ -13,7 +13,7 @@ agency: Department of Justice #name of agency, capitalize first letter of each n
 award: President's #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 Year: 2018 #variable to be used at later date
 image: GoG/winners/dod-eod.png
-permalink: /gearawards/doj-edo/
+link: /gearawards/doj-edo/
 filters: GoG-team doj president
 people:
 

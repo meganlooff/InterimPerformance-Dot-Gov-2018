@@ -12,7 +12,7 @@ agency: Department of Homeland Security #name of agency, capitalize first letter
 award: President's #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 Year: 2018 #variable to be used at later date
 image: GoG/winners/tsc-bcu.png
-permalink: /gearawards/texas-background-check-unit/
+link: /gearawards/texas-background-check-unit/
 filters: GoG-team dhs president
 people:
  - Angela Chambers
