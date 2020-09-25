@@ -12,7 +12,7 @@ award: President's #type of award, either Agency, Council, or President's; this 
 Year: 2018 #variable to be used at later date
 image: GoG/winners/noaa-weather.png
 permalink: /gearawards/noaa-weather-satellite-team/
-filters: GoG-team president
+filters: GoG-team president doc
 people:
  - Angela Chambers
  - William Pulse

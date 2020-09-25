@@ -12,7 +12,7 @@ award: President's #type of award, either Agency, Council, or President's; this 
 Year: 2018 #variable to be used at later date
 image: GoG/winners/tipton.png
 permalink: /gearawards/james-tipton/
-filters: indiv president dod
+filters: indiv president defense
 people:
  - Angela Chambers
  - William Pulse
