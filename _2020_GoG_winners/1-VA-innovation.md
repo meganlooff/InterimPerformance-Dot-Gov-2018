@@ -3,7 +3,6 @@ name: Veterans Health Administration Innovation Ecosystem Team
 title: #job title
 team: no #mark no if an individual, NO CAPS
 length: short
-
 single: yes  #mark yes if an individual NO CAPS
 description: Developed a power source to support deep space travel that outlasts existing fuel sources. Using Stirling-engine  technology, this team tested a fuel source that paves the way for future manned missions to Mars and ensures that astronauts have adequate electrical power for long-term missions.
 #description of why there winning award, in an excel spreadsheet
@@ -15,12 +14,8 @@ image: GoG/winners/va-innovation.png
 permalink: /gearawards/vha-innovation/
 filters: GoG-team president va
 people:
-
  - Angela Chambers
  - William Pulse
  - Marc Gibson
  - Lee Mason
-
-
-
 ---

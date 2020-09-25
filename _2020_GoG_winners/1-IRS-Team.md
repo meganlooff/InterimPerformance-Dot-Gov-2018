@@ -3,7 +3,6 @@ name: IRS Tax Reform IT Team
 title: #job title
 team: no #mark no if an individual, NO CAPS
 length: short
-
 single: yes  #mark yes if an individual NO CAPS
 description: Developed a power source to support deep space travel that outlasts existing fuel sources. Using Stirling-engine  technology, this team tested a fuel source that paves the way for future manned missions to Mars and ensures that astronauts have adequate electrical power for long-term missions.
 #description of why there winning award, in an excel spreadsheet
@@ -14,14 +13,9 @@ Year: 2018 #variable to be used at later date
 image: GoG/winners/irs.png
 permalink: /gearawards/irs-tax-reform/
 filters: GoG-team president treasury
-
 people:
-
  - Angela Chambers
  - William Pulse
  - Marc Gibson
  - Lee Mason
-
-
-
 ---
