@@ -7,7 +7,7 @@ agency: Department of Justice
 
 image: /img/GoG/winners/doj-edo.jpg
 
-members: Paula J. Zirkle, Charles F. Smith, Joshua A. Cutler, D.R. McCartney, Julie L. Greynolds, Management and Program Analyst (Retired)
+members: Paula J. Zirkle, Charles F. Smith, Joshua A. Cutler, D.R. McCartney, Julie L. Greynolds
 mission-photo-1:
 mission-photo-2:
 
