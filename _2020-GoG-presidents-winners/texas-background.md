@@ -1,7 +1,10 @@
 ---
-tilte: Texas Service Center Background Check Unit Team
+title: Texas Service Center Background Check Unit Team
 layout: GoG-presidents-winners
 permalink: /gearawards/texas-background-check-unit/
+
+name: Texas Service Center Background Check Unit Team
+agency: Department of Homeland Security 
 
 image: /img/GoG/winners/tsc-bsu.jpg
 members: James K. Bowen, Lawrence W. Barry, Jeffery D. Terry, Charles A. Bullard
@@ -18,7 +21,7 @@ next-url:  /gearawards/james-tipton/
 
 
 ---
-This DHS team* streamlined the identification of criminal cases for the USCIS’ Background Check Unit by collaborating  with partners at the Department of Justice. This work led to a more efficient and effective vetting process, generating a daily average of 600 positive criminal cases, freeing up time for the  most critical cases.
+This DHS team* streamlined the identification of criminal cases for the USCIS’ Background Check Unit by collaborating with partners at the Department of Justice. This work led to a more efficient and effective vetting process, generating a daily average of 600 positive criminal cases, freeing up time for the  most critical cases.
 
 The creativity and ingenuity this team took to improve this process is detailed below:
 Immigration Services Officer (ISO) Jeffery Terry and Supervisory Immigration Services Officer (SISO) Lawrence Barry from the TSC BCU worked with Immigration Services Analyst (ISA) Charles Bullard from the TSC Data Analysis & Reporting Team (DART) to identify all incoming applications and petitions with a criminal record.
