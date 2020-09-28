@@ -1,9 +1,9 @@
-function myFunction14() {
-  document.getElementById("wrapper1").innerHTML = codeBlock14
+function myFunction20() {
+  document.getElementById("wrapper1").innerHTML = codeBlock20
 }
 
 
-var codeBlock14 =   '<h3>Operating and Maintenance Costs per Square Foot </h3>'+'<p> The metrics in the Operating and Maintenance Costs per Square Foot category show the ratio of a building’s operating and maintenance costs compared to the size of that building. The metrics calculate the total costs, either operating or maintenance, divided by the total square feet for owned office and warehouse buildings in the agency\'s inventory. You can select the different metrics for office space or warehouse space in the <em>Please Select a metric from the Dropdown List</em> Filter.</p>'+'<p> The square footage in the operating and maintenance costs per square foot calculation is based on an agency’s owned gross square footage and the usable square footage from occupancy agreements managed by GSA.\n </p>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/9076?:toolbar=no" id="no-frame-border-1" frameborder="0" style="height:1230px;width:1120px;"></iframe>';
+var codeBlock20 =  '<h3>Operating and Maintenance Costs per Square Foot </h3>'+'<p> The metrics in the Operating and Maintenance Costs per Square Foot category show the ratio of a building’s operating and maintenance costs compared to the size of that building. The metrics calculate the total costs, either operating or maintenance, divided by the total square feet for owned office and warehouse buildings in the agency\'s inventory. You can select the different metrics for office space or warehouse space in the <em>Please Select a metric from the Dropdown List</em> Filter.</p>'+'<p> The square footage in the operating and maintenance costs per square foot calculation is based on an agency’s owned gross square footage and the usable square footage from occupancy agreements managed by GSA.\n </p>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/9076?:toolbar=no" id="no-frame-border-1" frameborder="0" style="height:1230px;width:1120px;"></iframe>';
 
 function myFunction15() {
   document.getElementById("wrapper1").innerHTML = codeBlock15
