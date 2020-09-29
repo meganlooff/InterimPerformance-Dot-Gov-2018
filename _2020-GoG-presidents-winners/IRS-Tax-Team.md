@@ -33,8 +33,8 @@ mission-photo-1: "/img/GoG/irs-mission-1.jpg"
 mission-photo-2: "/img/GoG/irs-mission-2.jpg"
 mission-photo-3: "/img/GoG/irs-mission-3.JPG"
 
-previous-title: Electronic Departmental Order (eDO) Team
-previous-url: /gearawards/doj-edo/
+previous-title: Back to Hall of Winners
+previous-url: /gearawards/winners
 next-title: NOAA Weather Satellite Team
 next-url:  /gearawards/noaa-weather-satellite-team/
 

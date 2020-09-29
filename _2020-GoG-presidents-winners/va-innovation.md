@@ -34,8 +34,8 @@ location: "/img/GoG/location/WA.png"
 
 previous-title: James Tipton
 previous-url: /gearawardsjames-tipton
-
-
+previous-title: Electronic Departmental Order (eDO) Team
+previous-url: /gearawards/doj-edo/
 
 ---
 
