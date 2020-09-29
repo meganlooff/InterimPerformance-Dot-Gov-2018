@@ -33,9 +33,9 @@ mission-photo-3: "/img/GoG/vha-mission-3.jpg"
 location: "/img/GoG/location/WA.png"
 
 previous-title: James Tipton
-previous-url: /gearawardsjames-tipton
-previous-title: Electronic Departmental Order (eDO) Team
-previous-url: /gearawards/doj-edo/
+previous-url: /gearawards/james-tipton
+next-title: Electronic Departmental Order (eDO) Team
+next-url: /gearawards/doj-edo/
 
 ---
 
