@@ -32,8 +32,8 @@ mission-photo-3: "/img/GoG/2020-noaa-3.png"
 
 previous-title: IRS Tax Reform IT Team
 previous-url: /gearawards/irs-tax-reform/
-next-title: Texas Service Center Background Check Unit Team
-next-url:  /gearawards/texas-background-check-unit/
+next-title: Veterans Health Administration Innovation Ecosystem Team
+next-url:  /gearawards/vha-innovation/
 
 
 

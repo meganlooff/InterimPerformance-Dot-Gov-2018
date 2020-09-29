@@ -14,8 +14,8 @@ mission-photo-3: "/img/GoG/tipton-mission-3.JPG"
 
 previous-title: Texas Service Center Background Check Unit Team
 previous-url: /gearawards/texas-background-check-unit/
-next-title: Veterans Health Administration Innovation Ecosystem Team
-next-url:  /gearawards/vha-innovation/
+next-title: Electronic Departmental Order (eDO) Team
+next-url:  /gearawards/doj-edo/
 
 ---
 James Tipton, Lead Engineer for three B-1 ACAT III programs and Software Sustainment program for the Air Force Life Cycle Management Center, was awarded the Gears of Government President's Award for his innovative approach to the Air Force’s B-1 Bomber modernization and sustainment activities.  

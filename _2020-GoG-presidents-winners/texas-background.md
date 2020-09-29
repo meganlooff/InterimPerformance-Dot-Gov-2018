@@ -13,8 +13,8 @@ mission-photo-1: "/img/GoG/tx-mission-1.jpg"
 mission-photo-2: "/img/GoG/tx-mission-2.jpg"
 mission-photo-3: "/img/GoG/tx-mission-3.JPG"
 
-previous-title: NOAA Weather Satellite Team
-previous-url: /gearawards/noaa-weather-satellite-team/
+previous-title: Veterans Health Administration Innovation Ecosystem Team
+previous-url: /gearawards/vha-innovation/
 next-title: James Tipton
 next-url:  /gearawards/james-tipton/
 
@@ -36,4 +36,4 @@ ISO Terry, ISO Bryan Gee and SISO Barry worked with ISA James Bowen to create a 
 
 As a result of this collaboration between USCIS and DOJ, EOIR data was made available in a USCIS data warehouse and is accessible and usable by all USCIS analysts. The BCU analysis is completed electronically in seconds, allowing the BCU team to focus their time on criminal aliens not in removal proceedings at a much faster rate. This allows for a more efficient and robust method of identifying, resolving, and referring to the U.S. Immigration and Customs Enforcement (ICE) all criminal cases that are received daily by the TSC. The DOJ-EOIR data was critical to streamlining the process in support of the DHS mission to safeguard the American people and to secure the homeland. SISO Barry shared, “The team is extremely grateful for USCIS’ Data Business Intelligence Support Service and the Office of Chief Data Officer, in particular Chief Data Officer Dr. Matthew Gravis. Their support and work on this program were instrumental to its success.”
 
-<i>*<b>This effort included the collaboration of</b>: DHS’ U.S. Citizenship and Immigration Services (USCIS), Texas Service Center, Background Check Unit Public Safety team, the Office of the Chief Data Officer (OCDO), the Data and Business Intelligence team (DBIS), and TSC data analysts</i>
+<i>*<b>This effort included the collaboration of</b>: DHS’ U.S. Citizenship and Immigration Services (USCIS), Texas Service Center, Background Check Unit Public Safety team, the Office of the Chief Data Officer (OCDO), the Data and Business Intelligence team (DBIS), and TSC data analysts.</i>
