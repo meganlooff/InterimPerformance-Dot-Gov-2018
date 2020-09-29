@@ -18,7 +18,7 @@ next-title: Veterans Health Administration Innovation Ecosystem Team
 next-url:  /gearawards/vha-innovation/
 
 ---
-James Tipton, Lead Engineer for three B-1 ACAT III programs and Software Sustainment program for the Air Force Life Cycle Management Center, was awarded the Gears of Government Presidential Award for his innovative approach to the Air Force’s B-1 Bomber modernization and sustainment activities.  
+James Tipton, Lead Engineer for three B-1 ACAT III programs and Software Sustainment program for the Air Force Life Cycle Management Center, was awarded the Gears of Government President's Award for his innovative approach to the Air Force’s B-1 Bomber modernization and sustainment activities.  
 
 <div class="testimonial-blockquote">
   <p>“I’m honored to be recognized for this prestigious award.  This achievement, I believe, is really a reflection of the dedication and hard work across the entire B-1 Division,” Tipton said.   </p>

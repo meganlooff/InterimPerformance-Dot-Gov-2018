@@ -8,7 +8,7 @@ description: Developed a power source to support deep space travel that outlasts
 #description of why there winning award, in an excel spreadsheet
 category: multiple  #reference list of categories
 layout: GoG-presidents-winners
-agency: Department of Treasury #name of agency, capitalize first letter of each name
+agency: Department of the Treasury #name of agency, capitalize first letter of each name
 award: President's #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 Year: 2018 #variable to be used at later date
 image: GoG/winners/irs.png

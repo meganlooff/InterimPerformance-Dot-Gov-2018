@@ -11,8 +11,8 @@ members: Paula J. Zirkle, Charles F. Smith, Joshua A. Cutler, D.R. McCartney, Ju
 mission-photo-1:
 mission-photo-2:
 
-previous-title:
-previous-url:
+previous-title: Back to Hall of Winners
+previous-url: /gearawards/winners
 next-title: IRS Tax Reform IT Team
 next-url:  /gearawards/irs-tax-reform/
 

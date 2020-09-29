@@ -1,5 +1,5 @@
 ---
-name: DOJ Electronic Departmental Order (eDO) Team
+name: Electronic Departmental Order (eDO) Team
 title: #job title
 team: no #mark no if an individual, NO CAPS
 length: short

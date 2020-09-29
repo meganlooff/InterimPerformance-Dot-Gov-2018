@@ -44,6 +44,7 @@ This Gears of Government President’s Award recognizes the Veterans Health Admi
 “The VHA IE team has transformed the way VA employees view the culture of innovation in our organization,” said VA Secretary Robert Wilkie.
 <div class="testimonial-blockquote">
   <p>“VHA IE truly empowers frontline employees to take charge in helping improve services for Veterans by providing staff with proper resources to develop their ideas while simultaneously investing in the infrastructure necessary to adopt and accelerate cutting edge solutions in collaboration with academic and industry partners.”</p>
+  - VA Secretary Robert Wilkie
 </div>  
 
 Since its reconfiguration in 2018, VHA IE has helped reshape employees’ ability to discover and spread their innovations throughout the VA health care system. To date, VHA IE innovation projects have improved care for over 1 million Veterans, lowered costs for taxpayers by over $40 million, saved lives from opioid overdoses and advanced care for the entire field of medicine.

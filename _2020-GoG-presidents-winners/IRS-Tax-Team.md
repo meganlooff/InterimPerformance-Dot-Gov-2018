@@ -4,7 +4,7 @@ layout: GoG-presidents-winners
 permalink: /gearawards/irs-tax-reform/
 
 name: IRS Tax Reform Information Technology Team
-agency: Internal Revenue Service
+agency: Department of the Treasury
 
 image-1:  "/img/GoG/headshots/sieger.jpg"
 image-1-name: Nancy Sieger
@@ -50,7 +50,7 @@ A critical part of the success in delivering the tax reform changes came from th
 <div class="testimonial-blockquote">
   <p>“This was an enormous undertaking for the entire IRS organization under demanding deadline pressure,” said Nancy Sieger, the acting IRS Chief Information Officer and one of the honorees. “This effort required intense coordination between our IT function, the agency’s business units and the Chief Counsel organization. It was a team effort.”</p>
 
-  <p>“Working together, the IRS delivered for nation’s taxpayers,” said Ken Corbin, the IRS Wage and Investment Commissioner and another honoree. “Our goal was to simplify the experience for taxpayers and our partners in the tax industry to make it as easy as possible for them to fulfill their tax obligations quickly and accurately.” </p>
+  <p>“Working together, the IRS delivered for the nation’s taxpayers,” said Ken Corbin, the IRS Wage and Investment Commissioner and another honoree. “Our goal was to simplify the experience for taxpayers and our partners in the tax industry to make it as easy as possible for them to fulfill their tax obligations quickly and accurately.” </p>
 </div>    
 
 Other honorees included IRS IT leaders Robert Bedoya, Craig Drake and Tracy DeLeon.
