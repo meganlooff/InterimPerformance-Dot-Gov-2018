@@ -89,6 +89,6 @@ Streamlined the identification of criminal cases for USCIS’ Background Check U
 
 *Members: James K. Bowen, Lawrence W. Barry, Jeffery D. Terry, Charles A. Bullard*
 
-**Background**
 
-The Gears of Government Awards recognize individuals and teams across the federal workforce. Each May, the Executive Office of the President presents exemplary Agency and Council Award recipients with the Gears of Government President’s Award. Agencies may hold additional award ceremonies throughout the year.
+
+*The Performance.gov team recognizes and congratulates the 2020 Gears of Government President’s Awards winners. To learn more, visit www.performance.gov/gearawards.*
