@@ -89,4 +89,4 @@ Streamlined the identification of criminal cases for USCIS’ Background Check U
 
 *Members: James K. Bowen, Lawrence W. Barry, Jeffery D. Terry, Charles A. Bullard*
 
-*The Performance.gov team recognizes and congratulates the 2020 Gears of Government President’s Awards winners. To learn more, visit www.performance.gov/gearawards.*
+*The Performance.gov team recognizes and congratulates the 2020 Gears of Government President’s Awards winners. To learn more, visit [www.performance.gov/gearawards](www.performance.gov/gearawards).*
