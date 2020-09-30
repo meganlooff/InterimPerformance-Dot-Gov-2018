@@ -24,6 +24,8 @@ collections:
     output: true
   2020_GoG_winners:
         output: true
+  2020-GoG-presidents-winners:
+        output: true
   archive-apgs:
         output: true
 
