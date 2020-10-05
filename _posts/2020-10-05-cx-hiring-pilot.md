@@ -72,8 +72,6 @@ Finally, the technology must help agencies walk through more effective hiring fl
 
 * **A Cloud-based resume review platform built by the U.S. Digital Service** enables SMEs from across the government to participate in the process remotely. The tool aims to make resume review less subjective by requiring two SMEs to independently review every resume with a third SME breaking any tie. Additionally, instead of SMEs defaulting to what “qualified” means in their head, the tool lays out each required proficiency level and the SMEs are bound to just review those to determine qualifications.  
 
-<img src="../img/blog/cx-hiring-image-5.png">
-
 * **Asynchronous 20 minute interviews on HireVue** allowed candidates to record their answers to interview questions within a five-day deadline. Due to the COVID-19 pandemic, providing an option that allowed both applicants and SME reviewers the ability to provide and review interview question responses at times that worked best for them allowed for increased flexibility and faster completion.  The participating SMEs were able to add a more personal touch by uploading videos of federal employees introducing themselves and asking interview questions.
 
 <div class="testimonial-blockquote">
@@ -84,8 +82,6 @@ Finally, the technology must help agencies walk through more effective hiring fl
 <img src="../img/blog/cx-hiring-image-6.png">
 
 * **Digital scheduling software ScheduleOnce** streamlined the second-round interview scheduling process and saved time for all personnel involved in qualifying interviews.
-
-<center><img src="../img/blog/cx-hiring-image-7.png"></center>
 
 <div class="testimonial-blockquote">
 <p>So often you get a cert and you are asking yourself how did half of them make the cut for minimally qualified? This applicant list was full of clearly-qualified individuals. This saves a lot of time and frustration on the part of hiring managers."”  - Hiring manager from VA
