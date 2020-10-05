@@ -88,6 +88,6 @@ Finally, the technology must help agencies walk through more effective hiring fl
 
 <img src="../img/blog/cx-hiring-image-6.png">
 
-*Example of interview platform*
+<center><em style="font-size: 12px">Example of interview platform.</em></center>
 
 We are looking forward to working with more agencies as they work to scale this process across various job series and grade levels in the competitive service.  The federal government must have the talent and skills needed to provide the best services to the American people.  Every applicant must have a chance to be assessed based on merit in a truly fair and open competition.
