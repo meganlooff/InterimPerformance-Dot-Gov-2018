@@ -51,7 +51,7 @@ The 124 applicants who passed resume review, took the first assessment which was
 </p>
 </div>
 
-One of the highlights of the process is that private sector applicants don’t need to know the typical tricks of federal employment including much longer federal style resumes and the problem of over inflation on self-assessment questionnaires. In this process, SMEs are doing the evaluation, not the applicants. And applicants with 2-3 page resumes are on equal footing as federal applicants with much lengthier resumes. The chart below compares the sectors where applicants came from versus where the qualified applicant pool came from, and shows how federal employees, contractors, and private sector applicants all made it through this process.
+One of the highlights of the process is that private sector applicants don’t need to know the typical tricks of federal employment, including much longer federal style resumes and the problem of over inflation on self-assessment questionnaires. In this process, SMEs are doing the evaluation, not the applicants; and, applicants with 2-3 page resumes are on equal footing as federal applicants with much lengthier resumes. The chart below compares the sectors where applicants came from versus where the qualified applicant pool came from, and shows how federal employees, contractors, and private sector applicants all made it through this process.
 
 <center><img src="../img/blog/cx-hiring-image-4.png" style="width:450px"></center>
 
@@ -66,7 +66,7 @@ Though we had initially advertised 30 vacancies for this announcement, changing 
 
 Taking this type of hiring strategy from the pilot phase to helping it scale across the government will take several critical steps. The coordination aspect is key and over the past year USDS has received Cross Agency Priority funding to be able to help agencies coordinate these hiring actions for the first time they’re doing them. The government may need a permanent team out of OPM that can help agencies bridge the divide between policy guidance and the culture shift through hand holding through initial hiring attempts.
 
-On the agency side, it helps to have a talent team that is focused on the applicant experience. That includes a comprehensive recruitment strategy and really effective communications so applicants don’t feel lost in the process. Talent teams also excel at looking at data to analyze the results of previous hiring outcomes that answer questions beyond ‘how long did that take’ and really dig into ‘what was the qualify of that certificate?” “how happy are the hiring managers” and “are there always selections by hiring managers off the lists we provide to them?”
+On the agency side, it helps to have a talent team that is focused on the applicant experience. That includes a comprehensive recruitment strategy and really effective communications so applicants don’t feel lost in the process. Talent teams also excel at looking at data to analyze the results of previous hiring outcomes that answer questions beyond ‘"how long did that take?," and really dig into ‘what was the qualify of that certificate?” “how happy are the hiring managers?” and “are there always selections by hiring managers off the lists we provide to them?”
 
 Finally, the technology must help agencies walk through more effective hiring flows that encourage the use of alternative assessments. In this last regard, USDS and OPM have been partnering on several developments all used in this pilot:
 
