@@ -52,3 +52,44 @@ The 124 applicants who passed resume review, took the first assessment which was
 </div>
 
 One of the highlights of the process is that private sector applicants don’t need to know the typical tricks of federal employment including much longer federal style resumes and the problem of over inflation on self-assessment questionnaires. In this process, SMEs are doing the evaluation, not the applicants. And applicants with 2-3 page resumes are on equal footing as federal applicants with much lengthier resumes. The chart below compares the sectors where applicants came from versus where the qualified applicant pool came from, and shows how federal employees, contractors, and private sector applicants all made it through this process.
+
+<center><img src="../img/blog/cx-hiring-image-4.png" style="width:450px"></center>
+
+Though we had initially advertised 30 vacancies for this announcement, changing priorities due to COVID, resulted in 15 available vacancies to fill at the participating agencies. Of the 44 qualified applicants, thus far 22 offers have been extended with 17 acceptances to date. This includes selections from three agencies who did not originally sign up to participate in this government-wide effort. The remaining applicants will remain available for selection for a full year and work is starting on a shared certificate platform to encourage this practice.
+
+<div class="testimonial-blockquote">
+<p>The caliber of candidates was above and beyond my own candidates and recruitment.”  - Dept. of Ed Hiring Manager
+</p>
+</div>
+
+**Making effective assessments work at scale**
+
+Taking this type of hiring strategy from the pilot phase to helping it scale across the government will take several critical steps. The coordination aspect is key and over the past year USDS has received Cross Agency Priority funding to be able to help agencies coordinate these hiring actions for the first time they’re doing them. The government may need a permanent team out of OPM that can help agencies bridge the divide between policy guidance and the culture shift through hand holding through initial hiring attempts.
+
+On the agency side, it helps to have a talent team that is focused on the applicant experience. That includes a comprehensive recruitment strategy and really effective communications so applicants don’t feel lost in the process. Talent teams also excel at looking at data to analyze the results of previous hiring outcomes that answer questions beyond ‘how long did that take’ and really dig into ‘what was the qualify of that certificate?” “how happy are the hiring managers” and “are there always selections by hiring managers off the lists we provide to them?”
+
+Finally, the technology must help agencies walk through more effective hiring flows that encourage the use of alternative assessments. In this last regard, USDS and OPM have been partnering on several developments all used in this pilot:
+
+* **A Cloud-based resume review platform built by the U.S. Digital Service** enables SMEs from across the government to participate in the process remotely. The tool aims to make resume review less subjective by requiring two SMEs to independently review every resume with a third SME breaking any tie. Additionally, instead of SMEs defaulting to what “qualified” means in their head, the tool lays out each required proficiency level and the SMEs are bound to just review those to determine qualifications.  
+
+<img src="../img/blog/cx-hiring-image-5.png">
+
+* **Asynchronous 20 minute interviews on HireVue** allowed candidates to record their answers to interview questions within a five-day deadline. Due to the COVID-19 pandemic, providing an option that allowed both applicants and SME reviewers the ability to provide and review interview question responses at times that worked best for them allowed for increased flexibility and faster completion.  The participating SMEs were able to add a more personal touch by uploading videos of federal employees introducing themselves and asking interview questions.
+
+<div class="testimonial-blockquote">
+<p>No process is ever perfect, but this allows good candidates to shine and surface bad candidates when they don't have enough experience.”  - CX SME
+</p>
+</div>
+
+<img src="../img/blog/cx-hiring-image-6.png">
+
+* **Digital scheduling software ScheduleOnce** streamlined the second-round interview scheduling process and saved time for all personnel involved in qualifying interviews.
+
+<center><img src="../img/blog/cx-hiring-image-7.png"></center>
+
+<div class="testimonial-blockquote">
+<p>So often you get a cert and you are asking yourself how did half of them make the cut for minimally qualified? This applicant list was full of clearly-qualified individuals. This saves a lot of time and frustration on the part of hiring managers."”  - Hiring manager from VA
+</p>
+</div>
+
+We are looking forward to working with more agencies as they work to scale this process across various job series and grade levels in the competitive service.  The federal government must have the talent and skills needed to provide the best services to the American people.  Every applicant must have a chance to be assessed based on merit in a truly fair and open competition.
