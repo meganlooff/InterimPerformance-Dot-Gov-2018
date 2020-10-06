@@ -23,9 +23,13 @@ To meet the new response time demands of the Fix NICS Act, the eDO Team was chal
 
 The FBI has received positive feedback via forums from customers to include:
 
-1. *“It's incredible how quick they are with the new process.”*
-2. *“Wow! That’s lightning fast!”*
-3. *“Got the reply yesterday night and the report. Awesome!”*
-4. *“Fast eDO is here!”*
+
+<ol style="text-align:center;  list-style-position: inside">
+<li><i>“It's incredible how quick they are with the new process.”</i></li>
+<li><i>“Wow! That’s lightning fast!” </i></li>
+<li><i>“Got the reply yesterday night and the report. Awesome!” </i></li>
+<li><i>“Fast eDO is here!” </i></li>
+</ol>
+
 
 Due to the success of the eDO Team’s work, the FBI was also able to reallocate 55 employees to other high-priority NICS work. The automation of the NICS appeals process represents a better use of the taxpayer’s money. Through innovation, the eDO Team streamlined processes, eliminated waste, reduced costs, and significantly reduced processing times.
