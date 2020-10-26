@@ -14,7 +14,7 @@ description: In honor of National Women’s Small Business Month, we’ve partne
 
 excerpt: In honor of National Women’s Small Business Month, we’ve partnered with SBA’s Office of Government Contracting and Business Development and Office of Program Performance, Analysis, and Evaluation to highlight the Women-Owned Small Businesses (WOSBs) data dashboard!
 
-image: "/img/blog/wosb1.jpg"
+image: "/img/blog/wosb3.jpg"
 image_accessibility: Screenshot of Women-Owned Small Business dashboard
 
 authors:
