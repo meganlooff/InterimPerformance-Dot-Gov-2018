@@ -21,8 +21,8 @@ authors:
 - Small Business Administration (SBA) and Performance.gov Team
 
 tags:
-- sba
-- data
+- SBA
+- beta data
 ---
 
 In honor of National Women’s Small Business Month, we’ve partnered with SBA’s *Office of Government Contracting and Business Development* and *Office of Program Performance, Analysis, and Evaluation* to highlight the Women-Owned Small Businesses (WOSBs) data dashboard! According to the [U.S. Census Bureau’s Annual Survey of Entrepreneurs](https://www.census.gov/programs-surveys/ase.html), the U.S. has nearly 1.1 million women-owned businesses with 99.9% of them categorized as small businesses. In FY19, more than $25 billion was awarded to WOSBs, as the Federal Government met the goal of **awarding five percent of all federal contracting dollars** to women-owned small businesses each year.
