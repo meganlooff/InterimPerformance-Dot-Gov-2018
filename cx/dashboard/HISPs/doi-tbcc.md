@@ -1,7 +1,7 @@
 ---
 title: Trust Beneficiary Call Center - Department of Interior - CX CAP Goal Dashboard
-permalink: /cx/dashboard/doi/ost/
-hisp_service_id: doi-ost
+permalink: /cx/dashboard/doi/tbcc/
+hisp_service_id: doi-tbcc
 layout: hisp
 logo_type: seal
 hisp_profile_headline: "More than $4.4 billion passes through Tribal and IIM accounts annually"
