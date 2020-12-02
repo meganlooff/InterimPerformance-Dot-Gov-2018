@@ -69,7 +69,7 @@ goal-leader-title: "Director of National Intelligence, Office of the Director of
 goal-leader-2-photo: "/img/CAP-photos/ezra_cohen.png"
 alt_text_2: Photo of Ezra A. Cohen #Goal leader 2
 goal-leader-2-name: "Ezra A. Cohen"
-goal-leader-2-title: "Acting Under Secretary of Defense for Intelligence, Department of Defense"
+goal-leader-2-title: "Acting Under Secretary of Defense for Intelligence & Security, Department of Defense"
 
 goal-leader-3-photo: "/img/CAP-photos/rigas-michael.jpg"
 alt_text_3: Photo of Michael Rigas
