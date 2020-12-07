@@ -14,7 +14,7 @@ description: As winners of one of three Government Effectiveness Advanced Resear
 
 excerpt: As winners of one of three Government Effectiveness Advanced Research (GEAR) Center Challenge grand prizes in 2019, the Volcker Alliance, the Centers for Civic Impact at Johns Hopkins University (Civic Impact), and the Mid-America Regional Council (MARC) set out to train federal practitioners in the Kansas City region in data management, performance management, and communicating with data.
 
-image: "/img/blog/volcker-update-image.jpg"
+image: "/img/blog/volcker-gear-blog.jpg"
 image_accessibility: Women working on laptop
 
 authors:
@@ -50,7 +50,7 @@ Across agencies, leaders enthusiastically embraced the opportunity to deepen dat
 
 Engagement was greatest among practitioners from the U.S. Custom and Immigration Services, where learners completed 122 courses, and the U.S. Department of Agriculture, where 40 learners collectively completed 75 courses (see Figure 1). 
 
-<img src="">
+<img src="../img/blog/volcker-figure-1.png">
 *Figure 1: Courses Completed by Agency*
 
 ###Participants found the curriculum relevant and valuable.###
@@ -58,7 +58,8 @@ Compared to municipal employees, federal learners were more engaged throughout t
 free online courses (MOOCs) is 12.6%..
 
 Forty-nine federal learners showed an especially high level of interest by completing three or more courses. Together, these “super learners” enrolled in 289 courses and had a completion rate of 81% (see Figure 2).
-<img src="">
+
+<img src="../img/blog/volcker-figure-2.png">
 *Figure 2: Course Completion Rate*
 
 One super learner, Andrea Dorch, a regional supervisor at the U.S. Department of Housing and Urban Development, completed six courses. “I have been able to apply the skills in my day-to-day responsibilities,” she reported. Andrea found the course on strengthening analytic insights to be particularly beneficial.
