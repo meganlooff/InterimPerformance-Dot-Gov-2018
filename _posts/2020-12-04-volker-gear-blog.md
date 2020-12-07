@@ -14,7 +14,7 @@ description: As winners of one of three Government Effectiveness Advanced Resear
 
 excerpt: As winners of one of three Government Effectiveness Advanced Research (GEAR) Center Challenge grand prizes in 2019, the Volcker Alliance, the Centers for Civic Impact at Johns Hopkins University (Civic Impact), and the Mid-America Regional Council (MARC) set out to train federal practitioners in the Kansas City region in data management, performance management, and communicating with data.
 
-image: "/img/blog/volcker-gear-blog.jpg"
+image: "/img/blog/volcker-gear-update.jpg"
 image_accessibility: Women working on laptop
 
 authors:
