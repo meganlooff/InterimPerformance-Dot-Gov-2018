@@ -57,11 +57,12 @@ Engagement was greatest among practitioners from the U.S. Custom and Immigration
 *Figure 1: Courses Completed by Agency*
 
 **Participants found the curriculum relevant and valuable.**
+
 Compared to municipal employees, federal learners were more engaged throughout the courses. Forty-four percent of federal learners completed the course; whereas, the average completion rate for free online courses (MOOCs) is 12.6%.
 
 Forty-nine federal learners showed an especially high level of interest by completing three or more courses. Together, these “super learners” enrolled in 289 courses and had a completion rate of 81% (see Figure 2).
 
-<img src="../img/blog/volcker-figure-2.png" style="widthL450px;">
+<img src="../img/blog/volcker-figure-2.png" style="width:450px;">
 *Figure 2: Course Completion Rate*
 
 One super learner, Andrea Dorch, a regional supervisor at the U.S. Department of Housing and Urban Development, completed six courses. “I have been able to apply the skills in my day-to-day responsibilities,” she reported. Andrea found the course on strengthening analytic insights to be particularly beneficial.
