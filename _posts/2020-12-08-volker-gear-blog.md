@@ -71,7 +71,7 @@ One super learner, Andrea Dorch, a regional supervisor at the U.S. Department of
 
 <div class="testimonial-blockquote">
   <p>The skills I gained have enabled me to assess staff workload more effectively, determine where inefficiencies lie more accurately and make adjustments so that work distribution is more equitable.” 
-    
+        <br/><br/>
   - Andrea Dorch, HUD
   </p>
   </div>
