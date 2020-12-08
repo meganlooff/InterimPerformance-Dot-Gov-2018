@@ -18,7 +18,7 @@ image: "/img/blog/volcker-gear-update.jpg"
 image_accessibility: Women working on laptop
 
 authors:
-- Volcker Alliance, Centers for Civic Impact, and the Mid-America Regional Council
+- Sara Mogulescu and Yesenia Martinez (from the Volcker Alliance)
 
 tags:
 - PMA
