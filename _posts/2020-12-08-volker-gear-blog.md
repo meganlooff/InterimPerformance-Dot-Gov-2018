@@ -46,7 +46,7 @@ Across agencies, leaders enthusiastically embraced the opportunity to deepen dat
 
 <div class="testimonial-blockquote">
   <p>Support of agency leadership played a significant role in boosting enrollment and helping ensure learners had the time and appropriate technological tools to access courses.” 
-    
+    <br/><br/>
   - Larry Hisle, Executive Director of the Kansas City FEB
   </p>
 </div>
