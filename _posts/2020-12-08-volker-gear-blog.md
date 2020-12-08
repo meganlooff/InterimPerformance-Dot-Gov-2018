@@ -84,6 +84,6 @@ The Volcker Alliance’s national G2U network—now launched in Chicago, North C
 
 According to Amanda Graor, Chief Innovation Officer at MARC, G2U’s lead partner in Kansas City, “a regional approach to skill-building is powerful.” Building on the GEAR Center Challenge pilot, MARC has been developing a training academy for government employees at all levels—local, state, and federal. “We know there is an appetite to build skills around data use and management. We are harnessing lessons learned through this pilot to build a sustainable learning community in the Kansas City region.”
 
-Find out more information on the GEAR Center Challenge Pilot [here](https://www.volckeralliance.org/GEAR).
+Find out more information on the [GEAR Center Challenge Pilot here](https://www.volckeralliance.org/GEAR).
 
 
