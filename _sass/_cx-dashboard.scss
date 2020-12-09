@@ -307,7 +307,7 @@ height : 75px;
 // from USWDS 2.9.1
 .usa-dark-background {
 	color: #FFFFFF;
-	
+
   p,
   span {
     color: #FFFFFF;
@@ -320,4 +320,8 @@ height : 75px;
       color: #FFFFFF;
     }
   }
+}
+
+.width-full{
+  width:100%;
 }

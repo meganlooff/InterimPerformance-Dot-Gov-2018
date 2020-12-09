@@ -21,6 +21,8 @@ Meet Shanice. She lives in Louisiana with her husband and three children and run
 
 They were able to make it to the school, which was two blocks  away. As they were driving, water was coming into their car and they had to abandon it and walk. When Shanice and her family returned home, they found her restaurant destroyed. She called the FEMA hotline to register and was afterwards instructed to apply for an SBA loan. She thought SBA could help her as a small business but didn’t realize they could also provide loans to individuals as well. After her evaluation, she was thrilled to quickly receive a notice that she qualified for an SBA loan.
 
+![]({{ site.baseurl }}/cx/images/FCXI-Journey-Maps-Disaster-Survivor.jpg)
+
 Shanice considers herself lucky. It has taken several of her friends years to receive financial assistance after filing multiple appeals and being routed back and forth between agencies.
 
 People who live through a natural disaster receive critical support from the government, interacting with agencies at the Federal, state, and local level; along with insurance companies, charities, and nonprofits. At times, this can be challenging for individuals and their families to understand the full scope of what support is available and to decide what is right for them. During the application process, survivors are in a state of crisis and struggle to navigate complex government processes.

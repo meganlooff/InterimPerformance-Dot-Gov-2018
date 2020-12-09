@@ -34,6 +34,8 @@ ending. This phase is full of big decisions that influence the rest of the perso
 
 Orienting ourselves to the general process of an intellectually disabled person transitioning from the perspective of Centers of Medicare & Medicaid Services, Department of Education, Department of Health and Human Services, Department of Labor, and Social Security Administration helped us identify subject matter experts and appropriate offices to interview.
 
+![]({{ site.baseurl }}/cx/images/FCXI-Journey-Maps-Disability.jpg)
+
 We were fortunate to work with an outstanding team, many of whom have done previous design work, to build the critical first layer of qualitative customer data. 24 interviews with not only members of the public who were intellectually disabled, but also advocacy groups, service providers, family members, and government employees at various levels. We supplemented this research by collecting 334 responses from surveying the intellectual disability community with questions related to better understanding their experience navigating support services at the federal, state, and local levels. We compiled this data and used it in 5 iterative design sessions with 20+ federal employees involved in the disability support environment.
 
 This journey map is a composite of the experiences of the people we spoke with, and shows the steps and support as they articulated them. This map has five sections:
