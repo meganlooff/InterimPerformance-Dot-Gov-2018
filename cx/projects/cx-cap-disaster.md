@@ -19,9 +19,11 @@ tags:
 
 Meet Shanice. She lives in Louisiana with her husband and three children and runs a restaurant on the first floor of her home. During a hurricane in 2019, her family “ignored the warnings and decided not to evacuate”. She remembers “I was in bed and someone was running down the street saying flood, flood, flood! I jumped up and put my feet on the floor and landed in a puddle of water.”
 
+![Disaster journey personas]({{ site.baseurl }}/cx/images/Personas-02_Disaster.jpg)
+
 They were able to make it to the school, which was two blocks  away. As they were driving, water was coming into their car and they had to abandon it and walk. When Shanice and her family returned home, they found her restaurant destroyed. She called the FEMA hotline to register and was afterwards instructed to apply for an SBA loan. She thought SBA could help her as a small business but didn’t realize they could also provide loans to individuals as well. After her evaluation, she was thrilled to quickly receive a notice that she qualified for an SBA loan.
 
-![]({{ site.baseurl }}/cx/images/FCXI-Journey-Maps-Disaster-Survivor.jpg)
+![Disaster journey map]({{ site.baseurl }}/cx/images/FCXI-Journey-Maps-Disaster-Survivor.jpg)
 
 Shanice considers herself lucky. It has taken several of her friends years to receive financial assistance after filing multiple appeals and being routed back and forth between agencies.
 

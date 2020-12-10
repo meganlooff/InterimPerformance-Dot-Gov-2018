@@ -21,7 +21,11 @@ tags:
 
 Meet Claire. She has a moderate intellectual disability that was identified when she was four. She loves being involved in extracurricular activities at school, so this year with COVID-19 has been particularly challenging. Claire’s mom took off work for six weeks at the beginning of the lockdown to help her establish a new normal.
 
-Claire’s mom applied for a Medicaid waiver when she was five, however it took Claire eight years to get off the waitlist. Claire receives Supplemental Security Income (SSI) and is learning how to drive with the help of waiver services. Over the summer, she works part-time at a local restaurant bussing tables. She’d like to take on more hours, but she’s “frustrated she can’t work more without losing SSI.” Her mother asked her to “stop working altogether to make sure she is able to receive SSI for life.” As the family is getting older, she “wants to make sure she’ll be ok if something happens to her”
+![Disability journey personas]({{ site.baseurl }}/cx/images/Personas-02_Disability.jpg)
+
+Claire’s mom applied for a Medicaid waiver when she was five, however it took Claire eight years to get off the waitlist. Claire receives Supplemental Security Income (SSI) and is learning how to drive with the help of waiver services. Over the summer, she works part-time at a local restaurant bussing tables. She’d like to take on more hours, but she’s “frustrated she can’t work more without losing SSI.” Her mother asked her to “stop working altogether to make sure she is able to receive SSI for life.” As the family is getting older, she “wants to make sure she’ll be ok if something happens to her.”
+
+![Disability journey map]({{ site.baseurl }}/cx/images/FCXI-Journey-Maps-Disability.jpg)
 
 To Claire and her family, these are a series of decisions to make on what services are available to them. To the Federal Government, it triggers possible eligibility for programs spread across dozens of agencies, not to mention state and local government and charities. It might mean a Transition Plan from the U.S. Department of Education, a Support Coordinator from the County Boards of Developmental Disability, Supplemental Security Income from the Social Security Administration, Medicaid Waiver from the State Medicaid Office. Each has their own process, regulations, and paperwork.
 
@@ -33,8 +37,6 @@ This journey shows a person with an intellectual disability, who has limits in t
 ending. This phase is full of big decisions that influence the rest of the person’s life, making it particularly challenging to navigate.
 
 Orienting ourselves to the general process of an intellectually disabled person transitioning from the perspective of Centers of Medicare & Medicaid Services, Department of Education, Department of Health and Human Services, Department of Labor, and Social Security Administration helped us identify subject matter experts and appropriate offices to interview.
-
-![]({{ site.baseurl }}/cx/images/FCXI-Journey-Maps-Disability.jpg)
 
 We were fortunate to work with an outstanding team, many of whom have done previous design work, to build the critical first layer of qualitative customer data. 24 interviews with not only members of the public who were intellectually disabled, but also advocacy groups, service providers, family members, and government employees at various levels. We supplemented this research by collecting 334 responses from surveying the intellectual disability community with questions related to better understanding their experience navigating support services at the federal, state, and local levels. We compiled this data and used it in 5 iterative design sessions with 20+ federal employees involved in the disability support environment.
 
