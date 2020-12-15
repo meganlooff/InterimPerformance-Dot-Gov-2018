@@ -94,7 +94,7 @@ function myFunction2() {
   document.getElementById("wrapper").innerHTML = codeBlock2
 }
 
-var codeBlock2 =   '<h3>Cybersecurity - Manage Asset Security <em>(Updated December 2020)</em></h3>' + '<p>The dashboard below tracks FY2020 Q3 - FY2020 Q4 change for four asset security metrics for 23 federal agencies. Measuring progress in asset security area helps the Federal Government protect federal networks, software, and devices from unauthorized activity.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI Data_FY20Q4_11_27_20.xlsx">Download Data</a>' +
+var codeBlock2 =   '<h3>Cybersecurity - Manage Asset Security <em>(Updated December 2020.)</em></h3>' + '<p>The dashboard below tracks FY2020 Q3 - FY2020 Q4 change for four asset security metrics for 23 federal agencies. Measuring progress in asset security area helps the Federal Government protect federal networks, software, and devices from unauthorized activity.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI Data_FY20Q4_11_27_20.xlsx">Download Data</a>' +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8526" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction3() {
