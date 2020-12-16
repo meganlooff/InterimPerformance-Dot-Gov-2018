@@ -32,7 +32,7 @@ While the tool was created for disaster communications, there are several ways s
 The USA-TECQ tool provides a user-friendly way to strengthen communication. Users can tailor and target audiences regionally or based on their proximity to a river or a railroad. With this tool, users can increase publicity and gain more media mentions.
 
 <div class="testimonial-blockquote">
-  <p>Anytime you need to reach your audience on a local level, the tool is a great way to do so. It’s fast, accurate, and easy to use..” 
+  <p>Anytime you need to reach your audience on a local level, the tool is a great way to do so. It’s fast, accurate, and easy to use.” 
     <br/><br/>
   - Gabbie Perret
   </p>
