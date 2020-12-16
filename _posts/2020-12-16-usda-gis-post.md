@@ -47,7 +47,8 @@ Before this tool, agencies relied on manual lists or other means to pull togethe
 For example, with the TECQ tool, one federal agency pulled localized data together in less than two hours for a project. With other tools, it could potentially take a team of four days to pull the necessary information. 
 
 <img src="../img/blog/tool-gif.gif" style="width:500px;">
-<center><i style="font-size: 14px;">GIF showing the USA-TECQ tool in action.</i></center>
+
+ *GIF showing the USA-TECQ tool in action.*
 
 <div class="testimonial-blockquote">
   <p>GSA’s Media Affairs team routinely uses the tool to pull hyper-local media queries for GSA events around the country, most notably for openings of new federal buildings and U.S. Courthouses or when we dispose of surplus property.” 
@@ -70,7 +71,8 @@ Some of the data layers contain:
 - Native American tribal boundaries and lands
 
 <img src="../img/blog/tool-gif-2.gif" style="width:500px;">
-<center><i style="font-size: 14px;">GIF showing USA-TECQ tool highlighting U.S. railways.</i></center>
+
+*GIF showing USA-TECQ tool highlighting U.S. railways*
 
 <div class="testimonial-blockquote">
   <p>A Regional Public Affairs Officer told me she used the tool to send her press release to local outlets that were previously unknown to her. After she did this, several picked up the story and ran the official photos she had sent! It was a wonderful way to reach GSA’s stakeholders who were interested in the news of a new courthouse.” 
