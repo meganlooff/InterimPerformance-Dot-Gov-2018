@@ -2,7 +2,7 @@
 layout: post
 rating: "0"
 
-title: " Fast and Easy to Use: A Tool by USDA Helps Reach Local Media"
+title: " Fast & Easy to Use: A Tool by USDA Helps Reach Local Media"
 
 permalink: /usda-tool-local-media/
 
@@ -12,7 +12,7 @@ agency: usda
 
 description: A while back, we shared a blog post about the U.S. Department of Agriculture’s (USDA) new communications tool. Known as the USA-Targeted External Communications Query (USA-TECQ), the tool provides quick, targeted communications to local communities. This allows local news outlets to be aware of federal news and activities.
 
-image: "/img/blog/volcker-gear-update.jpg"
+image: "/img/blog/map-pin.jpg"
 
 image_accessibility: Women working on laptop
 
@@ -34,7 +34,7 @@ The USA-TECQ tool provides a user-friendly way to strengthen communication. User
 <div class="testimonial-blockquote">
   <p>Anytime you need to reach your audience on a local level, the tool is a great way to do so. It’s fast, accurate, and easy to use..” 
     <br/><br/>
-  - Gabbie Perret, Senior Media Advisor at GSA
+  - Gabbie Perret
   </p>
 </div>
 
@@ -46,8 +46,8 @@ Before this tool, agencies relied on manual lists or other means to pull togethe
 
 For example, with the TECQ tool, one federal agency pulled localized data together in less than two hours for a project. With other tools, it could potentially take a team of four days to pull the necessary information. 
 
-<img src="../img/blog/tool-gif.gif">
-*GIF showing the USA-TECQ tool in action*
+<img src="../img/blog/tool-gif.gif" style="width:500px;">
+<center><i style="font-size: 14px;">GIF showing the USA-TECQ tool in action.</i></center>
 
 <div class="testimonial-blockquote">
   <p>GSA’s Media Affairs team routinely uses the tool to pull hyper-local media queries for GSA events around the country, most notably for openings of new federal buildings and U.S. Courthouses or when we dispose of surplus property.” 
@@ -69,8 +69,8 @@ Some of the data layers contain:
 - Marine highways and ports
 - Native American tribal boundaries and lands
 
-<img src="../img/blog/tool-gif-2.gif">
-*GIF showing USA-TECQ tool highlighting U.S. railways*
+<img src="../img/blog/tool-gif-2.gif" style="width:500px;">
+<center><i style="font-size: 14px;">GIF showing USA-TECQ tool highlighting U.S. railways.</i></center>
 
 <div class="testimonial-blockquote">
   <p>A Regional Public Affairs Officer told me she used the tool to send her press release to local outlets that were previously unknown to her. After she did this, several picked up the story and ran the official photos she had sent! It was a wonderful way to reach GSA’s stakeholders who were interested in the news of a new courthouse.” 
