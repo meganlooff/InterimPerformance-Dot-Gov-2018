@@ -33,6 +33,7 @@ Quality decisions, enabled by improved investigative and adjudicative capabiliti
 Optimized government-wide capabilities through enterprise approaches; and
 Strong partnership with Federal Insider Threat programs to identify, deter, and mitigate problems before they negatively impact the workforce or national security. " #third accordion text
 
+action-2021-january: "/CAP/action_plans/jan_2021_Security_Suitability_Reform.pdf"
 action-2020-september: "/CAP/action_plans/september_2020_Security_Suitability.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Security_Suitability.pdf"
 

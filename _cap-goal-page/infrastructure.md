@@ -28,6 +28,7 @@ challenge: "The American people rely on infrastructure improvements to benefit o
 
 opportunity: "Opportunity to: Improving the Federal environmental review and authorization process will enable infrastructure project sponsors to start construction sooner, create jobs earlier, and fix our Nation’s infrastructure faster while also ensuring that a project’s potential impacts on environmental and community resources are considered and managed throughout the planning process and infrastructure investment strengthens our economic platform, makes America more competitive, creates jobs, increases wages for American workers, and reduces the costs of goods and services for American families and consumers." #third accordion text
 
+action-2021-january: "/CAP/action_plans/jan_2021_Modernize_Infrastructure_Permitting.pdf"
 action-2020-september: "/CAP/action_plans/september_2020_Modernize_Infrastructure_Permitting.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Modernize_Infrastructure_Permitting.pdf"
 

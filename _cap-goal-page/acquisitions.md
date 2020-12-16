@@ -66,6 +66,7 @@ opportunity: "Agencies will leverage advanced technology & best commercial & pub
  <li>75% of acquisition employees feel empowered and enabled to innovate on behalf of the taxpayers they serve.</li>
  </ul> " #third accordion text
 
+action-2021-january: "/CAP/action_plans/jan_2021_Frictionless_Acquisition.pdf"
 action-2020-september: "/CAP/action_plans/september_2020_Frictionless_Acquisition.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Frictionless_Acquisition.pdf"
 

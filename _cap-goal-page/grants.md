@@ -76,6 +76,7 @@ challenge: "The Federal government uses grants to invest approximately $700 bill
 
 opportunity: "Standardize the grants management business process and identify, open, standardize, and link data. Use standard business process and data to establish a robust marketplace of modern solutions that ease burden and drive efficiencies, respond to customer needs, and deliver on mission. Leverage data, including data produced by annual audits, to assess and manage recipient risk. Hold recipients accountable for good performance practices that support achievement of program goals and objectives and streamline burdensome compliance requirements for those that demonstrate results." #third accordion text
 
+action-2021-january: "/CAP/action_plans/jan_2021_Results-Oriented_Accountability_for_Grants.pdf"
 action-2020-september: "/CAP/action_plans/september_2020_Results-Oriented_Accountability_for_Grants.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Results-Oriented_Accountability_for_Grants.pdf"
 

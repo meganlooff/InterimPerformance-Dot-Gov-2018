@@ -48,6 +48,7 @@ opportunity-bullet-1: "To improve the efficiencies of government programs by foc
 
 opportunity-bullet-2: "Build trust in government by better understanding the nature of improper payments and their relationship to payment integrity."
 
+action-2021-january: "/CAP/action_plans/jan_2021_Getting_Payments_Right.pdf"
 action-2020-september: "/CAP/action_plans/september_2020_Getting_Payments_Right.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Getting_Payments_Right.pdf"
 

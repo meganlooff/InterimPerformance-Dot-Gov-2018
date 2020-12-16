@@ -263,8 +263,16 @@ blockquote-CAP cite {
           </button>
           <div id="a4" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
       <div class="usa-grid usa-graphic_list-row">
+          {% if page.action-2021-january %}
+          <div class="usa-width-one-fourth usa-media_block">
+
+              <p><a href="{{ site.baseurl }}{{ page.action-2021-january }}" target="_blank"><b>January 2021</b></a>
+              </p>
+          </div>
+          {% endif %}
+
           {% if page.action-2020-july %}
-          <div class="usa-width-one-third usa-media_block">
+          <div class="usa-width-one-fourth usa-media_block">
 <!--              Uncomment this to add more links to pdf action plans-->
 <!--              <p><a href="{{ site.baseurl }}{{ page.action-2020-december }}" target="_blank"><b>December 2020</b></a>-->
 <!--              </p>-->
@@ -277,7 +285,7 @@ blockquote-CAP cite {
           </div>
           {% endif %}
         {% if page.action-2019-june %}
-        <div class="usa-width-one-third usa-media_block">
+        <div class="usa-width-one-fourth usa-media_block">
           <p><a href="{{ site.baseurl }}{{ page.action-2019-december }}" target="_blank"><b>December 2019</b></a>
           </p>
           <p><a href="{{ site.baseurl }}{{ page.action-2019-september }}" target="_blank"><b>September 2019</b></a>
@@ -286,7 +294,7 @@ blockquote-CAP cite {
             </p>
          </div>
        {% endif %}
-        <div class="usa-width-one-third usa-media_block">
+        <div class="usa-width-one-fourth usa-media_block">
             <p><a href="{{ site.baseurl }}{{ page.action-2018-Q4 }}" target="_blank"><b>December 2018</b></a>
             </p>
             <p><a href="{{ site.baseurl }}{{ page.action-2018-Q3 }}" target="_blank"><b>September 2018</b></a>

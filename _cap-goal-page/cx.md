@@ -53,6 +53,7 @@ challenge: "Citizens and businesses expect well-designed, efficient government s
 
 opportunity: "There are opportunities to: increase trust in the Federal Government by improving the experience citizens and businesses have with federal services across all delivery channels; transform the customer experience by improving the usability and reliability of our government’s most critical digital services; and, create measurable improvements in customer satisfaction by using the principles and practices proven by leading private-sector organizations." #third accordion text
 
+action-2021-january: "/CAP/action_plans/jan_2021_CX.pdf"
 action-2020-september: "/CAP/action_plans/september_2020_Improving_Customer_Experience.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Improving_Customer_Experience.pdf"
 

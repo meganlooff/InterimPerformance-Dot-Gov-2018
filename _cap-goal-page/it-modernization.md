@@ -36,6 +36,7 @@ challenge: "The challenge includes: limited accountability for achieving enterpr
 
 opportunity: "There are opportunities to: expand the use of modern commercial technologies that are effective, economical, and secure; reduce the impact of cybersecurity risks by safeguarding IT systems, sensitive data, and networks; leverage common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens’ needs." #third accordion text
 
+action-2021-january: "/CAP/action_plans/jan_2021_IT_Modernization.pdf"
 action-2020-september: "/CAP/action_plans/september_2020_IT_Modernization.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_IT_Modernization.pdf"
 

@@ -39,6 +39,7 @@ challenge: "The Federal Government spends over $350 billion on common goods and 
 
 opportunity: "The Government will not only save taxpayer dollars, but this effort also will improve mission outcomes. For example, this will allow our law enforcement personnel to have easier access to equipment, such as ammunition and body armor, to ensure their safety; medical professionals can order medical supplies through electronic catalogues to save time and focus more on patients; and agencies can buy standardized computers to reduce cyber risk by having greater control over infrastructure and access points.  " #third accordion text
 
+action-2021-january: "/CAP/action_plans/jan_2021_Category_Management.pdf"
 action-2020-september: "/CAP/action_plans/september_2020_Category_Management.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Category_Management.pdf"
 
