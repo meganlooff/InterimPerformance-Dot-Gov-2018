@@ -96,5 +96,5 @@ When attendance numbers needed a boost, Gabbie quickly jumped on the tool to pul
 
 Gabbie and her team at GSA are one of many agencies that use the tool. Currently, the Department of Health and Human Services uses the tool to notify communities about COVID-related information. For many, the cost is minimal and the benefit enormous. Today, 24 federal agencies and 20 state governments use this tool to spread awareness on important topics.
 
-*If you are a state or federal agency that would like to learn more about how to access the tool, please reach out to its creator, [Dirk Fillpot](mailto:Dirk.Fillpot@oc.usda.gov). You can also learn more information about the tool on [USDA’s website](https://www.fgdc.gov/organization/coordination-group/meeting-minutes/2018/september/usa-tecq-presentation-to-fgdc-cg-20180911.pdf).
+*If you are a state or federal agency that would like to learn more about how to access the tool, please reach out to its creator, [Dirk Fillpot](mailto:Dirk.Fillpot@oc.usda.gov). You can also learn more information about the tool on [USDA’s website](https://www.fgdc.gov/organization/coordination-group/meeting-minutes/2018/september/usa-tecq-presentation-to-fgdc-cg-20180911.pdf).*
 
