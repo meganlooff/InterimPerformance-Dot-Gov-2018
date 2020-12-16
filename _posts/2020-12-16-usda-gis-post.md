@@ -25,7 +25,7 @@ tags:
 ---
 A while back, we shared a [blog post](https://www.performance.gov/2019-2-28-usda-blog-post/) about the U.S. Department of Agriculture’s (USDA) new communications tool. Known as the USA-Targeted External Communications Query (USA-TECQ), the tool provides quick, targeted communications to local communities. This allows local news outlets to be aware of federal news and activities. 
 
-While the tool was created for disaster communications, there are several ways state and federal agencies can use it. We recently spoke with **Gabbie Perret, Senior Media Advisor at the General Services Administration (GSA)**, about her experience with the tool. Check out what we learned!
+While the tool was created for disaster communications, there are several ways state and federal agencies can use it. We recently spoke with **Gabrielle Perret, Senior Media Advisor at the General Services Administration (GSA)**, about her experience with the tool. Check out what we learned!
 
 <b style="font-size: 20px; color: 07648d">**Reaching a Local Audience**</b>
 
@@ -34,7 +34,7 @@ The USA-TECQ tool provides a user-friendly way to strengthen communication. User
 <div class="testimonial-blockquote">
   <p>Anytime you need to reach your audience on a local level, the tool is a great way to do so. It’s fast, accurate, and easy to use.” 
     <br/><br/>
-  - Gabbie Perret
+  - Gabrielle Perret
   </p>
 </div>
 
@@ -52,7 +52,7 @@ For example, with the TECQ tool, one federal agency pulled localized data togeth
 <div class="testimonial-blockquote">
   <p>GSA’s Media Affairs team routinely uses the tool to pull hyper-local media queries for GSA events around the country, most notably for openings of new federal buildings and U.S. Courthouses or when we dispose of surplus property.” 
     <br/><br/>
-  - Gabbie Perret
+  - Gabrielle Perret
   </p>
 </div>
 
@@ -75,24 +75,24 @@ Some of the data layers contain:
 <div class="testimonial-blockquote">
   <p>A Regional Public Affairs Officer told me she used the tool to send her press release to local outlets that were previously unknown to her. After she did this, several picked up the story and ran the official photos she had sent! It was a wonderful way to reach GSA’s stakeholders who were interested in the news of a new courthouse.” 
     <br/><br/>
-  - Gabbie Perret
+  - Gabrielle Perret
   </p>
 </div>
 
-Gabbie also explained how the tool brought value when GSA held a public customer experience hackathon last year. The competition was held at eight locations around the country. The event was an important opportunity for GSA to improve customer experience on several major IT platforms. 
+Gabrielle also explained how the tool brought value when GSA held a public customer experience hackathon last year. The competition was held at eight locations around the country. The event was an important opportunity for GSA to improve customer experience on several major IT platforms. 
 
-When attendance numbers needed a boost, Gabbie quickly jumped on the tool to pull targeted queries of reporters whose audiences lived within driving distance of the cities in which GSA was holding the competitions. After using the tool to target local media outlets with the event information, GSA’s registration numbers jumped and attendance exceeded expectations.  
+When attendance numbers needed a boost, Gabrielle quickly jumped on the tool to pull targeted queries of reporters whose audiences lived within driving distance of the cities in which GSA was holding the competitions. After using the tool to target local media outlets with the event information, GSA’s registration numbers jumped and attendance exceeded expectations.  
 
 <b style="font-size: 20px; color: 07648d">**The Bottom Line**</b>
 
 <div class="testimonial-blockquote">
   <p>This is an incredible “good for government” product from USDA. It enables government agencies to reach citizens, small businesses, and other stakeholders at the local level where they get news in a cost-effective way.” 
     <br/><br/>
-  - Gabbie Perret
+  - Gabrielle Perret
   </p>
 </div>
 
-Gabbie and her team at GSA are one of many agencies that use the tool. Currently, the Department of Health and Human Services uses the tool to notify communities about COVID-related information. For many, the cost is minimal and the benefit enormous. Today, 24 federal agencies and 20 state governments use this tool to spread awareness on important topics.
+Gabrielle and her team at GSA are one of many agencies that use the tool. Currently, the Department of Health and Human Services uses the tool to notify communities about COVID-related information. For many, the cost is minimal and the benefit enormous. Today, 24 federal agencies and 20 state governments use this tool to spread awareness on important topics.
 
 *If you are a state or federal agency that would like to learn more about how to access the tool, please reach out to its creator, [Dirk Fillpot](mailto:Dirk.Fillpot@oc.usda.gov). You can also learn more information about the tool on [USDA’s website](https://www.fgdc.gov/organization/coordination-group/meeting-minutes/2018/september/usa-tecq-presentation-to-fgdc-cg-20180911.pdf).*
 
