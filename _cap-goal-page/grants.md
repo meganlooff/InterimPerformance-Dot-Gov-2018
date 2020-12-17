@@ -121,7 +121,7 @@ goal-leader-2-title: "Deputy Chief Financial Officer, Department of Health and H
 goal-leader-3-photo: "/img/CAP-photos/funston-robin.jpg"
 alt_text_3: Photo of Robin Funston  #Goal leader 3
 goal-leader-3-name: "Robin Funston"
-goal-leader-3-title: "Director of Strategic Planning & Performance, Department of Justice"
+goal-leader-3-title: "Director, Strategic Planning and Performance, Department of Justice"
 
 goal-leader-4-photo: "/img/agr/Circle-icons-profle.svg.png"
 alt_text_4: Photo of John Pasquantino #Goal leader 4
