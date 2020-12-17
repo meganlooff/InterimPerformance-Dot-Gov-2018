@@ -26,7 +26,7 @@ resource-4-url: https://www.sbir.gov/
 quote: "The drive for excellence, advancement, and innovation in the United States has brought forth significant discoveries, developed life-saving research, and improved the quality of life for millions of Americans." #appears in the gray text box
 quote-author: "President Trump, World Intellectual Property Day proclamation"
 font-size: 14.5px
-current-action-plan: "/CAP/action_plans/september_2020_Lab_to_Market.pdf"
+current-action-plan: "/CAP/action_plans/jan_2021_Lab_to_Market.pdf"
 
 #***********************FLOATING BOX SECTION*****************************
 
@@ -77,7 +77,7 @@ Director, National Institute of Standards and Technology, U.S. Department of Com
 goal-leader-2-photo: "/img/CAP-photos/kratsios-michael.jpg"
 alt_text_2: Photo of Michael Kratsios  #Goal leader 2
 goal-leader-2-name: "Michael Kratsios"
-goal-leader-2-title: "Chief Technology Officer of the United States, Office of Science and Technology Policy"
+goal-leader-2-title: "Chief Technology Officer of the United States, Office of Science and Technology Policy The White House"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8

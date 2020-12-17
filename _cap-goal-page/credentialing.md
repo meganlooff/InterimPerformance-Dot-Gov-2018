@@ -18,7 +18,7 @@ resource-2-url:  ##
 quote: "Now is the time for transformational change in how we vet our workforce. We are committed to reducing the investigation inventory and fundamentally overhauling the process." #appears in the gray text box
 quote-author: "Margaret Weichert, Goal Leader"
 font-size: 16px
-current-action-plan: "/CAP/action_plans/september_2020_Security_Suitability.pdf"
+current-action-plan: "/CAP/action_plans/jan_2021_Security_Suitability_Reform.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
