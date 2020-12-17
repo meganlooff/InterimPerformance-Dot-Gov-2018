@@ -26,7 +26,7 @@ resource-4-url:  https://www.cio.gov/reskilling/
 quote: "2019 is going to be a great year for citizen and mission results delivered through enabling technology advances." #appears in the gray text box
 quote-author: "Suzette Kent, Goal Leader"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/september_2020_IT_Modernization.pdf"
+current-action-plan: "/CAP/action_plans/jan_2021_IT_Modernization.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -36,6 +36,7 @@ challenge: "The challenge includes: limited accountability for achieving enterpr
 
 opportunity: "There are opportunities to: expand the use of modern commercial technologies that are effective, economical, and secure; reduce the impact of cybersecurity risks by safeguarding IT systems, sensitive data, and networks; leverage common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens’ needs." #third accordion text
 
+action-2021-january: "/CAP/action_plans/jan_2021_IT_Modernization.pdf"
 action-2020-september: "/CAP/action_plans/september_2020_IT_Modernization.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_IT_Modernization.pdf"
 
@@ -69,10 +70,15 @@ goal-leader-photo: "/img/CAP-photos/censky-steve.jpg"
 alt_text_1: Photo of Steve Censky  #Goal leader 1
 goal-leader-name: "Steve Censky"
 goal-leader-title: "Deputy Secretary, United States Department of Agriculture"
-goal-leader-2-photo: "/img/CAP-photos/bio_maria1.jpg"
-alt_text_2: Photo of Maria Roat  #Goal leader 2
-goal-leader-2-name: "Maria Roat"
-goal-leader-2-title: "Deputy Federal Chief Information Officer, Office of Management and Budget"
+goal-leader-2-photo: "/img/agr/Circle-icons-profle.svg.png"
+alt_text_2: Photo of Camilo Sandoval  #Goal leader 2
+goal-leader-2-name: "Camilo Sandoval"
+goal-leader-2-title: "Federal Chief Information Security Officer, Office of Management and Budget"
+
+goal-leader-3-photo: "/img/CAP-photos/bio_maria1.jpg"
+alt_text_3: Photo of Maria Roat  #Goal leader 3
+goal-leader-3-name: "Maria Roat"
+goal-leader-3-title: "Deputy Federal Chief Information Officer, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8

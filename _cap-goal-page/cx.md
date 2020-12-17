@@ -53,6 +53,7 @@ challenge: "Citizens and businesses expect well-designed, efficient government s
 
 opportunity: "There are opportunities to: increase trust in the Federal Government by improving the experience citizens and businesses have with federal services across all delivery channels; transform the customer experience by improving the usability and reliability of our government’s most critical digital services; and, create measurable improvements in customer satisfaction by using the principles and practices proven by leading private-sector organizations." #third accordion text
 
+action-2021-january: "/CAP/action_plans/jan_2021_CX.pdf"
 action-2020-september: "/CAP/action_plans/september_2020_Improving_Customer_Experience.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Improving_Customer_Experience.pdf"
 
@@ -82,10 +83,10 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/davis-lynda.JPEG"
-alt_text_1: Photo of Dr. Lynda Davis #Goal leader 1
-goal-leader-name: "Dr. Lynda Davis"
-goal-leader-title: "Chief Veterans Experience Officer, Department of Veterans Affairs"
+goal-leader-photo: "/img/agr/Circle-icons-profle.svg.png"
+alt_text_1: Photo of Pamela Powers #Goal leader 1
+goal-leader-name: "Pamela Powers"
+goal-leader-title: "Acting Deputy Secretary, Department of Veterans Affairs"
 goal-leader-2-photo: "/img/CAP-photos/cutts-matt.jpg"
 alt_text_2: Photo of Matt Cutts #Goal leader 2
 goal-leader-2-name: "Matt Cutts"
