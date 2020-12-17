@@ -66,7 +66,7 @@ quote: "Federal Grant Programs support activities that touch every American, suc
 as medical research, education, transportation infrastructure, and more." #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 17.5px
-current-action-plan: "/CAP/action_plans/september_2020_Results-Oriented_Accountability_for_Grants.pdf"
+current-action-plan: "/CAP/action_plans/jan_2021_Results-Oriented_Accountability_for_Grants.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -111,7 +111,7 @@ CAP-event-text:
 goal-leader-photo: "/img/CAP-photos/bell-dale.jpg"
 alt_text_1: Photo of Dale Bell
 goal-leader-name: "Dale Bell"
-goal-leader-title: "Division Director, Institution and Award Support, National Science Foundation"
+goal-leader-title: "Division Director, Institution of Award Support, National Science Foundation"
 
 goal-leader-2-photo: "/img/CAP-photos/conley-sheila.png"
 alt_text_2: Photo of Sheila Conley #Goal leader 2
@@ -121,12 +121,12 @@ goal-leader-2-title: "Deputy Chief Financial Officer, Department of Health and H
 goal-leader-3-photo: "/img/CAP-photos/funston-robin.jpg"
 alt_text_3: Photo of Robin Funston  #Goal leader 3
 goal-leader-3-name: "Robin Funston"
-goal-leader-3-title: "Director, Strategic Planning and Performance, Justice Management Division, Department of Justice"
+goal-leader-3-title: "Director of Strategic Planning & Performance, Department of Justice"
 
-goal-leader-4-photo: "/img/CAP-photos/soltis-tim-cropped.jpg"
-alt_text_4: Photo of Tim Soltis #Goal leader 4
-goal-leader-4-name: "Tim Soltis"
-goal-leader-4-title: "Deputy Controller, Office of Management and Budget"
+goal-leader-4-photo: "/img/agr/Circle-icons-profle.svg.png"
+alt_text_4: Photo of John Pasquantino #Goal leader 4
+goal-leader-4-name: "John Pasquantino"
+goal-leader-4-title: "Acting Deputy Controller, Office of Management and Budget"
 
 goal-leader-5-photo: "/img/CAP-photos/watson-laura.jpg"
 alt_text_5: Photo of Laura Watson  #Goal leader 5

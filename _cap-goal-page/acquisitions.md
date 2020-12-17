@@ -41,7 +41,7 @@ resource-8-url: https://www.performance.gov/CAP/Frictionless-Acquisition-Resourc
 quote: "We must reduce the costly lag between when our customers identify needs and when they receive solutions." #appears in the gray text box
 quote-author: "Michael Wooten, Goal Leader"
 font-size: 16px
-current-action-plan: "/CAP/action_plans/september_2020_Frictionless_Acquisition.pdf"
+current-action-plan: "/CAP/action_plans/jan_2021_Frictionless_Acquisition.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
