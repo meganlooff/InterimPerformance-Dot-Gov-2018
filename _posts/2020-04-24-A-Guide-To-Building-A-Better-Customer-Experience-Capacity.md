@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: cx_post
 rating: "0"
+cx_rating: "1"
 
 title: "A Guide to Building Customer Experience Capacity "
 
-permalink: /A-Guide-to-Building-A-Better-Customer-Experience-Capacity/
+permalink: /cx/blog/A-Guide-to-Building-A-Better-Customer-Experience-Capacity/
 
 summary: summary_large_image
 

@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: cx_post
 
 title: "NEW: First High Impact Service Provider (HISP) Action Plans Released"
 
 rating: "0"
 
-permalink: /CX-HISP-Action-Plans/
+permalink: /cx/blog/CX-HISP-Action-Plans/
 
 
 summary: summary_large_image
@@ -15,7 +15,6 @@ agency:
 description: In 2018, OMB Circular A-11 Section 280 guidance required the identified High Impact Service Providers (HISPs) to create an annual customer experience (CX) Action Plan. The CX CAP Goal team spent much of FY19 working with HISPs, providing direction and training to enable successful completion of the Plans.
 
 excerpt: In 2018, OMB Circular A-11 Section 280 guidance required the identified High Impact Service Providers (HISPs) to create an annual customer experience (CX) Action Plan. The CX CAP Goal team spent much of FY19 working with HISPs, providing direction and training to enable successful completion of the Plans.
-
 
 image: "/img/blog/cx-fda.jpg"
 image_accessibility: An FDA federal employee is assisting a farmer access information on a mobile device.
@@ -28,7 +27,6 @@ tags:
 - APG
 - PMA
 - cx
-
 
 ---
 In 2018, OMB Circular A-11 Section 280 guidance required the identified High Impact Service Providers (HISPs) to create an annual customer experience (CX) Action Plan. The CX CAP Goal team spent much of FY19 working with HISPs, providing direction and training to enable successful completion of the Plans. The HISPs were asked to fill out an Action Plan template which:

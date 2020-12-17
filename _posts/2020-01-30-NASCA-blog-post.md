@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: cx_post
 
 title: "Modernizing the Way Government Serves its Citizens"
 
 rating: "0"
 
-permalink: /NASCA-blog-post/
-
+permalink: /cx/blog/NASCA-blog-post/
 
 summary: summary_large_image
 

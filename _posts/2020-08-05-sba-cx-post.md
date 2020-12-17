@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: cx_post
 tumblr_url:
 
 title: "How the Small Business Administration is Improving Customer Experience During COVID-19"
 
 rating: "0"
 
-permalink: /sba-cx-post/
+permalink: /cx/blog/sba-cx-post/
 
 summary: summary_large_image
 

@@ -18,7 +18,7 @@ summary: summary_large_image
 excerpt: Cross-Agency and Agency Priority Goal teams today released the latest updates on the progress of high-priority federal initiatives.
 
 image: "/img/blog/FY18Q3-update.jpeg"
-image_accessibility: Photo of electrical machines creating new technology. 
+image_accessibility: Photo of electrical machines creating new technology.
 authors:
 - Performance.gov Team
 
@@ -32,7 +32,6 @@ tags:
 - sharing
 - data
 - workforce
-- cx
 - low-to-high
 - cm
 - grants
