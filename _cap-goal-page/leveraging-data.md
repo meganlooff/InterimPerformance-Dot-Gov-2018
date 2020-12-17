@@ -75,7 +75,7 @@ goal-leader-2-title: "Deputy Secretary, Department of Commerce"
 goal-leader-3-photo: "/img/CAP-photos/droeg-kelvin.jpg"
 alt_text_3: Photo of Kelvin Droegemeier
 goal-leader-3-name:  "Kelvin Droegemeier"
-goal-leader-3-title: "Director, White House Office of Science and Technology Policy"
+goal-leader-3-title: "Director, White House Office of Science and Technology "
 goal-leader-4-photo: "/img/CAP-photos/bio_maria1.jpg"
 alt_text_4: Photo of Maria Roat
 goal-leader-4-name: "Maria Roat"
