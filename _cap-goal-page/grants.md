@@ -123,7 +123,7 @@ alt_text_3: Photo of Robin Funston  #Goal leader 3
 goal-leader-3-name: "Robin Funston"
 goal-leader-3-title: "Director, Strategic Planning and Performance, Department of Justice"
 
-goal-leader-4-photo: "/img/agr/Circle-icons-profle.svg.png"
+goal-leader-4-photo: "/img/CAP-photos/ombSeal.png"
 alt_text_4: Photo of John Pasquantino #Goal leader 4
 goal-leader-4-name: "John Pasquantino"
 goal-leader-4-title: "Acting Deputy Controller, Office of Management and Budget"
