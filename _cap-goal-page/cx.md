@@ -83,7 +83,7 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/agr/Circle-icons-profle.svg.png"
+goal-leader-photo: "/img/CAP-photos/Pamela-Powers.png"
 alt_text_1: Photo of Pamela Powers #Goal leader 1
 goal-leader-name: "Pamela Powers"
 goal-leader-title: "Acting Deputy Secretary, Department of Veterans Affairs"
