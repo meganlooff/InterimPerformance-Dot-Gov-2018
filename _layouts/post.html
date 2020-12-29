@@ -1,30 +1,24 @@
 ---
 layout: navigation_PMA
-
 ---
 
 <section class="usa-section usa-section-dark usa-graphic_list">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-half usa-media_block">
        <div class="usa-media_block-body">
-         <a href="{{ site.baseurl }}/news" style="text-decoration:none;color:#d6d7d9;">
-
-           <b>&#10094; &nbsp; Back to News</a></b>
+         <a href="{{ site.baseurl }}/news" style="color: #d6d7d9; font-weight: bold; text-decoration:none;">
+           &#10094; &nbsp; Back to News
+         </a>
 
            <p class="card-tag-post"> {{ page.agency }}</p>
-              <h1-post>{{ page.title }}</h1-post><br>
+              <h1 style="margin-top: 0em;">{{ page.title }}</h1><br>
                 {% if page.byline %}
                   <p style="font-size:18px;">{{ page.byline }}</p>
                 {% endif %}
               <h3 style="color:#ffffff;"><i> {{ page.subtitle }}</i></h3>
               {% include post-author.html context="page" %}
-
       </div>
     </div>
-<div class="usa-width-one-half">
-    <!-- <img src="{{ site.baseurl }}{{ page.image }}">-->
-    </div>
-  </div>
   </div>
 </section>
 
@@ -59,22 +53,22 @@ layout: navigation_PMA
         <section class="post-pagination usa-grid">
           <div class="usa-width-one-half">
             {% if page.previous %}
-              <b><a href="{{ site.baseurl }}{{ page.previous.url }}" style="text-decoration:none;">
+              <a href="{{ site.baseurl }}{{ page.previous.url }}" style="text-decoration:none; font-weight: bold;">
                 <span class="link-arrow-left">
                 &#10094;  Previous Post
                 </span>
                 <h5>&ldquo;{{ page.previous.title }}&rdquo;</h5>
-              </a></b>
+              </a>
             {% endif %}
           </div>
           <div class="usa-width-one-half">
             {% if page.next %}
-                <b><a href="{{ site.baseurl }}{{ page.next.url }}" style="text-decoration:none;">
+                <a href="{{ site.baseurl }}{{ page.next.url }}" style="text-decoration:none; font-weight: bold;">
                   <span class="link-arrow-right">
                     Next Post &#10095;
                                     </span>
                   <h5>&ldquo;{{ page.next.title }}&rdquo;</h5>
-                </a></b>
+                </a>
             {% endif %}
           </div>
         </section>

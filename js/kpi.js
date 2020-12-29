@@ -115,7 +115,7 @@ function myFunction5() {
   document.getElementById("wrapper").innerHTML = codeBlock5
 }
 
-var codeBlock5 =   '<h3>Cloud Email Adoption <em>(Updated September 2020)</em></h3>' + '<p>The dashboard below shows percentage change of agency email inboxes serviced by cloud-based solutions from June 2020 - September 2020.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cloud-Email-Adoption_KPI Data_FY20Q3.xlsx">Download Data</a>' +
+var codeBlock5 =   '<h3>Cloud Email Adoption <em>(Updated December 2020)</em></h3>' + '<p>The dashboard below shows percentage change of agency email inboxes serviced by cloud-based solutions from September 2020 - December 2020.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cloud-Emai-Adoption_KPI-Data_FY20Q4.xlsx">Download Data</a>' +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8539" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction6() {
@@ -167,7 +167,7 @@ function myFunction13() {
   document.getElementById("wrapper").innerHTML = codeBlock13
 }
 
-var codeBlock13 =   '<h3>Cash Loss to the Government - Program Scorecards <em>(Updated September 2020)</em></h3>' + '<p>The government can achieve the greatest return on investment for the taxpayer by ensuring that improper payments are eliminated in the highest-risk programs, otherwise known as high-priority programs. Details about these programs can be found in the dashboard below as well as steps to improve their efficiency by focusing on reducing incorrect payment that result in monetary loss.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/getting-payments-right/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cash Loss to the Government_KPI Data_FY20Q3.xlsx">Download Data</a>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8537" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+var codeBlock13 =   '<h3>Cash Loss to the Government - Program Scorecards <em>(Updated December 2020)</em></h3>' + '<p>The government can achieve the greatest return on investment for the taxpayer by ensuring that improper payments are eliminated in the highest-risk programs, otherwise known as high-priority programs. Details about these programs can be found in the dashboard below as well as steps to improve their efficiency by focusing on reducing incorrect payment that result in monetary loss.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/getting-payments-right/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cash-Loss-to-the Government_KPI-Data_FY20Q4.xlsx">Download Data</a>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8537" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction14() {
   document.getElementById("wrapper-letter").innerHTML = codeBlock14
