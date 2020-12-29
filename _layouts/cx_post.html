@@ -27,7 +27,6 @@ layout: navigation_PMA
     <div class="usa-width-two-thirds usa-media_block">
       <div class="usa-media_block-body">
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
-        </p>
 
         <span class="card-tag-text">Tags:</span><br>
         <span class="post-tags" itemprop="keywords">
@@ -35,7 +34,6 @@ layout: navigation_PMA
           {% unless tag == 'sharing' or tag == 'IT' or tag == 'data' or tag == 'workforce' or tag == 'cx' or tag == 'low-to-high' or tag == 'cm' or tag == 'grants' or tag == 'payments' or tag == 'spending' or tag == 'acquisition' or tag == 'infrastructure' or tag == 'credentialing' or tag == 'lab' %}
           <span class="usa-label">
             <a style="color:#ffffff;" href="{{ site.baseurl }}/tags/{{ tag}}/">{{ tag }}</a>
-            </a>
           </span>
           {% endunless %}
           {% endfor %}
