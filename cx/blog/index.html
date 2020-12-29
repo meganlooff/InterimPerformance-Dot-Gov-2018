@@ -32,7 +32,7 @@ pagination:
         <h2>Featured Stories</h2>
         <br>
       </div>
-      {% for project in paginator.posts  %}
+      {% for project in site.posts  %}
       {% if project.cx_rating == "1" %}
       <div class="usa-width-one-half usa-width-tablet">
         {% include featured.html
@@ -100,13 +100,7 @@ pagination:
     </div>
   </div>
 
-  <!--  <center>
-      <a class="usa-button usa-button-big" href="older-news.html">Read Older Posts
-      </a>
-    </center>-->
 </section>
-
-
 
 {% comment %}
 {% include themes.html %} themes include for css grid; NOT IE compatible
