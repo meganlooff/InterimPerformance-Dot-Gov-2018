@@ -7,7 +7,6 @@ rating: "0"
 
 permalink: /Summer-Updates-Show-Progress/
 
-
 summary: summary_large_image
 
 agency:
@@ -33,7 +32,6 @@ tags:
 - sharing
 - data
 - workforce
-- cx
 - low-to-high
 - cm
 - grants

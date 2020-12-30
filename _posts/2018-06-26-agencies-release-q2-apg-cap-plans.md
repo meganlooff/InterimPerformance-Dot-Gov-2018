@@ -14,7 +14,7 @@ excerpt: Today Federal agencies released their Q2 progress updates on their curr
 summary: summary_large_image
 
 image: "/img/blog/rocket-smaller.jpg"
-image_accessibility: A spaceship launching into space. 
+image_accessibility: A spaceship launching into space.
 
 authors:
 - Performance.gov Team
@@ -29,7 +29,6 @@ tags:
 - sharing
 - data
 - workforce
-- cx
 - low-to-high
 - cm
 - grants

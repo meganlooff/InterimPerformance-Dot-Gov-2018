@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cx_post
 
 title: "VA Improves Customer Experience to Veterans with Text Message Appointment Reminders"
 
@@ -7,7 +7,7 @@ rating: "0"
 
 agency: "Department of Veterans Affairs"
 
-permalink: /2018-07-31-VEText-success-story/
+permalink: /cx/blog/2018-07-31-VEText-success-story/
 
 url: /2018-07-31-VEText-success-story.md
 
@@ -18,7 +18,7 @@ summary: summary_large_image
 excerpt: VA's VEText, a text messaging appointment-reminder system that allows veterans to easily confirm or cancel an appointment, has helped VA reduce no-show medical visits by more than 100,000.
 
 image: "/img/blog/va-vetext.jpg"
-image_accessibility: A person using a smartphone. 
+image_accessibility: A person using a smartphone.
 authors:
 - Department of Veterans Affairs
 

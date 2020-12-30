@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: cx_post
 
 title: "Improving the Customer Experience Government-wide"
 
 rating: "0"
 
-permalink: /improving-cx-governmentwide/
+permalink: /cx/blog/improving-cx-governmentwide/
 
 
 summary: summary_large_image
@@ -19,7 +19,7 @@ excerpt: Challenges and opportunities to improving cx in our largest citizen fac
 byline: We held conversations with 25 High-Impact Service Providers, identified because of the scale and impact their customer facing services have on the American public. With just these 25 programs, the Federal government touches nearly every American. Here is what we learned.  
 
 image: "/img/blog/cx-blog-1.jpg"
-image_accessibility: Photo of a piece of paper with Customer Experience CAP Goal data printed on it. 
+image_accessibility: Photo of a piece of paper with Customer Experience CAP Goal data printed on it.
 
 authors:
 - CX CAP Goal Team
