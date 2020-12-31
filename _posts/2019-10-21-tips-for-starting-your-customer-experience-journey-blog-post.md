@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: cx_post
 
 title: "Tips for Starting Your Customer Experience Journey"
 
 rating: "0"
 
-permalink: /tips-for-starting-your-customer-experience-journey/
+permalink: /cx/blog/tips-for-starting-your-customer-experience-journey/
 
 
 summary: summary_large_image

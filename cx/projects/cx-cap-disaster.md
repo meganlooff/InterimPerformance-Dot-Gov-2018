@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cx_post
 title: "Cross-agency Disaster Journey"
 rating: "0"
 permalink: /cx/projects/cx-cap/disaster/

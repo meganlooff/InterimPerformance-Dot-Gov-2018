@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: cx_post
 
 title: "Mapping the Cross-Agency Customer Experience Journey"
 
 rating: "0"
+cx_rating: "1"
 
-permalink: /mapping-cx-journey/
+permalink: /cx/blog/mapping-cx-journey/
 
 summary: summary_large_image
 
