@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cx_post
 title: "Mapping the Cross-Agency Customer Experience Journey"
 rating: "0"
 permalink: /cx/projects/va/journey/
