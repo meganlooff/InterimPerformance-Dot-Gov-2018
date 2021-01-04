@@ -5,8 +5,8 @@ title: "NEW: First High Impact Service Provider (HISP) Action Plans Released"
 
 rating: "0"
 
+redirect_from: /CX-HISP-Action-Plans/
 permalink: /cx/blog/CX-HISP-Action-Plans/
-
 
 summary: summary_large_image
 

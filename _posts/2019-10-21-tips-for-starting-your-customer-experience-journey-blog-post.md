@@ -5,6 +5,7 @@ title: "Tips for Starting Your Customer Experience Journey"
 
 rating: "0"
 
+redirect_from: /tips-for-starting-your-customer-experience-journey/
 permalink: /cx/blog/tips-for-starting-your-customer-experience-journey/
 
 

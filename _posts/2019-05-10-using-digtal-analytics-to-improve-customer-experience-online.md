@@ -5,6 +5,7 @@ title: "Using Digital Analytics to Improve Customer Experience Online "
 
 rating: "0"
 
+redirect_from: /using-digital-analytics-to-improve-customer-experience-online/
 permalink: /cx/blog/using-digital-analytics-to-improve-customer-experience-online/
 
 summary: summary_large_image

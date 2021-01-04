@@ -5,6 +5,7 @@ cx_rating: "1"
 
 title: "A Guide to Building Customer Experience Capacity "
 
+redirect_from: /A-Guide-to-Building-A-Better-Customer-Experience-Capacity/
 permalink: /cx/blog/A-Guide-to-Building-A-Better-Customer-Experience-Capacity/
 
 summary: summary_large_image
