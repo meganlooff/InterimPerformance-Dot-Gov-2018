@@ -1,33 +1,22 @@
 ---
 layout: cx_post
-
 title: "Mapping the Cross-Agency Customer Experience Journey"
-
 rating: "0"
-cx_rating: "1"
-
-permalink: /cx/blog/mapping-cx-journey/
-
+permalink: /cx/projects/va/journey/
 summary: summary_large_image
-
 agency:
-
 description: Imagine if the U.S. government understood how each of its services were part of a broader customer journey. How might federal agencies change their approach or even work together? How might citizens think differently about those services and their overall experience with government?
-
-
 excerpt: Imagine if the U.S. government understood how each of its services were part of a broader customer journey. How might federal agencies change their approach or even work together? How might citizens think differently about those services and their overall experience with government?
-
-
 image: "/img/blog/cx-blog-1.jpg"
 image_accessibility: Photo of piece of paper with customer experience journey on it.
-
 authors:
-- CX CAP Goal Team
-
+- VA CX Team
 tags:
 - PMA
 - CAP Goal
 - cx
+- Service Design
+- Customer Experience
 ---
 
 Meet Charlotte. She is a resident of Northern California who survived the devastating Camp Fire which burned nearly 154,000 acres. Her house where she lives with her aging mother, husband, and three children was destroyed and her family farm severely damaged.
@@ -50,7 +39,7 @@ When working across government organizations, it is important to capture both th
 1. **Qualitative Customer Data**: From customer feedback surveys instrumented at each interaction or transaction to extensive, representative interviews across the country, the purpose of this layer is to hear directly from people served in their own words. This data provides an understanding of what customers want, expect, and need from a system, product, or experience. Qualitative interviews shed light on how people see the world—their beliefs, mindsets, and how they think about the problem—and can help providers better understand what else is influencing how customers experience their service.
 2. **Process**: During this step-by-step mapping, actions taken by customers, employees, or other entities involved in services being acquired or delivered can be evaluated. Especially when processes involve handoffs or multiple teams in service delivery, it is critical to ensure every step is captured accurately, checking assumptions we make about others’ roles. When completing specific service maps, employee processes and actions are as important to capture as front-facing customer steps.
 3. **Rigorous Research and Behavioral Data**: Sometimes what people say and what they do are entirely different things. This is where it is critical to have an understanding of behavioral science, or knowledge of how people access, process, and act on information. Environmental factors, such as how forms are structured or who is relaying information, can affect how an individual responds. Conducting literature reviews related to particular choke points in a system or finding rigorous evaluations of similar challenges can help add evidence-based insight.
-4. **Operational Performance Data**: Understanding how a process works at the nuts and bolts level is vital. Performance metrics such as application processing volumes, engagement channel type, key performance indicators, service level agreements, and cost per transaction provide important information about what is actually happening with customers and within the organization. For example, a provider may hypothesize what a customer group finds confusing about a federal benefit program. Yet when they review data on actual customer questions, they may find more individuals are actually seeking information to address a different issue.  
+4. **Operational Performance Data**: Understanding how a process works at the nuts and bolts level is vital. Performance metrics such as application processing volumes, engagement channel type, key performance indicators, service level agreements, and cost per transaction provide important information about what is actually happening with customers and within the organization. For example, a provider may hypothesize what a customer group finds confusing about a federal benefit program. Yet when they review data on actual customer questions, they may find more individuals are actually seeking information to address a different issue.
 
 Together, these layers can build a more accurate picture of what matters most to customers, what drives the outcome of an organization’s mission, and where there is potential for a return on investment.
 
@@ -69,7 +58,7 @@ In 2017, over 290,000 service members made this transition and taxpayers spend b
 
 Many veterans have jobs, but the jobs are low-wage and do not offer opportunities for advancement. The government programs that offer veterans support in their employment journey are not centralized or personalized to veterans’ individualized life circumstances. To better understand veterans’ day-to-day experiences finding work, we interviewed people whose backgrounds were similar to the majority of those now leaving the military and entering the labor market. That led us to focus on transitioned service members with some level of higher education coursework but no college degree who enlisted and served 10 years or fewer in the military. These veterans face a labor market that rewards applicants with higher education degrees and industry-specific certifications. If we can understand the pain points of this subgroup of veterans and help smooth their pathway towards meaningful work, we can make improvements that may benefit all veterans.
 
-Orienting ourselves to the general process (as described in layer two of the holistic customer understanding above) of an individual transitioning out of the military from the perspective of the Department of Defense, Department of Labor, and Department of Veterans Affairs helped us identify subject matter experts and appropriate offices to interview.  
+Orienting ourselves to the general process (as described in layer two of the holistic customer understanding above) of an individual transitioning out of the military from the perspective of the Department of Defense, Department of Labor, and Department of Veterans Affairs helped us identify subject matter experts and appropriate offices to interview.
 
 We were fortunate to work with an outstanding team, many of whom have done previous design work serving veterans, to build the critical first layer described above (qualitative customer data). One to two hour interviews with 25 veterans in this profile, along with interviews with 18 stakeholders across 6 agencies, 10 subject matter experts, and Veterans Service Organizations, produced hundreds of pages of transcripts full of stories, insights, and patterns about the employment experience and associated support. We are excited to share the result of this work – a map of the transition from military service employment to employment in the civilian labor market.
 
