@@ -6,6 +6,7 @@ title: "How the Small Business Administration is Improving Customer Experience D
 
 rating: "0"
 
+redirect_from: /sba-cx-post/
 permalink: /cx/blog/sba-cx-post/
 
 summary: summary_large_image

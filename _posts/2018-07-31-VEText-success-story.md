@@ -7,9 +7,8 @@ rating: "0"
 
 agency: "Department of Veterans Affairs"
 
-permalink: /cx/blog/2018-07-31-VEText-success-story/
-
-url: /2018-07-31-VEText-success-story.md
+redirect_from: /2018-07-31-VEText-success-story/
+permalink: /cx/blog/VEText-success-story/
 
 description:  VA's VEText, a text messaging appointment-reminder system that allows veterans to easily confirm or cancel an appointment, has helped VA reduce no-show medical visits by more than 100,000.
 
