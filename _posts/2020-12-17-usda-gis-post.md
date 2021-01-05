@@ -1,6 +1,6 @@
 ---
 layout: post
-rating: "0"
+rating: "1"
 
 title: " Fast & Easy to Use: A Tool by USDA Helps Reach Local Media"
 
