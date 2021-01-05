@@ -17,7 +17,7 @@ description: Today, we published progress updates for both Cross-Agency Priority
 excerpt: Today, we published progress updates for both Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs) for the final quarter of FY2020. These updates highlight recent milestones and accomplishments as well as related initiatives that support progress towards a more modern and effective government.
 
 
-image: "/img/blog/july-2020.png"
+image: "/img/blog/january-2021.png"
 image_accessibility:
 
 authors:
@@ -72,7 +72,7 @@ The General Services Administration and the Robotic Process Automation (RPA) Com
 
 The Internal Revenue Service (IRS) launched a Reskilling Academy Pilot as an initiative under the [Workforce CAP Goal](https://www.performance.gov/CAP/workforce/) to provide new career opportunities for employees. After the six-week training course, employees are fully certified and qualified to enter new full-time jobs in roles that directly support the IRS’ mission to expand and strengthen support for taxpayers.
 
-<img src="../img/blog/update-image-4.png" style="width:650px;">
+<img src="../img/blog/image-update-4.png" style="width:650px;">
 
 Check out more highlights of key FY2020 CAP Goal progress featured on the Performance.gov [Twitter](https://twitter.com/PerformanceGov) and [LinkedIn](https://www.linkedin.com/company/35429296/admin/) pages.
 
