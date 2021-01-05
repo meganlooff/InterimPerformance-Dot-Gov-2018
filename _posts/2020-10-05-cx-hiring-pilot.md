@@ -4,6 +4,7 @@ rating: "0"
 
 title: "How to Hire the Best Talent Across Government"
 
+redirect_from: /CX-hiring-pilot/
 permalink: /cx/blog/CX-hiring-pilot/
 
 summary: summary_large_image
