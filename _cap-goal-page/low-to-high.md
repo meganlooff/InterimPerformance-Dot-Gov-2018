@@ -58,6 +58,7 @@ challenge: "All Federal Agencies are charged with effective stewardship of taxpa
 
 opportunity: "Federal Agencies can identify and streamline operational processes to improve the pursuit of mission outcomes and increase the effectiveness and efficiency of Government. " #third accordion text
 
+action-2021-january: "/CAP/action_plans/jan_2021_Low-Value_to_High-Value_Work.pdf"
 action-2020-september: "/CAP/action_plans/september_2020_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 

@@ -4,7 +4,7 @@ tumblr_url:
 
 title: "The Liberation of Federal Employees from Low-Value Work is Underway"
 
-rating: "1"
+rating: "0"
 
 permalink: /liberating-fed-employees-from-low-value-work-underway/
 
