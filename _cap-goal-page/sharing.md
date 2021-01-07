@@ -25,7 +25,7 @@ resource-5-url: https://ussm.gsa.gov/fibf/
 quote: "Shared services will create efficiencies in government and optimize the workforce by shifting resources to higher value work and reducing duplication across agencies " #appears in the gray text box
 quote-author: OMB Memo-19-16
 font-size: 17px
-current-action-plan: "/CAP/action_plans/september_2020_Sharing_Quality_Services.pdf"
+current-action-plan: "/CAP/action_plans/jan_2021_Sharing_Quality_Services.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -40,6 +40,7 @@ opportunity: "Improve the efficiency and effectiveness of the Federal
 government’s mission support services in the short and long term, leading
 to improved performance, customer experience, and operational costs. " #third accordion text
 
+action-2021-january: "/CAP/action_plans/jan_2021_Sharing_Quality_Services.pdf"
 action-2020-september: "/CAP/action_plans/september_2020_Sharing_Quality_Services.pdf"
 action-2020-july: "/CAP/action_plans/july_2020_Sharing_Quality_Services.pdf"
 
@@ -73,10 +74,10 @@ goal-leader-photo: "/img/CAP-photos/murphy-emily.jpg"
 alt_text_1: Photo of Emily Murphy   #Goal leader 1
 goal-leader-name: "Emily Murphy"
 goal-leader-title: "Administrator, General Services Administration"
-goal-leader-2-photo: "/img/CAP-photos/bio_maria1.jpg"
-alt_text_2: Photo of Maria Roat  #Goal leader 2
-goal-leader-2-name: "Maria Roat"
-goal-leader-2-title: "Deputy Federal Chief Information Officer, Office of Management and Budget"
+goal-leader-2-photo: "/img/homepage_images/logo-omb.png"
+alt_text_2: OMB logo  #Goal leader 2
+goal-leader-2-name: "Basil Parker"
+goal-leader-2-title: "Federal Chief Information Officer, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
