@@ -14,13 +14,11 @@ description: A year ago, the NFW pilot was a proposed idea that had just been na
 
 excerpt: A year ago, the NFW pilot was a proposed idea that had just been named a GEAR Center Challenge Grand Prize winner. It was recognized for its relevance to a government need and as an example of the power of a network of non-governmental organizations coming together proactively to apply research and innovation to solve a government management challenge. MITRE, the lead for this project, has spent the past year at the intersection of the public and private sectors, convening a group of federal, non-profit, academic, and private organizations to support this project.
 
-image: "/img/blog/mitre-blog.png"
+image: "/img/blog/mitre-blog.jpeg"
 image_accessibility: Colorful brain with words "Neurdiversity in the Federal Government"
 
 authors:
 - Teresa Thomas, Program Lead, Neurodiverse Talent Enablement at MITRE
-
-
 
 tags:
 - PMA
