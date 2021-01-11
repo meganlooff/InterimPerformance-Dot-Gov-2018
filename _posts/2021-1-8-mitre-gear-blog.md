@@ -2,7 +2,7 @@
 layout: post
 rating: "0"
 
-title: "Creating Exponential Impact Through Neurodiverse Hiring Practices"
+title: "Pilot Increases Neurodiversity in Government"
 
 permalink: /neurodiverse-hiring-gear-center-update/
 
@@ -10,9 +10,9 @@ summary: summary_large_image
 
 agency:
 
-description: A year ago, the NFW pilot was a proposed idea that had just been named a GEAR Center Challenge Grand Prize winner. It was recognized for its relevance to a government need and as an example of the power of a network of non-governmental organizations coming together proactively to apply research and innovation to solve a government management challenge. MITRE, the lead for this project, has spent the past year at the intersection of the public and private sectors, convening a group of federal, non-profit, academic, and private organizations to support this project.
+description: A year ago, the NFW pilot was an idea that had just been named a GEAR Center Challenge Grand Prize winner. It was recognized for its relevance to a government need and as an example of the power of a network of non-governmental organizations coming together proactively to apply research and innovation to solve a government management challenge. MITRE, the lead for this project, has spent the past year at the intersection of the public and private sectors, convening a group of federal, non-profit, academic, and private organizations to support this project.
 
-excerpt: A year ago, the NFW pilot was a proposed idea that had just been named a GEAR Center Challenge Grand Prize winner. It was recognized for its relevance to a government need and as an example of the power of a network of non-governmental organizations coming together proactively to apply research and innovation to solve a government management challenge. MITRE, the lead for this project, has spent the past year at the intersection of the public and private sectors, convening a group of federal, non-profit, academic, and private organizations to support this project.
+excerpt: A year ago, the NFW pilot was an idea that had just been named a GEAR Center Challenge Grand Prize winner. It was recognized for its relevance to a government need and as an example of the power of a network of non-governmental organizations coming together proactively to apply research and innovation to solve a government management challenge. MITRE, the lead for this project, has spent the past year at the intersection of the public and private sectors, convening a group of federal, non-profit, academic, and private organizations to support this project.
 
 image: "/img/blog/mitre-blog.jpeg"
 image_accessibility: Colorful brain with words "Neurdiversity in the Federal Government"
@@ -34,7 +34,7 @@ The NFW pilot functions as a single solution to address two issues: disproportio
 
 **Developing the Neurodiverse Federal Workforce**
 
-A year ago, the NFW pilot was a proposed idea that had just been named a [GEAR Center Challenge Grand Prize](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-and-omb-announce-government-effectiveness-advanced-research-center-challenge-winners) winner. It was recognized for its relevance to a government need and as an example of the power of a network of non-governmental organizations coming together proactively to apply research and innovation to solve a government management challenge. MITRE, the lead for this project, has spent the past year at the intersection of the public and private sectors, convening a group of federal, non-profit, academic, and private organizations to support this project.
+A year ago, the NFW pilot was an idea that had just been named a [GEAR Center Challenge Grand Prize](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-and-omb-announce-government-effectiveness-advanced-research-center-challenge-winners) winner. It was recognized for its relevance to a government need and as an example of the power of a network of non-governmental organizations coming together proactively to apply research and innovation to solve a government management challenge. MITRE, the lead for this project, has spent the past year at the intersection of the public and private sectors, convening a group of federal, non-profit, academic, and private organizations to support this project.
 
 MITRE and our partners, including Microsoft, SAP, DXC, Specialisterne, and five universities, have launched the first part of the program, a week-long evaluation boot camp for job candidates.  The six-month internship program with NGA for individuals on the spectrum will soon begin. Another program with a second agency is expected to begin in the coming months.
 
