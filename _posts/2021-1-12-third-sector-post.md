@@ -14,7 +14,7 @@ description: The Northern Virginia regional workforce board, Virginia Career Wor
 
 excerpt: The Northern Virginia regional workforce board, Virginia Career Works - Northern and its non-profit arm, the SkillSource Group, Inc., wanted to find a new way to solve a persistent challenge. Their WIOA training and employment programs for young adults were widely available. 
 
-image: "/img/blog/third-sector.jpg"
+image: "/img/blog/third-sector-tn.jpg"
 image_accessibility: "Group of animated teenagers"
 
 authors:
