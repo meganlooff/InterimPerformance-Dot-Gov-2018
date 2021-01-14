@@ -44,7 +44,7 @@ The idea was a winner. As one of three [Government Effectiveness Advanced Resear
 
 Third Sector embarked on a state-wide [“data journey”](https://www.performance.gov/GEAR-Center-challenge-winner-third-sector-post/) to understand which data to access, how to sustainably integrate the datasets, and which data partners are typically best suited for such efforts.
 
-**Today the [Data for Impact Roadmap and Toolkit](https://www.performance.gov/blog/GEAR-Third-Sector-Final-Report.pdf) is available for agencies.**
+**Today the [Data for Impact Roadmap and Toolkit]({{ site.baseurl }}/img/blog/GEAR-Third-Sector-Final-Report.pdf) is available for agencies.**
 
 The roadmap and toolkit allows agencies to:
 
