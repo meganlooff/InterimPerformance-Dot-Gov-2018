@@ -56,7 +56,7 @@ Today “Data for Impact” published a [roadmap and toolkit](https://drive.goog
 
 Under the visionary leadership of the Virginia [Chief Data Officer’s Commonwealth Data Trust](https://www.cdo.virginia.gov/resources/), organizations like SkillSource are poised to operationalize the data road map published today to reorient training and support programs for populations who face some of the highest barriers to economic opportunity. The group is currently applying the lessons learned from “Data for Impact” to understand how to better equip 18-24 year-olds secure training and stable employment.  
 
-Integrated fata allows government to:
+Integrated data allows government to:
 - Deeply understand community need
 - Tailor programs to the multiple challenges people face 
 - Understand the services most likely to lead to better outcomes 
