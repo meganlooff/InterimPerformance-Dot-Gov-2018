@@ -34,7 +34,7 @@ groundwork for further progress.
 ## Continued progress on A11 Section 280
 
 This past year our HISPs completed their second year of the annual activities outlined in
-[OMB Circular A-11 Section 280](https://www.performance.gov/cx/a11-280.pdf).
+[OMB Circular A-11 Section 280]({{ site.baseurl }}/cx/assets/files/a11-280.pdf).
 According to [Forrester’s US Federal Customer Experience Index,
 2020 report](https://www.forrester.com/report/The+US+Federal+Customer+Experience+Index+2020/-/E-RES162398),
 the quality of the US federal customer experience achieved its highest scores ever
