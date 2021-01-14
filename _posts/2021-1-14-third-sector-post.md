@@ -2,7 +2,7 @@
 layout: post
 rating: "0"
 
-title: "DATA FOR IMPACT: Virginia’s Data Provides Road Map for Opportunity Youth & Applications for Workforce Boards Nationwide"
+title: "DATA FOR IMPACT: Virginia’s Data Provides Workforce Road Map for Youth"
 
 permalink: /third-sector-gear-center-update/
 
@@ -44,7 +44,7 @@ The idea was a winner. As one of three [Government Effectiveness Advanced Resear
 
 Third Sector embarked on a state-wide [“data journey”](https://www.performance.gov/GEAR-Center-challenge-winner-third-sector-post/) to understand which data to access, how to sustainably integrate the datasets, and which data partners are typically best suited for such efforts. 
 
-Today “Data for Impact” published a [roadmap and toolkit](https://www.performance.gov/blog/GEAR-Third-Sector-Final-Report.pdf) for government agencies to:
+Today the [Data for Impact roadmap and toolkit is available](https://www.performance.gov/blog/GEAR-Third-Sector-Final-Report.pdf) for public agencies to:
 
 - Describe the availability of data on public benefits utilization and recidivism, and the feasibility of accessing such data for local implementers like Virginia workforce boards 
 - Discuss the value of outcomes data integration and [continuous improvement processes](https://www.thirdsectorcap.org/blog/principles-for-continuous-improvement-collaborative-data-driven-conversations/) for programs administered by local government agencies
