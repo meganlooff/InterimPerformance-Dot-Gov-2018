@@ -44,7 +44,7 @@ The idea was a winner. As one of three [Government Effectiveness Advanced Resear
 
 Third Sector embarked on a state-wide [“data journey”](https://www.performance.gov/GEAR-Center-challenge-winner-third-sector-post/) to understand which data to access, how to sustainably integrate the datasets, and which data partners are typically best suited for such efforts. 
 
-Today the [Data for Impact roadmap and toolkit is available](https://www.performance.gov/blog/GEAR-Third-Sector-Final-Report.pdf) for public agencies to:
+Today the [Data for Impact roadmap and toolkit is available](https://www.performance.gov/blog/GEAR-Third-Sector-Final-Report.pdf) for public agencies. The roadmap and toolkit allows agencies to: 
 
 - Describe the availability of data on public benefits utilization and recidivism, and the feasibility of accessing such data for local implementers like Virginia workforce boards 
 - Discuss the value of outcomes data integration and [continuous improvement processes](https://www.thirdsectorcap.org/blog/principles-for-continuous-improvement-collaborative-data-driven-conversations/) for programs administered by local government agencies
@@ -65,5 +65,5 @@ Other workforce boards should consider implementing similar data integration eff
 
 Systems-level data coordination ultimately accelerates the impact of [WIOA Adult Training and Employment](https://www.dol.gov/agencies/eta/performance/tegls), [WIOA Pay for Performance](https://wdr.doleta.gov/directives/corr_doc.cfm?DOCN=5237), and multi-agency efforts like [P3](https://youth.gov/youth-topics/reconnecting-youth/performance-partnership-pilots) and the [One Workforce](https://www.dol.gov/newsroom/releases/osec/osec20201102-0) initiative. We know that the road map and toolkit can help improve workforce development outreach, skills gain and employment, and ensure lasting impact after WIOA program completion. Check it out today. 
 
-
+*For more information on this effort, please contact the Third Sector team at info@thirdsectorcap.org. View the the [Data for Impact roadmap and toolkit.(https://www.performance.gov/blog/GEAR-Third-Sector-Final-Report.pdf)*
 
