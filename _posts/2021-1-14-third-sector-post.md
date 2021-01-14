@@ -44,21 +44,26 @@ The idea was a winner. As one of three [Government Effectiveness Advanced Resear
 
 Third Sector embarked on a state-wide [“data journey”](https://www.performance.gov/GEAR-Center-challenge-winner-third-sector-post/) to understand which data to access, how to sustainably integrate the datasets, and which data partners are typically best suited for such efforts. 
 
-Today “Data for Impact” published a [roadmap and toolkit]  for government agencies to:
+Today “Data for Impact” published a [roadmap and toolkit](https://drive.google.com/file/d/18ownvrU-q05lsYaE2fbW3rO-PLp1zxr1/view?usp=sharing) for government agencies to:
 
 - Describe the availability of data on public benefits utilization and recidivism, and the feasibility of accessing such data for local implementers like Virginia workforce boards 
 - Discuss the value of outcomes data integration and [continuous improvement processes](https://www.thirdsectorcap.org/blog/principles-for-continuous-improvement-collaborative-data-driven-conversations/) for programs administered by local government agencies
 - Offer recommendations and next steps at the local, state, and federal levels to embed racial equity in program implementation and broadly improve performance management
 
-<a href="{{ site.baseurl }}/img/blog/data-for-impact.png"><img src="{{ site.baseurl }}/img/blog/data-for-impact.png"></a> <center><i style="font-size: 12px;">There are many social services that 18-24-year-old youth with prior involvement in the foster care or juvenile justice system, and who are out of school and not employed might interact with. This “Data for Impact” project pulls all that data together, so programs are more tailored to the needs of the individual.</i></center>
+<a href="{{ site.baseurl }}/img/blog/data-for-impact.png"><img src="{{ site.baseurl }}/img/blog/data-for-impact.png"></a> <center><i style="font-size: 12px;">There are many social services that 18-24-year-old youth (with prior involvement in the foster care or juvenile justice system, and who are out of school and not employed) might interact with. This “Data for Impact” project pulls all that data together, so programs are more tailored to the needs of the individual.</i></center>
 
 **What's Next**
 
 Under the visionary leadership of the Virginia [Chief Data Officer’s Commonwealth Data Trust](https://www.cdo.virginia.gov/resources/), organizations like SkillSource are poised to operationalize the data road map published today to reorient training and support programs for populations who face some of the highest barriers to economic opportunity. The group is currently applying the lessons learned from “Data for Impact” to understand how to better equip 18-24 year-olds secure training and stable employment.  
 
-<img src="../img/blog/integrated-data.png" style="width:650px;">
+Integrated fata allows government to:
+- Deeply understand community need
+- Tailor programs to the multiple challenges people face 
+- Understand the services most likely to lead to better outcomes 
 
-Other workforce boards should consider implementing similar data integration efforts to help inform how to maximize the impact of scarce resources when faced with rising unemployment rates nationwide.  Continued federal support for effort like “Data for Impact” ensures that training and funding from federal agencies are invested in efforts that holistically address community barriers to employment. Systems-level data coordination ultimately accelerates the impact of [WIOA Adult Training and Employment](https://www.dol.gov/agencies/eta/performance/tegls), [WIOA Pay for Performance](https://wdr.doleta.gov/directives/corr_doc.cfm?DOCN=5237), and multi-agency efforts like [P3](https://youth.gov/youth-topics/reconnecting-youth/performance-partnership-pilots) and the [One Workforce](https://www.dol.gov/newsroom/releases/osec/osec20201102-0) initiative. We know that the road map and toolkit can help improve workforce development outreach, skills gain and employment, and ensure lasting impact after WIOA program completion. Check it out today. 
+Other workforce boards should consider implementing similar data integration efforts to help inform how to maximize the impact of scarce resources when faced with rising unemployment rates nationwide. Continued federal support for efforts like “Data for Impact” ensures that training and funding from federal agencies are invested in efforts that holistically address community barriers to employment. 
+
+Systems-level data coordination ultimately accelerates the impact of [WIOA Adult Training and Employment](https://www.dol.gov/agencies/eta/performance/tegls), [WIOA Pay for Performance](https://wdr.doleta.gov/directives/corr_doc.cfm?DOCN=5237), and multi-agency efforts like [P3](https://youth.gov/youth-topics/reconnecting-youth/performance-partnership-pilots) and the [One Workforce](https://www.dol.gov/newsroom/releases/osec/osec20201102-0) initiative. We know that the road map and toolkit can help improve workforce development outreach, skills gain and employment, and ensure lasting impact after WIOA program completion. Check it out today. 
 
 
 
