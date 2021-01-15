@@ -2,7 +2,7 @@
 layout: cx_post
 rating: "0"
 
-title: "What have we learned from Federal customers in FY20?"
+title: "What we have learned from Federal customers in FY20"
 
 permalink: /cx/blog/what-we-learned-from-customers-2020/
 
