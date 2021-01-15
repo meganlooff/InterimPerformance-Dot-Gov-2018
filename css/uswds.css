@@ -8140,3 +8140,10 @@ img .news {
 .usa-media_block-body > a{
   display: block;
 }
+
+
+@media screen and (max-width: 950px) {
+  .twitter-iframe {
+    width: 90%;
+  }
+}
