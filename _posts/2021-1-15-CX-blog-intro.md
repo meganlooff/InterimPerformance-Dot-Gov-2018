@@ -29,7 +29,7 @@ We’re excited to introduce the [Federal Customer Experience (CX) Blog](https:/
 
 **Check out the latest posts to learn more about efforts to modernize and streamline customer experience across government!**
 
-**January 15, 2021:** What Have We Learned from Federal customers in FY20? 
+**January 15, 2021:** [What Have We Learned from Federal customers in FY20?](https://www.performance.gov/cx/blog/what-we-learned-from-customers-2020/)
 
 *The CX Team launched a survey to solicit feedback from the public on how to improve agency services. The team has received 2M+ responses so far and plans to use this data to inform agency CX operations.*
 
