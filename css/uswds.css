@@ -2890,6 +2890,7 @@ transition: all 0.4s ease;
   .usa-footer-primary-section .usa-footer-primary-content {
     padding-left: 0;
     padding-right: 0;
+    width: 12rem;
   }
 }
 
@@ -3139,6 +3140,7 @@ li.usa-footer-primary-content:last-child {
 @media screen and (min-width: 600px) {
   .usa-footer-big ul:last-child {
     border-bottom: none;
+    width: 28rem;
   }
 }
 
