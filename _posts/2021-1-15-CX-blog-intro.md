@@ -35,7 +35,7 @@ We’re excited to introduce the [Federal Customer Experience (CX) Blog](https:/
 
 **January 13, 2021:** [Amplify 2020: Developing Customer Understanding During a Pandemic](https://www.performance.gov/cx/blog/amplify-program/)
 
-*Despite the COVID-19 pandemic, the Amplify Training Program successfully launched in June 2020 with nine federal agencies (including six HISPs) participating in a three-month customer experience development program. The program focused on training HISP teams to properly investigate existing administrative data and conduct new qualitative research.* 
+*Despite the COVID-19 pandemic, the Amplify Training Program successfully launched in June 2020 with nine federal agencies, including six High Impact Service Providers (HISP) participating in a three-month customer experience development program. The program focused on training HISP teams to properly investigate existing administrative data and conduct new qualitative research.* 
 
 **January 8, 2021:** [Reflection on Federal Customer Experience Efforts in FY20](https://www.performance.gov/cx/blog/reflection-on-federal-customer-experience-efforts-in-2020/) 
 
