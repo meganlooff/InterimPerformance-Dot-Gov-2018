@@ -822,6 +822,10 @@ body {
   .usa-width-seven-twelfths:last-child {
     margin-right: 0;
   }
+  .performance-footer {
+    display: flex;
+    justify-content: space-between;
+  }
 }
 
 .usa-end-row {
