@@ -37,7 +37,7 @@ Those who have lived through a major natural disaster are facing one of the most
       {% if hisp.service_id == "hud-fha" or hisp.service_id == "sba-fo" or hisp.service_id == "ssa-oo" or hisp.service_id == "dhs-fema" or hisp.service_id == "dhs-fema" or hisp.service_id == "usda-fsa" %}
       <div class="usa-width-one-sixth usa-media_block">
         <div style="height: 200px; text-align: center;">
-          <img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png"
+          <img src="{{ site.baseurl }}/cx/assets/images/agencies/{{ hisp.department_abbreviation }}-seal.png"
             alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
           <p style="font-size:.8em;">{{ hisp.department }}</p>
         </div>

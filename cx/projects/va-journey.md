@@ -35,7 +35,7 @@ Many veterans have jobs, but the jobs are low-wage and do not offer opportunitie
   <div class="usa-grid">
     <div class="usa-width-one-sixth usa-media_block">
       <div style="height:200px; text-align: center;">
-        <img src="{{ site.baseurl }}/img/cx/agencies/dod-seal.png" alt="Department of Defense seal" style="width:80px;"><br />
+        <img src="{{ site.baseurl }}/cx/assets/images/agencies/dod-seal.png" alt="Department of Defense seal" style="width:80px;"><br />
         <p style="font-size:.8em;">Department of Defense</p>
       </div>
     </div>
@@ -43,7 +43,7 @@ Many veterans have jobs, but the jobs are low-wage and do not offer opportunitie
       {% if hisp.service_abbreviation == "osha" or hisp.service_id == "va-vha" or hisp.department_abbreviation == "sba" %}
       <div class="usa-width-one-sixth usa-media_block">
         <div style="height:200px; text-align: center;">
-          <img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png"
+          <img src="{{ site.baseurl }}/cx/assets/images/agencies/{{ hisp.department_abbreviation }}-seal.png"
             alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
           <p style="font-size:.8em;">{{ hisp.department }}</p>
         </div>

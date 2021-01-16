@@ -43,7 +43,7 @@ This journey shows a person with an intellectual disability, who has limits in t
       {% if hisp.service_id == "hud-fha" or hisp.service_id == "dol-osha" or hisp.service_id == "ssa-oo" or hisp.service_id == "ed-fsa" or hisp.service_id == "hhs-medicare" %}
       <div class="usa-width-one-sixth usa-media_block">
         <div style="height:200px; text-align: center;">
-          <img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png"
+          <img src="{{ site.baseurl }}/cx/assets/images/agencies/{{ hisp.department_abbreviation }}-seal.png"
             alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
           <p style="font-size:.8em;">{{ hisp.department }}</p>
         </div>
