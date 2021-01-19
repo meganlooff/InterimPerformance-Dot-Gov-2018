@@ -8147,3 +8147,26 @@ img .news {
     width: 90%;
   }
 }
+
+.other-info-title {
+  margin-bottom: .2rem !important;
+}
+
+.footer-two-columns {
+  display: flex;
+  list-style-type: none;
+}
+
+.footer-two-columns .first-column {
+  margin-right: 2rem;
+}
+
+@media screen and (max-width: 500px) {
+  .footer-two-columns {
+    display: block;
+  }
+
+  .other-info-title {
+    margin-bottom: initial;
+  }
+}
