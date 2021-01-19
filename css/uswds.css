@@ -8152,16 +8152,17 @@ img .news {
   margin-bottom: .2rem !important;
 }
 
-.footer-two-column {
+.footer-two-columns {
   display: flex;
+  list-style-type: none;
 }
 
-.footer-two-column .first-column {
+.footer-two-columns .first-column {
   margin-right: 2rem;
 }
 
 @media screen and (max-width: 500px) {
-  .footer-two-column {
+  .footer-two-columns {
     display: block;
   }
 
