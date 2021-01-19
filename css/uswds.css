@@ -8147,3 +8147,33 @@ img .news {
     width: 90%;
   }
 }
+
+.performance-footer-two-columns {
+  margin-left: 4rem;
+}
+
+.other-info-title {
+  margin-bottom: .2rem !important;
+}
+
+.footer-two-column {
+  display: flex;
+}
+
+.footer-two-column .first-column {
+  margin-right: 2rem;
+}
+
+@media screen and (max-width: 500px) {
+  .footer-two-column {
+    display: block;
+  }
+
+  .performance-footer-two-columns {
+    margin-left: 0;
+  }
+
+  .other-info-title {
+    margin-bottom: initial;
+  }
+}
