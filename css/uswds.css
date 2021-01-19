@@ -8148,10 +8148,6 @@ img .news {
   }
 }
 
-.performance-footer-two-columns {
-  margin-left: 4rem;
-}
-
 .other-info-title {
   margin-bottom: .2rem !important;
 }
@@ -8167,10 +8163,6 @@ img .news {
 @media screen and (max-width: 500px) {
   .footer-two-column {
     display: block;
-  }
-
-  .performance-footer-two-columns {
-    margin-left: 0;
   }
 
   .other-info-title {
