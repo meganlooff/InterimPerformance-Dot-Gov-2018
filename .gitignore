@@ -4,3 +4,4 @@ errorpage_grid.html
 _site
 .DS_Store
 *.lock
+.idea
