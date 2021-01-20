@@ -48,18 +48,32 @@ The OMB team facilitated interagency teams with collaborating partners from mult
   <div class="usa-grid">
     <div class="usa-width-one-sixth usa-media_block">
       <div style="height:200px; text-align: center;">
-        <img src="{{ site.baseurl }}/img/cx/agencies/dod-seal.png" alt="Department of Defense seal" style="width:80px;"><br />
+        <img src="{{ site.baseurl }}/cx/assets/images/agencies/omb-seal.png" alt="OMB seal" style="width:80px;"><br />
+        <p style="font-size:.8em;">Office of Management and Budget</p>
+      </div>
+    </div>
+    <div class="usa-width-one-sixth usa-media_block">
+      <div style="height:200px; text-align: center;">
+        <img src="{{ site.baseurl }}/cx/assets/images/agencies/gsa-logo.jpg" alt="GSA logo" style="width:80px;"><br />
+        <p style="font-size:.8em;">General Services Administration</p>
+      </div>
+    </div>
+    <div class="usa-width-one-sixth usa-media_block">
+      <div style="height:200px; text-align: center;">
+        <img src="{{ site.baseurl }}/cx/assets/images/agencies/dod-seal.png" alt="Department of Defense seal" style="width:80px;"><br />
         <p style="font-size:.8em;">Department of Defense</p>
       </div>
     </div>
     {% for hisp in site.data.hisps %}
+      {% if hisp.service_id == "va-vha" or hisp.service_id == "opm-fes" or hisp.service_id == "dol-osha" or hisp.service_id == "opm-fes" or hisp.service_id == "ssa-oo" or hisp.service_id == "hud-fha" or hisp.service_id == "ed-fsa" or hisp.service_id == "hhs-marketplace" or hisp.service_id == "dhs-fema" or hisp.service_id == "sba-fo" %}
       <div class="usa-width-one-sixth usa-media_block">
         <div style="height:230px; text-align: center;">
-          <img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png"
+          <img src="{{ site.baseurl }}/cx/assets/images/agencies/{{ hisp.department_abbreviation }}-seal.png"
             alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
-          <p style="font-size:.8em;">{{ hisp.service }}</p>
+          <p style="font-size:.8em;">{{ hisp.department }}</p>
         </div>
       </div>
+      {% endif %}
     {% endfor %}
   </div>
 </section>

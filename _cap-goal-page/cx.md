@@ -18,7 +18,7 @@ cap-icon: "/img/CAP_icons/Icon_Improving_Customer_gray.png" ##### #icon that app
 
 
 resource-2-name: 2019 CX Action Plan Summary
-resource-2-url: https://www.performance.gov/CX-HISP-Action-Plans
+resource-2-url: https://www.performance.gov/cx/blog/CX-HISP-Action-Plans/
 
 resource-3-name: 2019 State of Government-wide CX
 resource-3-url: https://www.performance.gov/improving-cx-governmentwide
@@ -33,7 +33,7 @@ resource-6-name: Customer Experience Services Evaluation and Buying Guide
 resource-6-url: https://www.performance.gov/cx/CX-Evaluation-and-Buying-Guide.pdf
 
 resource-7-name: Mapping the Cross-Agency Experience
-resource-7-url: https://www.performance.gov/mapping-cx-journey/
+resource-7-url: https://www.performance.gov/cx/blog/journey-mapping/
 
 resource-8-name: Tips for Starting on your CX Journey
 resource-8-url: https://www.performance.gov/tips-for-starting-your-customer-experience-journey/

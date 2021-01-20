@@ -1,6 +1,7 @@
 ---
 layout: cx_post
 rating: "0"
+cx_rating: "1"
 
 title: "What we have learned from Federal customers in FY20"
 
