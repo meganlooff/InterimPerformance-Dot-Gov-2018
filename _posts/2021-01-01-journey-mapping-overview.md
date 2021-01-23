@@ -26,17 +26,17 @@ tags:
   - Customer Experience
 ---
 
-Rebuilding trust the American people have in our government will require transforming public service delivery. This must include building a deep understanding of how individuals experience service journeys from their perspective, rather than our bureaucratic one.  To effectively deliver public programs and services, they should be designed and delivered in a way that is intuitive, accessible, and responsive.
+Rebuilding the trust that the American people have in our government will require transforming public service delivery. This must include building a deep understanding of how individuals experience service journeys from their perspective, rather than our bureaucratic one.  To effectively deliver public programs and services, they should be designed and delivered in a way that is intuitive, accessible, and responsive.
 
-Imagine if the U.S. government understood how each of its services were part of a broader customer journey. How might federal agencies change their approach or even work together? How might citizens think differently about those services and their overall experience with government?
+Imagine if the U.S. government understood how each of its services were part of a broader customer journey. How might Federal agencies change their approach or even work together? How might citizens think differently about those services and their overall experience with government?
 
 A journey is one way to look at an experience and tell a story. Many in the private (and now public) sector use a process of “journey mapping” to provide multiple stakeholders with a common understanding of how a customer interacts with a service. You may have heard of tools like “user personas,” “customer maps,” “user journeys,” “behavioral maps,” "service blueprints," and more.
 
-Our team believes deeply in these processes to build shared knowledge of customer needs, using a physical artifact to ground conversations about improvements and priorities. These journeys can be mapped at all kinds of levels – from a specific interaction visiting a service center to change your name and apply for a new Social Security card, to an individual’s overall lifetime experience interacting with the Social Security Administration.
+Our team believes deeply in these processes to build shared knowledge of customer needs, using a physical artifact to ground conversations about improvements and priorities. These journeys can be mapped at all kinds of levels— from a specific interaction visiting a service center to change your name and apply for a new Social Security card, to an individual’s overall lifetime experience interacting with the Social Security Administration.
 
 To begin to build further understanding of the individuals that we serve, the Federal Customer Experience Initiative (FCXI) team at the Office of Management and Budget (OMB) collaborated with civil servants representing more than a dozen Federal agencies to develop three customer journey maps.
 
-We conducted more than 150 interviews of Service members and Veterans, persons with a disability, their family members, disaster survivors, advocacy and non-profit organizations’ representatives, case managers, service providers, and government employees at Federal, State and local levels. We also designed and deployed surveys of the disaster and disability customer communities, and collected over 350 survey responses.
+We conducted more than 150 interviews of service members and veterans, persons with a disability, their family members, disaster survivors, advocacy and non-profit organizations’ representatives, case managers, service providers, and government employees at Federal, State and local levels. We also designed and deployed surveys of the disaster and disability customer communities, and collected over 350 survey responses.
 
 Our objective was to model what it would be like to take this human-centered approach with agencies across government, orienting around individuals that we all serve. Through this effort, many civil servants conducted human-centered design research methods for the first time, were able to collaborate and meet colleagues that work in similar areas across government, and identify specific bottlenecks that are meaningful to real people, for us to focus our improvement efforts. Many of our collaborators have already begun using the insights they learned from these projects, applying the methods we used in other areas of their work, and are working with us on forming multi-disciplinary and multi-agency teams to continue this design process in challenge areas identified.
 
@@ -108,6 +108,7 @@ It is important to note that agency partners may have drawn these journey maps d
     </p>
   </div>
 </div>
+<br>
 
 ### Building More Detailed Service Blueprints
 
@@ -123,7 +124,7 @@ Together, these layers can build a more accurate picture of what matters most to
 
 ## Government-wide Experience Lessons Learned
 
-Our team attempted to incorporate data from each of the layers described above, focusing primarily on the first – qualitative customer data. Based on our design workshops, focus groups, interviews and surveys to produce these maps, we identified six insights that apply in multiple customer experiences interacting with government, [some elements of which we also discussed in 2018]({{ site.baseurl }}/cx/blog/improving-cx-governmentwide/).
+Our team attempted to incorporate data from each of the layers described above, focusing primarily on the first–qualitative customer data. Based on our design workshops, focus groups, interviews and surveys to produce these maps, we identified six insights that apply in multiple customer experiences interacting with government, [some elements of which we also discussed in 2018]({{ site.baseurl }}/cx/blog/improving-cx-governmentwide/).
 
 1. Government services and information are siloed in discrete agencies across the Federal government, and also at the state and local levels, a distinction that is meaningless to an individual trying to address a need. This can also make it difficult for people to have a complete picture of what support is available.
 > "When I look for resources online, it’s so overwhelming and information is everywhere. I usually just ask people I know that have gone through it." – Dana
@@ -140,7 +141,7 @@ Our team attempted to incorporate data from each of the layers described above, 
 
 ## What’s next?
 
-Dedicated Federal employees work each day for the people that they serve - while many do their best to collaborate, and often provide good service within their silo, we know customers are frustrated with gaps created by our organizational lines. People experience life events, not Federal agencies. Customer needs should shape and determine public services. However, since Congress funds agencies, not life events, it is our responsibility to implement coordinated services that bridge that gap. Otherwise, we risk failing to achieve the very mission we are expected to deliver.
+Dedicated Federal employees work each day for the people that they serve-while many do their best to collaborate, and often provide good service within their silo, we know customers are frustrated with gaps created by our organizational lines. People experience life events, not Federal agencies. Customer needs should shape and determine public services. However, since Congress funds agencies, not life events, it is our responsibility to implement coordinated services that bridge that gap. Otherwise, we risk failing to achieve the very mission we are expected to deliver.
 
 While spotting insights consistent across interviews and surveys is a beginning, and adding further data to build more robust service blueprints can help pinpoint areas for improvement, empathic human-centered service design requires more—specifically, that we involve the very people these programs are intended to serve in the development of solutions and redesign of our systems.
 

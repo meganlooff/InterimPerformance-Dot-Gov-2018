@@ -45,7 +45,7 @@ maps and personas, and refining customer segmentation, others still cited barrie
 cost, technology, complexity, low prioritization by leadership, lack of staff time and expertise,
 and the Paperwork Reduction Act (PRA). OMB probed these barriers during meetings with
 HISPs. The meetings yielded a few insights, and primarily pointed to two blockers: 1) service
-teams simply don&#39;t know how to gather feedback directly from customers on a regular basis and
+teams simply don’t know how to gather feedback directly from customers on a regular basis and
 often default to surveys only (If at all), and 2) many overthink the requirements (time, money, and training) needed to start customer research. To provide direct coaching and collaboration
 kick-starting this work, we realized that many HISPs could benefit from a program to amplify
 their customer understanding.
@@ -88,9 +88,6 @@ Participants had access to 6 modules on the topics of Problem Framing, Building
 Internal Capacity, Quantitative Data, Qualitative Research, Developing Insights, and
 Storytelling. Modules include recorded video lectures on the topic, related workbook exercises,
 and additional resources.
-
-![]()
-
 <b>2. Research.</b>
 Participants were encouraged to interview 6 customers as a key part of their work
 in this program.
@@ -106,7 +103,7 @@ hear progress updates and questions from Amplify participants.
 ## Five Takeaways from the 2020 Amplify Program
 
 The program ran for nine weeks from June through early August 2020. All nine agencies who
-started the program completed it. Here&#39;s what we learned:
+started the program completed it. Here’s what we learned:
 
 #### A successful structure to accommodate different needs
 
@@ -135,9 +132,7 @@ should precede external research.
 
 One Amplify participant used the Stakeholder Map (from the Building Internal Capacity module)
 to help her figure out who to contact internally, as she tries to build buy-in with the program
-offices. Another participant recognized how just changing the interaction of claims examiners
-
-and insurance/benefits calls would have a huge impact on the experience of citizens applying
+offices. Another participant recognized how just changing the interaction of claims examiners and insurance/benefits calls would have a huge impact on the experience of citizens applying
 for benefits.
 
 #### Leadership engagement is essential
@@ -160,13 +155,13 @@ Not a single agency required a PRA clearance to effectively participate in Ampli
 research can be started in earnest by talking to fewer than ten people. Technology was also not
 a barrier (outside of occasionally getting into Zoom meetings!). Myth-busting the belief that good
 customer research required teams of expert consultants, expensive IT, and lots of approvals
-was empowering for agency teams - however, the role of a coach to check in with weekly, to
+was empowering for agency teams &emdash; however, the role of a coach to check in with weekly, to
 provide advice and feedback on approach, and general guidance on HCD research techniques
 was critical. It was encouraging to see that even just a few office hours over the course of
 several months could have a huge Impact on the ability of existing Federal FTE to do customer
 understanding work.
 
-####  Amplify Public Trust
+####  Amplify public trust
 
 The inaugural Amplify program has provided valuable Insights to our team and how we think
 about the Customer Understanding guidance across government. First, this program reaffirms
@@ -179,41 +174,38 @@ raised:
 * What degree of customer understanding is reasonable to expect of agency teams at
 different levels of maturity across government?
 * What activities should HISPs (and others) be doing to demonstrate competency towards
-A-11 Section 280&#39;s section on customer understanding?
+A-11 Section 280’s section on customer understanding?
 
-These questions surface the compliance issue. How, and should, the maturity of an agency&#39;s
-Customer Understanding program be measured and enforced? We don&#39;t currently have an
+These questions surface the compliance issue. How, and should, the maturity of an agency’s
+Customer Understanding program be measured and enforced? We don’t currently have an
 accountability mechanism, other than beginning to publicly post trust scores on
-performacne.gov/cx, to hold Federal agencies to account for &quot;understanding their customer.&quot; In
+performance.gov/cx, to hold Federal agencies to account for “understanding their customer.” In
 fact, leaders are not often rewarded for these types of successes. And, how do we ensure that
 we are sure to communicate the value that comes from taking a human/customer-centered
-approach, so that this doesn&#39;t simply become a box-checking exercise, but practices that
+approach, so that this doesn’t simply become a box-checking exercise, but practices that
 leaders seek to create the time and space for? The participating teams in Amplify demonstrated
-interest extending these practices beyond the program, using the &quot;compliance&quot; angle as an
+interest extending these practices beyond the program, using the “compliance” angle as an
 initial hook for their leadership to support their efforts.
 
-## What&#39;s next?
+## What’s next?
 
 HISP teams that did customer research demonstrated that remote qualitative research can be
-effective - it can even enable new types of outreach and customer voices that are represented.
+effective — it can even enable new types of outreach and customer voices that are represented.
 Virtual team meetings, synthesis, and presentations also work. The COVID-19 pandemic will eventually subside. Traditional methods of customer research, including in-person interviews,
 observations, and team synthesis may return. But we’ve seen through Amplify that non-
 traditional approaches work and they can stay, perhaps making Customer Understanding even
 more accessible for CX teams.
-
-![]()
 
 Customer Understanding is about being in tune with and responsive to customer needs. This
 goes for firmly established services and customer segments. It also plays out in unpredictable
 and urgent times of need, as we’ve seen with COVID-19. The response we have seen shows us
 how important it is to have channels open and feedback systems in place to learn quickly and
 robustly from the public. This way, the Federal Government can learn, understand, and be
-responsive to improve experiences, building the public&#39;s trust in public services and our
+responsive to improve experiences, building the public’s trust in public services and our
 government.
 
 Our team will continue to explore how we can provide central capacity in the form of office hours
 to directly help HISP teams doing customer research and survey measurement work, as this
-support navigating bureaucratic barriers has proven Invaluable. We&#39;ve also packaged ALL of
+support navigating bureaucratic barriers has proven Invaluable. We’ve also packaged ALL of
 our program materials, so that others across government can complete the modules and use
-the templates and resources we produced. Federal employees can find them on OMB Max at
-this link.
+the templates and resources we produced. Federal employees can find them on [OMB Max](https://community.max.gov/display/Performance/2020+Amplify+Program).

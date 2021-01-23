@@ -21,6 +21,7 @@ authors:
 tags:
   - cx
   - PMA
+  - Service Design
 ---
 
 As we reflect on the third year of the President’s Management Agenda and Cross-Agency
@@ -82,13 +83,13 @@ roots.”
 
 ## 2020 Action Plans
 
-In addition to their annual assessments our HISP community also delivered a range of forward-
-looking Action Plans, sharing individual progress and future plans with the public. Building upon
+In addition to their annual assessments our HISP community also delivered a range of forward-looking
+Action Plans, sharing individual progress and future plans with the public. Building upon
 prior year efforts the Action Plans represent a variety of projects across our core functions with
 different timelines and impacts. As we transition to more year over year reporting, we’ll continue
 to recognize consistent areas of action across HISP’s (e.g. call center, process/digital, training,
 governance) and highlight learnings, identify trends, and important milestones to ensure
-consistent, continuous improvement..
+consistent, continuous improvement.
 
 Below is a snapshot and highlights cross functional opportunities being addressed by multiple
 agencies with some examples within each:
@@ -151,15 +152,15 @@ interviewed, and selected a cohort of amazing talent in six weeks. We recently k
 our pilot cohort of more than 18 outstanding individuals, many starting a role in Federal
 service for the first time.
 * Working with the Lab at OPM this summer, we developed and launched a new CX
-training program called Amplify geared towards supporting Federal teams seeking to mature their customer understanding practices (one of the lowest-scoring functions
+training program called [Amplify]({{ site.baseurl }}/cx/blog/amplify-program/) geared towards supporting Federal teams seeking to mature their customer understanding practices (one of the lowest-scoring functions
 across all HISPs in both FY19 and FY20 CX maturity assessments). Quickly shifting its
 entire format due to the COVID-19 pandemic, the program included remote town hall
 convenings, six training modules with accompanying videos, remote coaching from Lab
-Service Designers, and share-out forums. All of the modules will be accessible to federal
+Service Designers, and share-out forums. All of the modules are available to Federal
 agencies on OMB Max. By focusing on understanding customer contexts and needs the
 development of Federal products and services is more certain to meet their needs,
 resulting in more positive experiences with those agencies. After reorienting the
-program to be entirely virtual, it carried forward with six federal agencies and completed
+program to be entirely virtual, it carried forward with six Federal agencies and completed
 in August.
 * Working with GSA’s TTS Feedback Analytics team, we partnered with the leaders of 24
 services, such as VA outpatient care and Farmers.gov, to build a [Cross Agency CX
@@ -181,9 +182,10 @@ Management Agenda and beyond.
 
 As part of these efforts the team is currently working on an extensive Federal strategy focused
 on creating the next phase of bolder actions to take to transform public service delivery. As part
-of this engagement, [we are developing two customer journey maps focused the ways in which
-individuals with a disability and individuals surviving a disaster]({{ site.baseurl }}/cx/blog/2020-cx-maps/) must navigate public services –
-both life are experiences that involve not just multiple Federal agencies, but multiple levels of
+of this engagement, we have developed [two customer journey maps focused on
+individuals with a disability and individuals surviving a disaster]({{ site.baseurl }}/cx/blog/2020-cx-maps/)
+must navigate public services—both
+life are experiences that involve not just multiple Federal agencies, but multiple levels of
 government. Through this research, we will highlight and identify areas in which structural,
 budgetary, legal, cultural, and other barriers are preventing 21 st century service delivery.
 

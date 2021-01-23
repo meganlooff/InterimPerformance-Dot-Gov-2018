@@ -29,7 +29,7 @@ To Claire and her family, these are a series of decisions to make on what servic
 
 People with disabilities and their families receive critical support from the government, interacting with agencies at the Federal, state, and local level. At times, this can be challenging for individuals and their families to understand the full scope of what support is available and to decide what is right for them. Individuals and their families must research, apply, and weave together support from each agency individually over the course of their life.
 
-The federal government currently spends $70 Billion dollars annually across 45+ programs and 50+ delivery systems to assist 7 - 8 million people living with an intellectual disability.
+The Federal government currently spends $70 Billion dollars annually across 45+ programs and 50+ delivery systems to assist 7 - 8 million people living with an intellectual disability.
 
 This journey shows a person with an intellectual disability, who has limits in their ability to learn and function in daily life, transitioning from childhood to adulthood. This transition period has been described as a “cliff,” with the policies, protections, and supports provided during school ending. This phase is full of big decisions that influence the rest of the person’s life, making it particularly challenging to navigate.
 
